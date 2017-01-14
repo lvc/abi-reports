@@ -1,0 +1,152 @@
+{
+  "Title":      "glibc",
+  "SourceUrl":  "http://ftp.gnu.org/gnu/glibc/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/glibc/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "2.24",
+    "From":              "2.23",
+    "BC":                "99.76%",
+    "Added":             3,
+    "Removed":           0,
+    "TotalProblems":     5,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      12
+  },
+  {
+    "Version":           "2.23",
+    "From":              "2.22",
+    "BC":                "99.96%",
+    "Added":             3,
+    "Removed":           0,
+    "TotalProblems":     23,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      12
+  },
+  {
+    "Version":           "2.22",
+    "From":              "2.21",
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     3,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      12
+  },
+  {
+    "Version":           "2.21",
+    "From":              "2.20",
+    "BC":                "95.57%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     27,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      12
+  },
+  {
+    "Version":           "2.20",
+    "From":              "2.19",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      12
+  },
+  {
+    "Version":           "2.19",
+    "From":              "2.18",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     16,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      12
+  },
+  {
+    "Version":           "2.18",
+    "From":              "2.17",
+    "BC":                "99.68%",
+    "Added":             2,
+    "Removed":           0,
+    "TotalProblems":     7,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      12
+  },
+  {
+    "Version":           "2.17",
+    "From":              "2.16.0",
+    "BC":                "99.87%",
+    "Added":             5,
+    "Removed":           0,
+    "TotalProblems":     21,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      12
+  },
+  {
+    "Version":           "2.16.0",
+    "From":              "2.15",
+    "BC":                "100%",
+    "Added":             6,
+    "Removed":           0,
+    "TotalProblems":     47,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      12
+  },
+  {
+    "Version":           "2.15",
+    "From":              "2.14.1",
+    "BC":                "99.92%",
+    "Added":             7,
+    "Removed":           1,
+    "TotalProblems":     1,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      12
+  },
+  {
+    "Version":           "2.14.1",
+    "From":              "2.14",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      12
+  },
+  {
+    "Version":           "2.14",
+    "From":              "2.13",
+    "BC":                "100%",
+    "Added":             2,
+    "Removed":           0,
+    "TotalProblems":     13,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      12
+  }]
+}

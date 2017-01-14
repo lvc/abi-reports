@@ -1,0 +1,32 @@
+{
+  "Title":      "libxcb",
+  "SourceUrl":  "https://xcb.freedesktop.org/dist/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/libxcb/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "1.12",
+    "From":              "1.11.1",
+    "BC":                "100%",
+    "Added":             2,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      25
+  },
+  {
+    "Version":           "1.11.1",
+    "From":              "1.11",
+    "BC":                "100%",
+    "Added":             4,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      25
+  }]
+}

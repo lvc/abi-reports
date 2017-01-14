@@ -1,0 +1,140 @@
+{
+  "Title":      "GDAL",
+  "SourceUrl":  "http://download.osgeo.org/gdal/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/gdal/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "2.1.2",
+    "From":              "2.1.1",
+    "BC":                "99.97%",
+    "Added":             3,
+    "Removed":           1,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "2.1.1",
+    "From":              "2.1.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "2.1.0",
+    "From":              "2.0.3",
+    "BC":                "74.8%",
+    "Added":             357,
+    "Removed":           32,
+    "TotalProblems":     339,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "2.0.3",
+    "From":              "2.0.2",
+    "BC":                "99.97%",
+    "Added":             1,
+    "Removed":           1,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "2.0.2",
+    "From":              "2.0.1",
+    "BC":                "99.9%",
+    "Added":             7,
+    "Removed":           2,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "2.0.1",
+    "From":              "2.0.0",
+    "BC":                "99.99%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     3,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "2.0.0",
+    "From":              "1.11.5",
+    "BC":                "67.3%",
+    "Added":             605,
+    "Removed":           206,
+    "TotalProblems":     300,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.11.5",
+    "From":              "1.11.4",
+    "BC":                "99.97%",
+    "Added":             0,
+    "Removed":           1,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.11.4",
+    "From":              "1.11.3",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.11.3",
+    "From":              "1.11.2",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.11.2",
+    "From":              "1.11.1",
+    "BC":                "100%",
+    "Added":             7,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  }]
+}

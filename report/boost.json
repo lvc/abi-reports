@@ -1,0 +1,104 @@
+{
+  "Title":      "Boost",
+  "SourceUrl":  "https://sourceforge.net/projects/boost/files/boost/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/boost/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "1_63_0",
+    "From":              "1_62_0",
+    "BC":                "97.02%",
+    "Added":             181,
+    "Removed":           156,
+    "TotalProblems":     27,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     32,
+    "TotalObjects":      32
+  },
+  {
+    "Version":           "1_62_0",
+    "From":              "1_61_0",
+    "BC":                "95.11%",
+    "Added":             317,
+    "Removed":           170,
+    "TotalProblems":     88,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     32,
+    "TotalObjects":      32
+  },
+  {
+    "Version":           "1_61_0",
+    "From":              "1_60_0",
+    "BC":                "96.36%",
+    "Added":             204,
+    "Removed":           160,
+    "TotalProblems":     26,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     32,
+    "TotalObjects":      32
+  },
+  {
+    "Version":           "1_60_0",
+    "From":              "1_59_0",
+    "BC":                "87.08%",
+    "Added":             727,
+    "Removed":           550,
+    "TotalProblems":     69,
+    "ObjectsAdded":      1,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     31,
+    "TotalObjects":      31
+  },
+  {
+    "Version":           "1_59_0",
+    "From":              "1_58_0",
+    "BC":                "71.96%",
+    "Added":             332,
+    "Removed":           1527,
+    "TotalProblems":     219,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     31,
+    "TotalObjects":      31
+  },
+  {
+    "Version":           "1_58_0",
+    "From":              "1_57_0",
+    "BC":                "99.83%",
+    "Added":             13,
+    "Removed":           4,
+    "TotalProblems":     15,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     31,
+    "TotalObjects":      31
+  },
+  {
+    "Version":           "1_57_0",
+    "From":              "1_56_0",
+    "BC":                "99.33%",
+    "Added":             48,
+    "Removed":           34,
+    "TotalProblems":     14,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     31,
+    "TotalObjects":      31
+  },
+  {
+    "Version":           "1_56_0",
+    "From":              "1_55_0",
+    "BC":                "81.68%",
+    "Added":             148,
+    "Removed":           1119,
+    "TotalProblems":     106,
+    "ObjectsAdded":      1,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     30,
+    "TotalObjects":      30
+  }]
+}

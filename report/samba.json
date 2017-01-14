@@ -1,0 +1,116 @@
+{
+  "Title":      "Samba",
+  "SourceUrl":  "https://download.samba.org/pub/samba/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/samba/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "4.5.3",
+    "From":              "4.5.2",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      20
+  },
+  {
+    "Version":           "4.5.2",
+    "From":              "4.4.9",
+    "BC":                "97.25%",
+    "Added":             34,
+    "Removed":           0,
+    "TotalProblems":     24,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      20
+  },
+  {
+    "Version":           "4.4.9",
+    "From":              "4.4.8",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      20
+  },
+  {
+    "Version":           "4.4.8",
+    "From":              "4.4.7",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      20
+  },
+  {
+    "Version":           "4.4.7",
+    "From":              "4.3.13",
+    "BC":                "89.35%",
+    "Added":             3,
+    "Removed":           1,
+    "TotalProblems":     1,
+    "ObjectsAdded":      1,
+    "ObjectsRemoved":    4,
+    "ChangedSoname":     0,
+    "TotalObjects":      23
+  },
+  {
+    "Version":           "4.3.13",
+    "From":              "4.3.12",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      23
+  },
+  {
+    "Version":           "4.3.12",
+    "From":              "4.2.14",
+    "BC":                "98.86%",
+    "Added":             18,
+    "Removed":           26,
+    "TotalProblems":     3,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      23
+  },
+  {
+    "Version":           "4.2.14",
+    "From":              "4.1.23",
+    "BC":                "79.13%",
+    "Added":             130,
+    "Removed":           41,
+    "TotalProblems":     175,
+    "ObjectsAdded":      1,
+    "ObjectsRemoved":    2,
+    "ChangedSoname":     0,
+    "TotalObjects":      24
+  },
+  {
+    "Version":           "4.1.23",
+    "From":              "4.0.26",
+    "BC":                "99.87%",
+    "Added":             22,
+    "Removed":           0,
+    "TotalProblems":     10,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      24
+  }]
+}

@@ -1,0 +1,92 @@
+{
+  "Title":      "ncurses",
+  "SourceUrl":  "http://ftp.gnu.org/pub/gnu/ncurses/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/ncurses/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "6.0",
+    "From":              "5.9",
+    "BC":                "99.40%",
+    "Added":             49,
+    "Removed":           0,
+    "TotalProblems":     46,
+    "ObjectsAdded":      1,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     4,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "5.9",
+    "From":              "5.8",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "5.8",
+    "From":              "5.7",
+    "BC":                "99.78%",
+    "Added":             6,
+    "Removed":           0,
+    "TotalProblems":     12,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "5.7",
+    "From":              "5.6",
+    "BC":                "100%",
+    "Added":             18,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "5.6",
+    "From":              "5.5",
+    "BC":                "100%",
+    "Added":             11,
+    "Removed":           0,
+    "TotalProblems":     4,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "5.5",
+    "From":              "5.4",
+    "BC":                "67.11%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     33,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "5.4",
+    "From":              "5.3",
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     89,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      4
+  }]
+}

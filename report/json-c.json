@@ -1,0 +1,32 @@
+{
+  "Title":      "json-c",
+  "SourceUrl":  "https://github.com/json-c/json-c/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/json-c/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "0.12.1-20160607",
+    "From":              "0.12-20140410",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.12-20140410",
+    "From":              "0.11-20130402",
+    "BC":                "97.9%",
+    "Added":             4,
+    "Removed":           2,
+    "TotalProblems":     2,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  }]
+}

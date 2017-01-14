@@ -1,0 +1,104 @@
+{
+  "Title":      "LibRaw",
+  "SourceUrl":  "http://www.libraw.org/download",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/libraw/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "0.18.0",
+    "From":              "0.17.2",
+    "BC":                "29.5%",
+    "Added":             33,
+    "Removed":           1,
+    "TotalProblems":     93,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.17.2",
+    "From":              "0.17.1",
+    "BC":                "98.1%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     9,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.17.1",
+    "From":              "0.17.0",
+    "BC":                "98.1%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     9,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.17.0",
+    "From":              "0.16.2",
+    "BC":                "33.7%",
+    "Added":             29,
+    "Removed":           0,
+    "TotalProblems":     70,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.16.2",
+    "From":              "0.16.1",
+    "BC":                "97.8%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     9,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.16.1",
+    "From":              "0.16.0",
+    "BC":                "97.8%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     9,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.16.0",
+    "From":              "0.15.4",
+    "BC":                "36.7%",
+    "Added":             11,
+    "Removed":           5,
+    "TotalProblems":     33,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.15.4",
+    "From":              "0.15.3",
+    "BC":                "97.5%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     9,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  }]
+}

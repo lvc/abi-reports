@@ -1,0 +1,104 @@
+{
+  "Title":      "libtins",
+  "SourceUrl":  "https://github.com/mfontanini/libtins/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/libtins/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "3.4",
+    "From":              "3.3",
+    "BC":                "98.8%",
+    "Added":             148,
+    "Removed":           6,
+    "TotalProblems":     21,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "3.3",
+    "From":              "3.2",
+    "BC":                "75.8%",
+    "Added":             158,
+    "Removed":           21,
+    "TotalProblems":     132,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "3.2",
+    "From":              "3.1",
+    "BC":                "98%",
+    "Added":             69,
+    "Removed":           3,
+    "TotalProblems":     9,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "3.1",
+    "From":              "3.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "3.0",
+    "From":              "2.0",
+    "BC":                "99.4%",
+    "Added":             8,
+    "Removed":           4,
+    "TotalProblems":     40,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "2.0",
+    "From":              "1.2",
+    "BC":                "92.2%",
+    "Added":             116,
+    "Removed":           68,
+    "TotalProblems":     65,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.2",
+    "From":              "1.0",
+    "BC":                "99.6%",
+    "Added":             68,
+    "Removed":           4,
+    "TotalProblems":     28,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.0",
+    "From":              "0.3",
+    "BC":                "44.2%",
+    "Added":             212,
+    "Removed":           130,
+    "TotalProblems":     187,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  }]
+}

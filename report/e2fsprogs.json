@@ -1,0 +1,140 @@
+{
+  "Title":      "e2fsprogs",
+  "SourceUrl":  "https://github.com/tytso/e2fsprogs/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/e2fsprogs/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "1.43.3",
+    "From":              "1.43.2",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      6
+  },
+  {
+    "Version":           "1.43.2",
+    "From":              "1.43.1",
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      6
+  },
+  {
+    "Version":           "1.43.1",
+    "From":              "1.43",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      6
+  },
+  {
+    "Version":           "1.43",
+    "From":              "1.42.13",
+    "BC":                "99.84%",
+    "Added":             68,
+    "Removed":           1,
+    "TotalProblems":     24,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      6
+  },
+  {
+    "Version":           "1.42.13",
+    "From":              "1.42.12",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      6
+  },
+  {
+    "Version":           "1.42.12",
+    "From":              "1.42.11",
+    "BC":                "100%",
+    "Added":             2,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      6
+  },
+  {
+    "Version":           "1.42.11",
+    "From":              "1.42.10",
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      6
+  },
+  {
+    "Version":           "1.42.10",
+    "From":              "1.42.9",
+    "BC":                "100%",
+    "Added":             6,
+    "Removed":           0,
+    "TotalProblems":     2,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      6
+  },
+  {
+    "Version":           "1.42.9",
+    "From":              "1.42.8",
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     3,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      6
+  },
+  {
+    "Version":           "1.42.8",
+    "From":              "1.42.7",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     2,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      6
+  },
+  {
+    "Version":           "1.42.7",
+    "From":              "1.42.6",
+    "BC":                "100%",
+    "Added":             4,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      6
+  }]
+}

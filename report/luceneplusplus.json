@@ -1,0 +1,44 @@
+{
+  "Title":      "Lucene++",
+  "SourceUrl":  "https://github.com/luceneplusplus/LucenePlusPlus/releases",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/luceneplusplus/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "3.0.7",
+    "From":              "3.0.6",
+    "BC":                "98.61%",
+    "Added":             4,
+    "Removed":           4,
+    "TotalProblems":     11,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "3.0.6",
+    "From":              "3.0.5",
+    "BC":                "48.37%",
+    "Added":             4298,
+    "Removed":           1102,
+    "TotalProblems":     1704,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "3.0.5",
+    "From":              "3.0.4",
+    "BC":                "78.18%",
+    "Added":             715,
+    "Removed":           715,
+    "TotalProblems":     893,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  }]
+}

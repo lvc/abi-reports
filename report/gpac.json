@@ -1,0 +1,44 @@
+{
+  "Title":      "GPAC",
+  "SourceUrl":  "https://github.com/gpac/gpac/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/gpac/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "0.6.1",
+    "From":              "0.6.0",
+    "BC":                "99.9%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     3,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.6.0",
+    "From":              "0.5.2",
+    "BC":                "80.7%",
+    "Added":             78,
+    "Removed":           8,
+    "TotalProblems":     198,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.5.2",
+    "From":              "0.5.0",
+    "BC":                "76%",
+    "Added":             357,
+    "Removed":           21,
+    "TotalProblems":     537,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  }]
+}

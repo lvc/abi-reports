@@ -1,0 +1,104 @@
+{
+  "Title":      "protobuf",
+  "SourceUrl":  "https://github.com/google/protobuf/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/protobuf/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "3.1.0",
+    "From":              "3.0.2",
+    "BC":                "84.36%",
+    "Added":             241,
+    "Removed":           126,
+    "TotalProblems":     210,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     3,
+    "TotalObjects":      3
+  },
+  {
+    "Version":           "3.0.2",
+    "From":              "3.0.0",
+    "BC":                "99.97%",
+    "Added":             1,
+    "Removed":           1,
+    "TotalProblems":     1,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      3
+  },
+  {
+    "Version":           "3.0.0",
+    "From":              "2.6.1",
+    "BC":                "47.62%",
+    "Added":             1746,
+    "Removed":           38,
+    "TotalProblems":     159,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     3,
+    "TotalObjects":      3
+  },
+  {
+    "Version":           "2.6.1",
+    "From":              "2.6.0",
+    "BC":                "100%",
+    "Added":             2,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      3
+  },
+  {
+    "Version":           "2.6.0",
+    "From":              "2.5.0",
+    "BC":                "77.99%",
+    "Added":             155,
+    "Removed":           4,
+    "TotalProblems":     63,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     3,
+    "TotalObjects":      3
+  },
+  {
+    "Version":           "2.5.0",
+    "From":              "2.4.1",
+    "BC":                "71.08%",
+    "Added":             56,
+    "Removed":           18,
+    "TotalProblems":     126,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     3,
+    "TotalObjects":      3
+  },
+  {
+    "Version":           "2.4.1",
+    "From":              "2.3.0",
+    "BC":                "70.49%",
+    "Added":             96,
+    "Removed":           37,
+    "TotalProblems":     84,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     3,
+    "TotalObjects":      3
+  },
+  {
+    "Version":           "2.3.0",
+    "From":              "2.2.0",
+    "BC":                "69.97%",
+    "Added":             228,
+    "Removed":           66,
+    "TotalProblems":     110,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     3,
+    "TotalObjects":      3
+  }]
+}

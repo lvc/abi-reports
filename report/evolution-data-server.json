@@ -6,19 +6,19 @@
 
   "Reports": [
   {
-    "Version":           "3_23_3",
-    "From":              "3_22_3",
+    "Version":           "3_23_4",
+    "From":              "3_22_4",
     "BC":                "91.16%",
-    "Added":             163,
+    "Added":             172,
     "Removed":           54,
-    "TotalProblems":     303,
+    "TotalProblems":     304,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     2,
     "TotalObjects":      8
   },
   {
-    "Version":           "3_22_3",
+    "Version":           "3_22_4",
     "From":              "3_21_4",
     "BC":                "100%",
     "Added":             2,

@@ -1,0 +1,20 @@
+{
+  "Title":      "SMPEG",
+  "SourceUrl":  "https://github.com/Distrotech/smpeg/releases",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/smpeg/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "2_0_0",
+    "From":              "0_4_5",
+    "BC":                "60.7%",
+    "Added":             7,
+    "Removed":           23,
+    "TotalProblems":     37,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  }]
+}

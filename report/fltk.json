@@ -1,0 +1,68 @@
+{
+  "Title":      "FLTK",
+  "SourceUrl":  "http://fltk.org/pub/fltk/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/fltk/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "1.3.4-1",
+    "From":              "1.3.4",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "1.3.4",
+    "From":              "1.3.3",
+    "BC":                "99.81%",
+    "Added":             31,
+    "Removed":           0,
+    "TotalProblems":     10,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "1.3.3",
+    "From":              "1.3.2",
+    "BC":                "94.54%",
+    "Added":             151,
+    "Removed":           113,
+    "TotalProblems":     38,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "1.3.2",
+    "From":              "1.3.1",
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "1.3.1",
+    "From":              "1.3.0",
+    "BC":                "100%",
+    "Added":             251,
+    "Removed":           0,
+    "TotalProblems":     2,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      4
+  }]
+}

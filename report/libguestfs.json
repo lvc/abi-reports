@@ -6,12 +6,12 @@
 
   "Reports": [
   {
-    "Version":           "1.34.3",
+    "Version":           "1.34.4",
     "From":              "1.32.10",
     "BC":                "100%",
     "Added":             27,
     "Removed":           0,
-    "TotalProblems":     1,
+    "TotalProblems":     2,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,

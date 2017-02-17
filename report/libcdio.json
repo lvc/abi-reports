@@ -1,0 +1,92 @@
+{
+  "Title":      "libcdio",
+  "SourceUrl":  "http://ftp.gnu.org/gnu/libcdio/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/libcdio/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "0.94",
+    "From":              "0.93",
+    "BC":                "100%",
+    "Added":             14,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      5
+  },
+  {
+    "Version":           "0.93",
+    "From":              "0.92",
+    "BC":                "23.02%",
+    "Added":             316,
+    "Removed":           311,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     2,
+    "TotalObjects":      5
+  },
+  {
+    "Version":           "0.92",
+    "From":              "0.90",
+    "BC":                "23.38%",
+    "Added":             312,
+    "Removed":           301,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     2,
+    "TotalObjects":      5
+  },
+  {
+    "Version":           "0.90",
+    "From":              "0.83",
+    "BC":                "33.62%",
+    "Added":             226,
+    "Removed":           221,
+    "TotalProblems":     13,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    2,
+    "ChangedSoname":     1,
+    "TotalObjects":      7
+  },
+  {
+    "Version":           "0.83",
+    "From":              "0.82",
+    "BC":                "41.16%",
+    "Added":             252,
+    "Removed":           240,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     4,
+    "TotalObjects":      7
+  },
+  {
+    "Version":           "0.82",
+    "From":              "0.81",
+    "BC":                "50.00%",
+    "Added":             201,
+    "Removed":           199,
+    "TotalProblems":     9,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      7
+  },
+  {
+    "Version":           "0.81",
+    "From":              "0.80",
+    "BC":                "49.29%",
+    "Added":             199,
+    "Removed":           205,
+    "TotalProblems":     4,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     2,
+    "TotalObjects":      7
+  }]
+}

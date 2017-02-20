@@ -1,0 +1,152 @@
+{
+  "Title":      "GammaLib",
+  "SourceUrl":  "http://gammalib.sourceforge.net/download.html",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/gammalib/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "1.1.0",
+    "From":              "1.0.1",
+    "BC":                "62.9%",
+    "Added":             424,
+    "Removed":           345,
+    "TotalProblems":     559,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.0.1",
+    "From":              "1.0.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.0.0",
+    "From":              "0.11.0",
+    "BC":                "97.9%",
+    "Added":             51,
+    "Removed":           38,
+    "TotalProblems":     50,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.11.0",
+    "From":              "0.10.0",
+    "BC":                "93.5%",
+    "Added":             143,
+    "Removed":           78,
+    "TotalProblems":     148,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.10.0",
+    "From":              "0.9.1",
+    "BC":                "85.2%",
+    "Added":             370,
+    "Removed":           193,
+    "TotalProblems":     129,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.9.1",
+    "From":              "0.9.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.9.0",
+    "From":              "0.8.1",
+    "BC":                "66.7%",
+    "Added":             727,
+    "Removed":           109,
+    "TotalProblems":     237,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.8.1",
+    "From":              "0.8.0",
+    "BC":                "98.7%",
+    "Added":             11,
+    "Removed":           8,
+    "TotalProblems":     19,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.8.0",
+    "From":              "0.7.0",
+    "BC":                "25.8%",
+    "Added":             1917,
+    "Removed":           1418,
+    "TotalProblems":     1067,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.7.0",
+    "From":              "0.6.2",
+    "BC":                "17.5%",
+    "Added":             696,
+    "Removed":           221,
+    "TotalProblems":     647,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.6.2",
+    "From":              "0.6.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.6.1",
+    "From":              "0.5.0",
+    "BC":                "89.6%",
+    "Added":             303,
+    "Removed":           95,
+    "TotalProblems":     182,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  }]
+}

@@ -1,13 +1,13 @@
 {
-  "Title":      "GIFLIB",
-  "SourceUrl":  "https://sourceforge.net/projects/giflib/files/",
-  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/giflib/",
+  "Title":      "libcap-ng",
+  "SourceUrl":  "http://people.redhat.com/sgrubb/libcap-ng/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/libcap-ng/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
   {
-    "Version":           "5.1.4",
-    "From":              "5.1.3",
+    "Version":           "0.7.8",
+    "From":              "0.7.7",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -18,8 +18,8 @@
     "TotalObjects":      1
   },
   {
-    "Version":           "5.1.3",
-    "From":              "5.1.2",
+    "Version":           "0.7.7",
+    "From":              "0.7.6",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -30,20 +30,8 @@
     "TotalObjects":      1
   },
   {
-    "Version":           "5.1.2",
-    "From":              "5.1.1",
-    "BC":                "100%",
-    "Added":             1,
-    "Removed":           0,
-    "TotalProblems":     0,
-    "ObjectsAdded":      0,
-    "ObjectsRemoved":    0,
-    "ChangedSoname":     0,
-    "TotalObjects":      1
-  },
-  {
-    "Version":           "5.1.1",
-    "From":              "5.1.0",
+    "Version":           "0.7.6",
+    "From":              "0.7.5",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -54,32 +42,8 @@
     "TotalObjects":      1
   },
   {
-    "Version":           "5.1.0",
-    "From":              "5.0.6",
-    "BC":                "98.1%",
-    "Added":             0,
-    "Removed":           0,
-    "TotalProblems":     2,
-    "ObjectsAdded":      0,
-    "ObjectsRemoved":    0,
-    "ChangedSoname":     1,
-    "TotalObjects":      1
-  },
-  {
-    "Version":           "5.0.6",
-    "From":              "5.0.5",
-    "BC":                "98.1%",
-    "Added":             0,
-    "Removed":           0,
-    "TotalProblems":     4,
-    "ObjectsAdded":      0,
-    "ObjectsRemoved":    0,
-    "ChangedSoname":     0,
-    "TotalObjects":      1
-  },
-  {
-    "Version":           "5.0.5",
-    "From":              "5.0.4",
+    "Version":           "0.7.5",
+    "From":              "0.7.4",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -90,8 +54,8 @@
     "TotalObjects":      1
   },
   {
-    "Version":           "5.0.4",
-    "From":              "5.0.3",
+    "Version":           "0.7.4",
+    "From":              "0.7.3",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -102,8 +66,8 @@
     "TotalObjects":      1
   },
   {
-    "Version":           "5.0.3",
-    "From":              "5.0.2",
+    "Version":           "0.7.3",
+    "From":              "0.7.2",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -114,44 +78,8 @@
     "TotalObjects":      1
   },
   {
-    "Version":           "5.0.2",
-    "From":              "5.0.1",
-    "BC":                "99.1%",
-    "Added":             0,
-    "Removed":           0,
-    "TotalProblems":     1,
-    "ObjectsAdded":      0,
-    "ObjectsRemoved":    0,
-    "ChangedSoname":     0,
-    "TotalObjects":      1
-  },
-  {
-    "Version":           "5.0.1",
-    "From":              "5.0.0",
-    "BC":                "100%",
-    "Added":             1,
-    "Removed":           0,
-    "TotalProblems":     0,
-    "ObjectsAdded":      0,
-    "ObjectsRemoved":    0,
-    "ChangedSoname":     0,
-    "TotalObjects":      1
-  },
-  {
-    "Version":           "5.0.0",
-    "From":              "4.2.3",
-    "BC":                "29%",
-    "Added":             23,
-    "Removed":           21,
-    "TotalProblems":     19,
-    "ObjectsAdded":      0,
-    "ObjectsRemoved":    0,
-    "ChangedSoname":     1,
-    "TotalObjects":      1
-  },
-  {
-    "Version":           "4.2.3",
-    "From":              "4.2.1",
+    "Version":           "0.7.2",
+    "From":              "0.7.1",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -162,8 +90,32 @@
     "TotalObjects":      1
   },
   {
-    "Version":           "4.2.1",
-    "From":              "4.2.0",
+    "Version":           "0.7.1",
+    "From":              "0.7",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.7",
+    "From":              "0.6.6",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.6.6",
+    "From":              "0.6.5",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,

@@ -6,11 +6,11 @@
 
   "Reports": [
   {
-    "Version":           "1.19.0-beta1",
+    "Version":           "1.19.0-beta2",
     "From":              "1.18.4",
-    "BC":                "94.81%",
-    "Added":             1111,
-    "Removed":           494,
+    "BC":                "94.83%",
+    "Added":             1113,
+    "Removed":           496,
     "TotalProblems":     935,
     "ObjectsAdded":      1,
     "ObjectsRemoved":    0,

@@ -1,0 +1,80 @@
+{
+  "Title":      "Ghostscript",
+  "SourceUrl":  "https://github.com/ArtifexSoftware/ghostpdl-downloads/releases",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/ghostscript/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "9.20",
+    "From":              "9.19",
+    "BC":                "46.3%",
+    "Added":             81,
+    "Removed":           78,
+    "TotalProblems":     949,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "9.19",
+    "From":              "9.18",
+    "BC":                "99.9%",
+    "Added":             20,
+    "Removed":           1,
+    "TotalProblems":     95,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "9.18",
+    "From":              "9.16",
+    "BC":                "48.4%",
+    "Added":             89,
+    "Removed":           13,
+    "TotalProblems":     280,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "9.16",
+    "From":              "9.15",
+    "BC":                "75.8%",
+    "Added":             14,
+    "Removed":           0,
+    "TotalProblems":     15,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "9.15",
+    "From":              "9.14",
+    "BC":                "73.7%",
+    "Added":             18,
+    "Removed":           1,
+    "TotalProblems":     30,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "9.14",
+    "From":              "9.10",
+    "BC":                "48%",
+    "Added":             78,
+    "Removed":           15,
+    "TotalProblems":     546,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  }]
+}

@@ -1,0 +1,92 @@
+{
+  "Title":      "OpenBabel",
+  "SourceUrl":  "https://sourceforge.net/projects/openbabel/files/openbabel/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/openbabel/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "2.4.1",
+    "From":              "2.3.2",
+    "BC":                "25.77%",
+    "Added":             321,
+    "Removed":           186,
+    "TotalProblems":     584,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "2.3.2",
+    "From":              "2.3.1",
+    "BC":                "100%",
+    "Added":             55,
+    "Removed":           0,
+    "TotalProblems":     4,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "2.3.1",
+    "From":              "2.3.0",
+    "BC":                "100%",
+    "Added":             534,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "2.3.0",
+    "From":              "2.2.3",
+    "BC":                "53.77%",
+    "Added":             286,
+    "Removed":           34,
+    "TotalProblems":     92,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "2.2.3",
+    "From":              "2.2.2",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "2.2.2",
+    "From":              "2.2.1",
+    "BC":                "99.25%",
+    "Added":             14,
+    "Removed":           9,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "2.2.1",
+    "From":              "2.2.0",
+    "BC":                "99.80%",
+    "Added":             19,
+    "Removed":           0,
+    "TotalProblems":     4,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  }]
+}

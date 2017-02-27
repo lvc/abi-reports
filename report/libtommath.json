@@ -1,0 +1,80 @@
+{
+  "Title":      "LibTomMath",
+  "SourceUrl":  "https://github.com/libtom/libtommath/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/libtommath/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "1.0",
+    "From":              "0.42.0",
+    "BC":                "99%",
+    "Added":             9,
+    "Removed":           0,
+    "TotalProblems":     7,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.42.0",
+    "From":              "0.41",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.41",
+    "From":              "0.40",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.40",
+    "From":              "0.39",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.39",
+    "From":              "0.38",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.38",
+    "From":              "0.37",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  }]
+}

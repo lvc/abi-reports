@@ -1,0 +1,128 @@
+{
+  "Title":      "LibTomCrypt",
+  "SourceUrl":  "https://github.com/libtom/libtomcrypt/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/libtomcrypt/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "1.17",
+    "From":              "1.16",
+    "BC":                "93.54%",
+    "Added":             6,
+    "Removed":           0,
+    "TotalProblems":     12,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "1.16",
+    "From":              "1.15",
+    "BC":                "98.78%",
+    "Added":             8,
+    "Removed":           0,
+    "TotalProblems":     5,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "1.15",
+    "From":              "1.14",
+    "BC":                "96.83%",
+    "Added":             49,
+    "Removed":           4,
+    "TotalProblems":     40,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "1.14",
+    "From":              "1.13",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "1.13",
+    "From":              "1.12",
+    "BC":                "99.90%",
+    "Added":             6,
+    "Removed":           0,
+    "TotalProblems":     4,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "1.12",
+    "From":              "1.11",
+    "BC":                "99.90%",
+    "Added":             3,
+    "Removed":           0,
+    "TotalProblems":     3,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "1.11",
+    "From":              "1.10",
+    "BC":                "99.90%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     3,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "1.10",
+    "From":              "1.09",
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "1.09",
+    "From":              "1.08",
+    "BC":                "97.40%",
+    "Added":             7,
+    "Removed":           0,
+    "TotalProblems":     26,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "1.08",
+    "From":              "1.07",
+    "BC":                "99.62%",
+    "Added":             4,
+    "Removed":           2,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  }]
+}

@@ -6,24 +6,24 @@
 
   "Reports": [
   {
-    "Version":           "1.36.1",
-    "From":              "1.34.4",
+    "Version":           "1.36.2",
+    "From":              "1.34.5",
     "BC":                "100%",
-    "Added":             10,
+    "Added":             0,
     "Removed":           0,
-    "TotalProblems":     1,
+    "TotalProblems":     0,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
     "TotalObjects":      1
   },
   {
-    "Version":           "1.34.4",
+    "Version":           "1.34.5",
     "From":              "1.32.10",
     "BC":                "100%",
-    "Added":             27,
+    "Added":             0,
     "Removed":           0,
-    "TotalProblems":     1,
+    "TotalProblems":     0,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,

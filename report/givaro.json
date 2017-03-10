@@ -1,0 +1,152 @@
+{
+  "Title":      "Givaro",
+  "SourceUrl":  "https://github.com/linbox-team/givaro/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/givaro/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "4.0.2",
+    "From":              "4.0.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "4.0.1",
+    "From":              "4.0.0",
+    "BC":                "97%",
+    "Added":             10,
+    "Removed":           5,
+    "TotalProblems":     5,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "4.0.0",
+    "From":              "3.8.0",
+    "BC":                "90.2%",
+    "Added":             6,
+    "Removed":           65,
+    "TotalProblems":     396,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "3.8.0",
+    "From":              "3.7.2",
+    "BC":                "100%",
+    "Added":             15,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "3.7.2",
+    "From":              "3.7.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "3.7.1",
+    "From":              "3.7.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     5,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "3.7.0",
+    "From":              "3.6.0",
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "3.6.0",
+    "From":              "3.5.0",
+    "BC":                "99.2%",
+    "Added":             11,
+    "Removed":           4,
+    "TotalProblems":     6,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "3.5.0",
+    "From":              "3.4.2",
+    "BC":                "96.1%",
+    "Added":             255,
+    "Removed":           2,
+    "TotalProblems":     6,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "3.4.2",
+    "From":              "3.4.1",
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "3.4.1",
+    "From":              "3.4.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "3.4.0",
+    "From":              "3.3.6",
+    "BC":                "0%",
+    "Added":             388,
+    "Removed":           388,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  }]
+}

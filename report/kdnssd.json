@@ -1,7 +1,7 @@
 {
-  "Title":      "KPlotting",
+  "Title":      "KDNSSD",
   "SourceUrl":  "http://download.kde.org/stable/frameworks/",
-  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/kplotting/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/kdnssd/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
@@ -249,7 +249,7 @@
     "Version":           "5.12.0",
     "From":              "5.11.0",
     "BC":                "100%",
-    "Added":             1,
+    "Added":             0,
     "Removed":           0,
     "TotalProblems":     0,
     "ObjectsAdded":      0,

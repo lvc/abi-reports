@@ -1,0 +1,20 @@
+{
+  "Title":      "NetCDF C++",
+  "SourceUrl":  "ftp://ftp.unidata.ucar.edu/pub/netcdf/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/netcdf-cxx/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "4.3.0",
+    "From":              "4.2",
+    "BC":                "63.1%",
+    "Added":             127,
+    "Removed":           112,
+    "TotalProblems":     170,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  }]
+}

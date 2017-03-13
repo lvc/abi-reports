@@ -7,7 +7,7 @@
   "Reports": [
   {
     "Version":           "3_23_4",
-    "From":              "3_22_5",
+    "From":              "3_22_6",
     "BC":                "91.07%",
     "Added":             172,
     "Removed":           57,
@@ -18,7 +18,7 @@
     "TotalObjects":      8
   },
   {
-    "Version":           "3_22_5",
+    "Version":           "3_22_6",
     "From":              "3_21_4",
     "BC":                "100%",
     "Added":             5,

@@ -1,0 +1,116 @@
+{
+  "Title":      "iODBC",
+  "SourceUrl":  "https://sourceforge.net/projects/iodbc/files/iodbc/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/libiodbc/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "3.52.12",
+    "From":              "3.52.10",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      3
+  },
+  {
+    "Version":           "3.52.10",
+    "From":              "3.52.9",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      3
+  },
+  {
+    "Version":           "3.52.9",
+    "From":              "3.52.8",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      3
+  },
+  {
+    "Version":           "3.52.8",
+    "From":              "3.52.7",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      3
+  },
+  {
+    "Version":           "3.52.7",
+    "From":              "3.52.6",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      3
+  },
+  {
+    "Version":           "3.52.6",
+    "From":              "3.52.5",
+    "BC":                "100%",
+    "Added":             2,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      1,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "3.52.5",
+    "From":              "3.52.4",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "3.52.4",
+    "From":              "3.52.3",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "3.52.3",
+    "From":              "3.52.1",
+    "BC":                "98.31%",
+    "Added":             23,
+    "Removed":           3,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  }]
+}

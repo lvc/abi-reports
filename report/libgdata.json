@@ -1,13 +1,25 @@
 {
-  "Title":      "LibTIFF",
-  "SourceUrl":  "http://download.osgeo.org/libtiff/",
-  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/libtiff/",
+  "Title":      "libgdata",
+  "SourceUrl":  "http://ftp.gnome.org/pub/GNOME/sources/libgdata/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/libgdata/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
   {
-    "Version":           "4.0.7",
-    "From":              "4.0.6",
+    "Version":           "0.17.7",
+    "From":              "0.17.6",
+    "BC":                "100%",
+    "Added":             3,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.17.6",
+    "From":              "0.17.5",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -15,11 +27,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      2
+    "TotalObjects":      1
   },
   {
-    "Version":           "4.0.6",
-    "From":              "4.0.5",
+    "Version":           "0.17.5",
+    "From":              "0.17.4",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -27,11 +39,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      2
+    "TotalObjects":      1
   },
   {
-    "Version":           "4.0.5",
-    "From":              "4.0.4",
+    "Version":           "0.17.4",
+    "From":              "0.17.3",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -39,11 +51,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      2
+    "TotalObjects":      1
   },
   {
-    "Version":           "4.0.4",
-    "From":              "4.0.3",
+    "Version":           "0.17.3",
+    "From":              "0.17.2",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -51,23 +63,59 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      2
+    "TotalObjects":      1
   },
   {
-    "Version":           "4.0.3",
-    "From":              "4.0.2",
+    "Version":           "0.17.2",
+    "From":              "0.17.1",
     "BC":                "100%",
-    "Added":             6,
+    "Added":             8,
     "Removed":           0,
     "TotalProblems":     0,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      2
+    "TotalObjects":      1
   },
   {
-    "Version":           "4.0.2",
-    "From":              "4.0.1",
+    "Version":           "0.17.1",
+    "From":              "0.17.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.17.0",
+    "From":              "0.16.1",
+    "BC":                "100%",
+    "Added":             18,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.16.1",
+    "From":              "0.16.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.16.0",
+    "From":              "0.15.2",
     "BC":                "100%",
     "Added":             2,
     "Removed":           0,
@@ -75,11 +123,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      2
+    "TotalObjects":      1
   },
   {
-    "Version":           "4.0.1",
-    "From":              "4.0.0",
+    "Version":           "0.15.2",
+    "From":              "0.15.1",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -87,23 +135,35 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      2
+    "TotalObjects":      1
   },
   {
-    "Version":           "4.0.0",
-    "From":              "3.9.7",
-    "BC":                "81.83%",
-    "Added":             14,
-    "Removed":           5,
-    "TotalProblems":     118,
+    "Version":           "0.15.1",
+    "From":              "0.15.0",
+    "BC":                "100%",
+    "Added":             70,
+    "Removed":           0,
+    "TotalProblems":     0,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
-    "ChangedSoname":     2,
-    "TotalObjects":      2
+    "ChangedSoname":     0,
+    "TotalObjects":      1
   },
   {
-    "Version":           "3.9.7",
-    "From":              "3.9.6",
+    "Version":           "0.15.0",
+    "From":              "0.14.3",
+    "BC":                "100%",
+    "Added":             59,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.14.3",
+    "From":              "0.14.2",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -111,11 +171,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      2
+    "TotalObjects":      1
   },
   {
-    "Version":           "3.9.6",
-    "From":              "3.9.5",
+    "Version":           "0.14.2",
+    "From":              "0.14.1",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -123,11 +183,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      2
+    "TotalObjects":      1
   },
   {
-    "Version":           "3.9.5",
-    "From":              "3.9.4",
+    "Version":           "0.14.1",
+    "From":              "0.14.0",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -135,11 +195,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      2
+    "TotalObjects":      1
   },
   {
-    "Version":           "3.9.4",
-    "From":              "3.9.3",
+    "Version":           "0.14.0",
+    "From":              "0.13.4",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -147,11 +207,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      2
+    "TotalObjects":      1
   },
   {
-    "Version":           "3.9.3",
-    "From":              "3.9.2",
+    "Version":           "0.13.4",
+    "From":              "0.13.3",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -159,47 +219,23 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      2
+    "TotalObjects":      1
   },
   {
-    "Version":           "3.9.2",
-    "From":              "3.9.1",
-    "BC":                "100%",
-    "Added":             0,
-    "Removed":           0,
-    "TotalProblems":     0,
-    "ObjectsAdded":      0,
-    "ObjectsRemoved":    0,
-    "ChangedSoname":     0,
-    "TotalObjects":      2
-  },
-  {
-    "Version":           "3.9.1",
-    "From":              "3.9.0",
-    "BC":                "100%",
-    "Added":             0,
-    "Removed":           0,
-    "TotalProblems":     0,
-    "ObjectsAdded":      0,
-    "ObjectsRemoved":    0,
-    "ChangedSoname":     0,
-    "TotalObjects":      2
-  },
-  {
-    "Version":           "3.9.0",
-    "From":              "3.8.2",
+    "Version":           "0.13.3",
+    "From":              "0.13.2",
     "BC":                "100%",
     "Added":             2,
     "Removed":           0,
-    "TotalProblems":     2,
+    "TotalProblems":     0,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      2
+    "TotalObjects":      1
   },
   {
-    "Version":           "3.8.2",
-    "From":              "3.8.1",
+    "Version":           "0.13.2",
+    "From":              "0.13.1",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -207,11 +243,35 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      2
+    "TotalObjects":      1
   },
   {
-    "Version":           "3.8.1",
-    "From":              "3.8.0",
+    "Version":           "0.13.1",
+    "From":              "0.13.0",
+    "BC":                "100%",
+    "Added":             9,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.13.0",
+    "From":              "0.12.0",
+    "BC":                "100%",
+    "Added":             13,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.12.0",
+    "From":              "0.11.1",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -219,11 +279,23 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      2
+    "TotalObjects":      1
   },
   {
-    "Version":           "3.8.0",
-    "From":              "3.7.4",
+    "Version":           "0.11.1",
+    "From":              "0.11.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.11.0",
+    "From":              "0.10.2",
     "BC":                "100%",
     "Added":             5,
     "Removed":           0,
@@ -231,11 +303,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      2
+    "TotalObjects":      1
   },
   {
-    "Version":           "3.7.4",
-    "From":              "3.7.3",
+    "Version":           "0.10.2",
+    "From":              "0.10.1",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -243,28 +315,16 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      2
+    "TotalObjects":      1
   },
   {
-    "Version":           "3.7.3",
-    "From":              "3.7.2",
+    "Version":           "0.10.1",
+    "From":              "0.10.0",
     "BC":                "100%",
-    "Added":             1,
+    "Added":             0,
     "Removed":           0,
     "TotalProblems":     0,
     "ObjectsAdded":      0,
-    "ObjectsRemoved":    0,
-    "ChangedSoname":     0,
-    "TotalObjects":      2
-  },
-  {
-    "Version":           "3.7.2",
-    "From":              "3.7.1",
-    "BC":                "98.6%",
-    "Added":             0,
-    "Removed":           2,
-    "TotalProblems":     0,
-    "ObjectsAdded":      1,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
     "TotalObjects":      1

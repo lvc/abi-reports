@@ -1,0 +1,80 @@
+{
+  "Title":      "Crypto++",
+  "SourceUrl":  "https://github.com/weidai11/cryptopp/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/cryptopp/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "5_6_5",
+    "From":              "5_6_4",
+    "BC":                "63.1%",
+    "Added":             214,
+    "Removed":           887,
+    "TotalProblems":     266,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "5_6_4",
+    "From":              "5_6_3",
+    "BC":                "94.4%",
+    "Added":             220,
+    "Removed":           218,
+    "TotalProblems":     32,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "5_6_3",
+    "From":              "5_6_2",
+    "BC":                "95.7%",
+    "Added":             37,
+    "Removed":           3,
+    "TotalProblems":     250,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "5_6_2",
+    "From":              "5_6_1",
+    "BC":                "98.8%",
+    "Added":             55,
+    "Removed":           42,
+    "TotalProblems":     4,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "5_6_1",
+    "From":              "5_6_0",
+    "BC":                "98.1%",
+    "Added":             120,
+    "Removed":           82,
+    "TotalProblems":     15,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "5_6_0",
+    "From":              "5_5_2",
+    "BC":                "75.8%",
+    "Added":             675,
+    "Removed":           525,
+    "TotalProblems":     227,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  }]
+}

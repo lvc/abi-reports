@@ -1,0 +1,56 @@
+{
+  "Title":      "freeglut",
+  "SourceUrl":  "https://sourceforge.net/projects/freeglut/files/freeglut/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/freeglut/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "3.0.0",
+    "From":              "2.8.1",
+    "BC":                "100%",
+    "Added":             13,
+    "Removed":           0,
+    "TotalProblems":     60,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "2.8.1",
+    "From":              "2.8.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "2.8.0",
+    "From":              "2.6.0",
+    "BC":                "100%",
+    "Added":             7,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "2.6.0",
+    "From":              "2.4.0",
+    "BC":                "100%",
+    "Added":             6,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  }]
+}

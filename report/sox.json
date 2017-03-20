@@ -1,0 +1,80 @@
+{
+  "Title":      "SoX",
+  "SourceUrl":  "https://sourceforge.net/projects/sox/files/sox/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/sox/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "14.4.2",
+    "From":              "14.4.1",
+    "BC":                "75.4%",
+    "Added":             0,
+    "Removed":           3,
+    "TotalProblems":     20,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "14.4.1",
+    "From":              "14.4.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "14.4.0",
+    "From":              "14.3.2",
+    "BC":                "73.5%",
+    "Added":             12,
+    "Removed":           12,
+    "TotalProblems":     35,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "14.3.2",
+    "From":              "14.0.1",
+    "BC":                "11.53%",
+    "Added":             53,
+    "Removed":           5,
+    "TotalProblems":     51,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    1,
+    "ChangedSoname":     1,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "14.0.1",
+    "From":              "14.0.0",
+    "BC":                "70.35%",
+    "Added":             1,
+    "Removed":           2,
+    "TotalProblems":     16,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "14.0.0",
+    "From":              "13.0.0",
+    "BC":                "0%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      2,
+    "ObjectsRemoved":    1,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  }]
+}

@@ -1,0 +1,92 @@
+{
+  "Title":      "CGAL",
+  "SourceUrl":  "https://github.com/CGAL/cgal/releases",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/cgal/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "4.9",
+    "From":              "4.8.2",
+    "BC":                "99.17%",
+    "Added":             9,
+    "Removed":           5,
+    "TotalProblems":     1,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     3,
+    "TotalObjects":      3
+  },
+  {
+    "Version":           "4.8.2",
+    "From":              "4.8.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      3
+  },
+  {
+    "Version":           "4.8.1",
+    "From":              "4.8",
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      3
+  },
+  {
+    "Version":           "4.8",
+    "From":              "4.7",
+    "BC":                "97.73%",
+    "Added":             94,
+    "Removed":           13,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      3
+  },
+  {
+    "Version":           "4.7",
+    "From":              "4.6.3",
+    "BC":                "89.77%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    1,
+    "ChangedSoname":     0,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "4.6.3",
+    "From":              "4.6.2",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "4.6.2",
+    "From":              "4.6.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      4
+  }]
+}

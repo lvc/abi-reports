@@ -1,0 +1,140 @@
+{
+  "Title":      "proj.4",
+  "SourceUrl":  "http://download.osgeo.org/proj/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/proj/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "4.9.3",
+    "From":              "4.9.2",
+    "BC":                "82.1%",
+    "Added":             15,
+    "Removed":           0,
+    "TotalProblems":     29,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "4.9.2",
+    "From":              "4.9.1",
+    "BC":                "99.7%",
+    "Added":             2,
+    "Removed":           0,
+    "TotalProblems":     3,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "4.9.1",
+    "From":              "4.8.0",
+    "BC":                "98.9%",
+    "Added":             30,
+    "Removed":           0,
+    "TotalProblems":     2,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "4.8.0",
+    "From":              "4.7.0",
+    "BC":                "73.3%",
+    "Added":             16,
+    "Removed":           0,
+    "TotalProblems":     14,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "4.7.0",
+    "From":              "4.6.1",
+    "BC":                "99.4%",
+    "Added":             7,
+    "Removed":           0,
+    "TotalProblems":     2,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "4.6.1",
+    "From":              "4.6.0",
+    "BC":                "98.9%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     3,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "4.6.0",
+    "From":              "4.5.0",
+    "BC":                "90.2%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     5,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "4.5.0",
+    "From":              "4.4.9",
+    "BC":                "89.3%",
+    "Added":             3,
+    "Removed":           0,
+    "TotalProblems":     5,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "4.4.9",
+    "From":              "4.4.8",
+    "BC":                "98.7%",
+    "Added":             9,
+    "Removed":           0,
+    "TotalProblems":     3,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "4.4.8",
+    "From":              "4.4.7",
+    "BC":                "98.6%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     4,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "4.4.7",
+    "From":              "4.4.6",
+    "BC":                "99.3%",
+    "Added":             6,
+    "Removed":           0,
+    "TotalProblems":     2,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  }]
+}

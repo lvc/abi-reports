@@ -1,0 +1,20 @@
+{
+  "Title":      "BcToolbox",
+  "SourceUrl":  "http://linphone.org/releases/sources/bctoolbox/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/bctoolbox/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "0.5.1",
+    "From":              "0.2.0",
+    "BC":                "92.73%",
+    "Added":             70,
+    "Removed":           16,
+    "TotalProblems":     9,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     2,
+    "TotalObjects":      2
+  }]
+}

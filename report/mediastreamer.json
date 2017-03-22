@@ -1,0 +1,44 @@
+{
+  "Title":      "Mediastreamer",
+  "SourceUrl":  "http://www.linphone.org/releases/sources/mediastreamer/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/mediastreamer/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "2.15.1",
+    "From":              "2.14.0",
+    "BC":                "85.53%",
+    "Added":             18,
+    "Removed":           1,
+    "TotalProblems":     17,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "2.14.0",
+    "From":              "2.12.1",
+    "BC":                "55.86%",
+    "Added":             160,
+    "Removed":           28,
+    "TotalProblems":     239,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     2,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "2.12.1",
+    "From":              "2.12.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  }]
+}

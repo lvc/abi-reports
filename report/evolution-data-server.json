@@ -6,8 +6,20 @@
 
   "Reports": [
   {
+    "Version":           "3_24_0",
+    "From":              "3_23_4",
+    "BC":                "100%",
+    "Added":             19,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      8
+  },
+  {
     "Version":           "3_23_4",
-    "From":              "3_22_6",
+    "From":              "3_22_7",
     "BC":                "91.07%",
     "Added":             172,
     "Removed":           57,
@@ -18,7 +30,7 @@
     "TotalObjects":      8
   },
   {
-    "Version":           "3_22_6",
+    "Version":           "3_22_7",
     "From":              "3_21_4",
     "BC":                "100%",
     "Added":             5,

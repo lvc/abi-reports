@@ -20,7 +20,7 @@
   {
     "Version":           "0.12-20140410",
     "From":              "0.11-20130402",
-    "BC":                "97.9%",
+    "BC":                "98%",
     "Added":             4,
     "Removed":           2,
     "TotalProblems":     2,

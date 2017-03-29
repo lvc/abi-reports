@@ -1,0 +1,32 @@
+{
+  "Title":      "osgEarth",
+  "SourceUrl":  "https://github.com/gwaldron/osgearth/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/osgearth/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "2.8",
+    "From":              "2.7",
+    "BC":                "60.13%",
+    "Added":             855,
+    "Removed":           362,
+    "TotalProblems":     722,
+    "ObjectsAdded":      1,
+    "ObjectsRemoved":    1,
+    "ChangedSoname":     0,
+    "TotalObjects":      6
+  },
+  {
+    "Version":           "2.7",
+    "From":              "2.6",
+    "BC":                "67.65%",
+    "Added":             671,
+    "Removed":           368,
+    "TotalProblems":     620,
+    "ObjectsAdded":      1,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      5
+  }]
+}

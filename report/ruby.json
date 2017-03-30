@@ -19,14 +19,26 @@
   },
   {
     "Version":           "2.4.0",
-    "From":              "2.3.3",
-    "BC":                "91.1%",
-    "Added":             10,
+    "From":              "2.3.4",
+    "BC":                "91.2%",
+    "Added":             11,
     "Removed":           22,
-    "TotalProblems":     62,
+    "TotalProblems":     57,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "2.3.4",
+    "From":              "2.3.3",
+    "BC":                "99.9%",
+    "Added":             0,
+    "Removed":           1,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      1
   },
   {

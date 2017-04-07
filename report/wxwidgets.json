@@ -1,0 +1,80 @@
+{
+  "Title":      "wxWidgets",
+  "SourceUrl":  "https://github.com/wxWidgets/wxWidgets/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/wxwidgets/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "3.1.0",
+    "From":              "3.0.2",
+    "BC":                "4.43%",
+    "Added":             18229,
+    "Removed":           17966,
+    "TotalProblems":     1996,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     15,
+    "TotalObjects":      15
+  },
+  {
+    "Version":           "3.0.2",
+    "From":              "3.0.1",
+    "BC":                "99.98%",
+    "Added":             10,
+    "Removed":           0,
+    "TotalProblems":     122,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      15
+  },
+  {
+    "Version":           "3.0.1",
+    "From":              "3.0.0",
+    "BC":                "99.98%",
+    "Added":             7,
+    "Removed":           0,
+    "TotalProblems":     128,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      15
+  },
+  {
+    "Version":           "3.0.0",
+    "From":              "2.9.5",
+    "BC":                "7.75%",
+    "Added":             17943,
+    "Removed":           17878,
+    "TotalProblems":     1755,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     15,
+    "TotalObjects":      15
+  },
+  {
+    "Version":           "2.9.5",
+    "From":              "2.9.4",
+    "BC":                "38.91%",
+    "Added":             595,
+    "Removed":           305,
+    "TotalProblems":     983,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     15,
+    "TotalObjects":      15
+  },
+  {
+    "Version":           "2.9.4",
+    "From":              "2.9.3",
+    "BC":                "32.50%",
+    "Added":             537,
+    "Removed":           159,
+    "TotalProblems":     1805,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     15,
+    "TotalObjects":      15
+  }]
+}

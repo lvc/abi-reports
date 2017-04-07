@@ -1,0 +1,56 @@
+{
+  "Title":      "Openbox",
+  "SourceUrl":  "http://openbox.org/wiki/Openbox:Download",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/openbox/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "3.6.1",
+    "From":              "3.6",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "3.6",
+    "From":              "3.5.2",
+    "BC":                "98.85%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     45,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "3.5.2",
+    "From":              "3.5.0",
+    "BC":                "97.92%",
+    "Added":             10,
+    "Removed":           1,
+    "TotalProblems":     147,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     2,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "3.5.0",
+    "From":              "3.4.11.2",
+    "BC":                "56.58%",
+    "Added":             3,
+    "Removed":           5,
+    "TotalProblems":     35,
+    "ObjectsAdded":      1,
+    "ObjectsRemoved":    1,
+    "ChangedSoname":     1,
+    "TotalObjects":      2
+  }]
+}

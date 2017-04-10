@@ -1,0 +1,44 @@
+{
+  "Title":      "PJSIP",
+  "SourceUrl":  "http://www.pjsip.org/download.htm",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/pjproject/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "2.6",
+    "From":              "2.4.5",
+    "BC":                "91.72%",
+    "Added":             78,
+    "Removed":           23,
+    "TotalProblems":     192,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      11
+  },
+  {
+    "Version":           "2.4.5",
+    "From":              "2.4",
+    "BC":                "97.60%",
+    "Added":             36,
+    "Removed":           0,
+    "TotalProblems":     18,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      11
+  },
+  {
+    "Version":           "2.4",
+    "From":              "2.3",
+    "BC":                "98.90%",
+    "Added":             13,
+    "Removed":           0,
+    "TotalProblems":     70,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      11
+  }]
+}

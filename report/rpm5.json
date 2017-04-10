@@ -1,0 +1,80 @@
+{
+  "Title":      "RPM 5",
+  "SourceUrl":  "http://rpm5.org/files/rpm/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/rpm5/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "5.4.17",
+    "From":              "5.4.16",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      6
+  },
+  {
+    "Version":           "5.4.16",
+    "From":              "5.4.14",
+    "BC":                "70.73%",
+    "Added":             19,
+    "Removed":           4,
+    "TotalProblems":     62,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      6
+  },
+  {
+    "Version":           "5.4.14",
+    "From":              "5.4.13",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      6
+  },
+  {
+    "Version":           "5.4.13",
+    "From":              "5.4.12",
+    "BC":                "99.77%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     3,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      6
+  },
+  {
+    "Version":           "5.4.12",
+    "From":              "5.4.11",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     6,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      6
+  },
+  {
+    "Version":           "5.4.11",
+    "From":              "5.4.10",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      1,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      5
+  }]
+}

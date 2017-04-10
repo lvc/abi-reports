@@ -1,6 +1,6 @@
 {
   "Title":      "OBS",
-  "SourceUrl":  "https://github.com/jp9000/obs-studio/tags?after=0.14.0",
+  "SourceUrl":  "https://github.com/jp9000/obs-studio/tags",
   "Tracker":    "https://abi-laboratory.pro/tracker/timeline/obs-studio/",
   "Maintainer": "Andrey P.",
 

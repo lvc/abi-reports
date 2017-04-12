@@ -1,0 +1,128 @@
+{
+  "Title":      "GNU Binutils",
+  "SourceUrl":  "https://ftp.gnu.org/gnu/binutils/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/binutils/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "2.28",
+    "From":              "2.27",
+    "BC":                "84.00%",
+    "Added":             2,
+    "Removed":           3,
+    "TotalProblems":     3457,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     2,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "2.27",
+    "From":              "2.26.1",
+    "BC":                "86.91%",
+    "Added":             2,
+    "Removed":           0,
+    "TotalProblems":     3925,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     2,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "2.26.1",
+    "From":              "2.26",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     2,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "2.26",
+    "From":              "2.25.1",
+    "BC":                "84.52%",
+    "Added":             9,
+    "Removed":           2,
+    "TotalProblems":     3715,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     2,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "2.25.1",
+    "From":              "2.25",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     1,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     2,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "2.25",
+    "From":              "2.24",
+    "BC":                "74.58%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     3533,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     2,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "2.24",
+    "From":              "2.23.2",
+    "BC":                "74.81%",
+    "Added":             6,
+    "Removed":           4,
+    "TotalProblems":     3519,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     2,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "2.23.2",
+    "From":              "2.23.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     2,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "2.23.1",
+    "From":              "2.23",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     2,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "2.23",
+    "From":              "2.22",
+    "BC":                "77.80%",
+    "Added":             6,
+    "Removed":           4,
+    "TotalProblems":     3050,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     2,
+    "TotalObjects":      2
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "Title":      "ROOT",
+  "SourceUrl":  "https://root.cern.ch/download/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/root/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "6.09.02",
+    "From":              "6.08.06",
+    "BC":                "91.55%",
+    "Added":             458,
+    "Removed":           533,
+    "TotalProblems":     373,
+    "ObjectsAdded":      1,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      68
+  }]
+}

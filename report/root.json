@@ -16,5 +16,77 @@
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
     "TotalObjects":      68
+  },
+  {
+    "Version":           "6.08.06",
+    "From":              "6.07.06",
+    "BC":                "89.57%",
+    "Added":             2036,
+    "Removed":           330,
+    "TotalProblems":     543,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      68
+  },
+  {
+    "Version":           "6.07.06",
+    "From":              "6.06.08",
+    "BC":                "92.91%",
+    "Added":             397,
+    "Removed":           225,
+    "TotalProblems":     257,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      68
+  },
+  {
+    "Version":           "6.06.08",
+    "From":              "6.05.02",
+    "BC":                "97.97%",
+    "Added":             343,
+    "Removed":           122,
+    "TotalProblems":     78,
+    "ObjectsAdded":      1,
+    "ObjectsRemoved":    1,
+    "ChangedSoname":     0,
+    "TotalObjects":      68
+  },
+  {
+    "Version":           "6.05.02",
+    "From":              "6.04.18",
+    "BC":                "94.42%",
+    "Added":             2805,
+    "Removed":           2964,
+    "TotalProblems":     168,
+    "ObjectsAdded":      1,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      67
+  },
+  {
+    "Version":           "6.04.18",
+    "From":              "6.03.04",
+    "BC":                "96.90%",
+    "Added":             470,
+    "Removed":           48,
+    "TotalProblems":     166,
+    "ObjectsAdded":      1,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      66
+  },
+  {
+    "Version":           "6.03.04",
+    "From":              "6.02.12",
+    "BC":                "96.13%",
+    "Added":             478,
+    "Removed":           246,
+    "TotalProblems":     334,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      66
   }]
 }

@@ -1,0 +1,116 @@
+{
+  "Title":      "NVIDIA Texture Tools",
+  "SourceUrl":  "https://github.com/castano/nvidia-texture-tools/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/nvidia-texture-tools/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "2.1.0",
+    "From":              "2.0.8",
+    "BC":                "52.82%",
+    "Added":             604,
+    "Removed":           197,
+    "TotalProblems":     110,
+    "ObjectsAdded":      1,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "2.0.8",
+    "From":              "2.0.7",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "2.0.7",
+    "From":              "2.0.6",
+    "BC":                "98.15%",
+    "Added":             3,
+    "Removed":           11,
+    "TotalProblems":     1,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "2.0.6",
+    "From":              "2.0.5",
+    "BC":                "96.62%",
+    "Added":             16,
+    "Removed":           20,
+    "TotalProblems":     18,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "2.0.5",
+    "From":              "2.0.4",
+    "BC":                "100%",
+    "Added":             4,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "2.0.4",
+    "From":              "2.0.3",
+    "BC":                "99.84%",
+    "Added":             3,
+    "Removed":           1,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "2.0.3",
+    "From":              "2.0.2",
+    "BC":                "94.21%",
+    "Added":             32,
+    "Removed":           29,
+    "TotalProblems":     7,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "2.0.2",
+    "From":              "2.0.1",
+    "BC":                "93.59%",
+    "Added":             4,
+    "Removed":           40,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "2.0.1",
+    "From":              "2.0.0",
+    "BC":                "99.34%",
+    "Added":             9,
+    "Removed":           4,
+    "TotalProblems":     2,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      4
+  }]
+}

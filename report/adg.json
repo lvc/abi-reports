@@ -1,0 +1,116 @@
+{
+  "Title":      "ADG",
+  "SourceUrl":  "https://github.com/ntd/adg/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/adg/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "0.9.0",
+    "From":              "0.8.0",
+    "BC":                "94.89%",
+    "Added":             8,
+    "Removed":           0,
+    "TotalProblems":     4,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "0.8.0",
+    "From":              "0.7.6",
+    "BC":                "99.49%",
+    "Added":             5,
+    "Removed":           1,
+    "TotalProblems":     7,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "0.7.6",
+    "From":              "0.7.5",
+    "BC":                "100%",
+    "Added":             3,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "0.7.5",
+    "From":              "0.7.4",
+    "BC":                "100%",
+    "Added":             3,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "0.7.4",
+    "From":              "0.7.3",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "0.7.3",
+    "From":              "0.7.2",
+    "BC":                "99.82%",
+    "Added":             0,
+    "Removed":           1,
+    "TotalProblems":     2,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "0.7.2",
+    "From":              "0.7.1",
+    "BC":                "95.62%",
+    "Added":             2,
+    "Removed":           28,
+    "TotalProblems":     1,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "0.7.1",
+    "From":              "0.7.0",
+    "BC":                "97.21%",
+    "Added":             14,
+    "Removed":           18,
+    "TotalProblems":     95,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     2,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "0.7.0",
+    "From":              "0.6.6",
+    "BC":                "99.72%",
+    "Added":             27,
+    "Removed":           1,
+    "TotalProblems":     7,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      2
+  }]
+}

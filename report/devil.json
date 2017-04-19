@@ -1,0 +1,44 @@
+{
+  "Title":      "DevIL",
+  "SourceUrl":  "https://sourceforge.net/projects/openil/files/DevIL/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/devil/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "1.8.0",
+    "From":              "1.7.8",
+    "BC":                "99%",
+    "Added":             0,
+    "Removed":           1,
+    "TotalProblems":     2,
+    "ObjectsAdded":      2,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.7.8",
+    "From":              "1.7.7",
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.7.7",
+    "From":              "1.7.5",
+    "BC":                "99.4%",
+    "Added":             11,
+    "Removed":           0,
+    "TotalProblems":     4,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  }]
+}

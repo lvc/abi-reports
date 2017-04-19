@@ -1,0 +1,92 @@
+{
+  "Title":      "Wireless Tools",
+  "SourceUrl":  "https://hewlettpackard.github.io/wireless-tools/Tools.html",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/wireless-tools/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "30.pre9",
+    "From":              29,
+    "BC":                "95.5%",
+    "Added":             2,
+    "Removed":           0,
+    "TotalProblems":     3,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "29",
+    "From":              28,
+    "BC":                "96.5%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     13,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "28",
+    "From":              27,
+    "BC":                "89.3%",
+    "Added":             3,
+    "Removed":           2,
+    "TotalProblems":     12,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "27",
+    "From":              26,
+    "BC":                "71.4%",
+    "Added":             7,
+    "Removed":           0,
+    "TotalProblems":     32,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "26",
+    "From":              25,
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "25",
+    "From":              24,
+    "BC":                "87.1%",
+    "Added":             4,
+    "Removed":           1,
+    "TotalProblems":     7,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "24",
+    "From":              23,
+    "BC":                "89.1%",
+    "Added":             10,
+    "Removed":           2,
+    "TotalProblems":     3,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  }]
+}

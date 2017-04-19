@@ -6,15 +6,15 @@
 
   "Reports": [
   {
-    "Version":           "3.7.0-alpha3",
+    "Version":           "3.7.0-beta0",
     "From":              "3.6.3",
-    "BC":                "0%",
-    "Added":             0,
-    "Removed":           0,
-    "TotalProblems":     0,
-    "ObjectsAdded":      13,
-    "ObjectsRemoved":    15,
-    "ChangedSoname":     0,
+    "BC":                "20.23%",
+    "Added":             2028,
+    "Removed":           2033,
+    "TotalProblems":     1955,
+    "ObjectsAdded":      1,
+    "ObjectsRemoved":    3,
+    "ChangedSoname":     12,
     "TotalObjects":      15
   },
   {

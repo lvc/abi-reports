@@ -1,0 +1,44 @@
+{
+  "Title":      "Exiv2",
+  "SourceUrl":  "http://www.exiv2.org/download.html",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/exiv2/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "0.25",
+    "From":              "0.24",
+    "BC":                "80.9%",
+    "Added":             65,
+    "Removed":           79,
+    "TotalProblems":     2,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.24",
+    "From":              "0.23",
+    "BC":                "100%",
+    "Added":             79,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.23",
+    "From":              "0.22",
+    "BC":                "99.7%",
+    "Added":             3,
+    "Removed":           3,
+    "TotalProblems":     3,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  }]
+}

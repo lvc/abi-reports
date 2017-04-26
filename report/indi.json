@@ -1,0 +1,116 @@
+{
+  "Title":      "INDI",
+  "SourceUrl":  "https://github.com/indilib/indi/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/indi/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "1.4.1",
+    "From":              "1.4.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "1.4.0",
+    "From":              "1.3.1",
+    "BC":                "69.23%",
+    "Added":             17,
+    "Removed":           7,
+    "TotalProblems":     53,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    1,
+    "ChangedSoname":     0,
+    "TotalObjects":      3
+  },
+  {
+    "Version":           "1.3.1",
+    "From":              "1.3",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      3
+  },
+  {
+    "Version":           "1.3",
+    "From":              "1.2.0",
+    "BC":                "86.50%",
+    "Added":             15,
+    "Removed":           7,
+    "TotalProblems":     19,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      3
+  },
+  {
+    "Version":           "1.2.0",
+    "From":              "1.1.0",
+    "BC":                "63.76%",
+    "Added":             78,
+    "Removed":           39,
+    "TotalProblems":     94,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    1,
+    "ChangedSoname":     0,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "1.1.0",
+    "From":              "1.0.0",
+    "BC":                "68.75%",
+    "Added":             135,
+    "Removed":           23,
+    "TotalProblems":     110,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    1,
+    "ChangedSoname":     0,
+    "TotalObjects":      5
+  },
+  {
+    "Version":           "1.0.0",
+    "From":              "0.9.9",
+    "BC":                "74.90%",
+    "Added":             66,
+    "Removed":           15,
+    "TotalProblems":     63,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     4,
+    "TotalObjects":      5
+  },
+  {
+    "Version":           "0.9.9",
+    "From":              "0.9.8.1",
+    "BC":                "84.63%",
+    "Added":             17,
+    "Removed":           8,
+    "TotalProblems":     31,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      5
+  },
+  {
+    "Version":           "0.9.8.1",
+    "From":              "0.9.7",
+    "BC":                "88.27%",
+    "Added":             58,
+    "Removed":           18,
+    "TotalProblems":     73,
+    "ObjectsAdded":      2,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      3
+  }]
+}

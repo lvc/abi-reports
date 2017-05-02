@@ -1,0 +1,56 @@
+{
+  "Title":      "Casacore",
+  "SourceUrl":  "https://github.com/casacore/casacore/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/casacore/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "2.2.0",
+    "From":              "2.1.0",
+    "BC":                "62.57%",
+    "Added":             1745,
+    "Removed":           11971,
+    "TotalProblems":     995,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      13
+  },
+  {
+    "Version":           "2.1.0",
+    "From":              "2.0.3",
+    "BC":                "76.61%",
+    "Added":             10449,
+    "Removed":           3389,
+    "TotalProblems":     1618,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      13
+  },
+  {
+    "Version":           "2.0.3",
+    "From":              "2.0.1",
+    "BC":                "80.86%",
+    "Added":             2552,
+    "Removed":           17,
+    "TotalProblems":     1021,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      13
+  },
+  {
+    "Version":           "2.0.1",
+    "From":              "1.7.0",
+    "BC":                "37.36%",
+    "Added":             4922,
+    "Removed":           3812,
+    "TotalProblems":     8008,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    1,
+    "ChangedSoname":     13,
+    "TotalObjects":      14
+  }]
+}

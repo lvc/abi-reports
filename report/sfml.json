@@ -1,0 +1,104 @@
+{
+  "Title":      "SFML",
+  "SourceUrl":  "http://mirror0.sfml-dev.org/files/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/sfml/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "2.4.2",
+    "From":              "2.4.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      5
+  },
+  {
+    "Version":           "2.4.1",
+    "From":              "2.4.0",
+    "BC":                "100%",
+    "Added":             4,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      5
+  },
+  {
+    "Version":           "2.4.0",
+    "From":              "2.3.2",
+    "BC":                "81.02%",
+    "Added":             52,
+    "Removed":           3,
+    "TotalProblems":     30,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     5,
+    "TotalObjects":      5
+  },
+  {
+    "Version":           "2.3.2",
+    "From":              "2.3.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      5
+  },
+  {
+    "Version":           "2.3.1",
+    "From":              "2.3",
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      5
+  },
+  {
+    "Version":           "2.3",
+    "From":              "2.2",
+    "BC":                "87.9%",
+    "Added":             93,
+    "Removed":           17,
+    "TotalProblems":     58,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     5,
+    "TotalObjects":      5
+  },
+  {
+    "Version":           "2.2",
+    "From":              "2.1",
+    "BC":                "82.25%",
+    "Added":             59,
+    "Removed":           7,
+    "TotalProblems":     39,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     5,
+    "TotalObjects":      5
+  },
+  {
+    "Version":           "2.1",
+    "From":              "2.0",
+    "BC":                "89.49%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     6,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      5
+  }]
+}

@@ -1,0 +1,68 @@
+{
+  "Title":      "readline",
+  "SourceUrl":  "ftp://ftp.gnu.org/gnu/readline/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/readline/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "7.0",
+    "From":              "6.3",
+    "BC":                "99.64%",
+    "Added":             16,
+    "Removed":           0,
+    "TotalProblems":     14,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     2,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "6.3",
+    "From":              "6.2",
+    "BC":                "100%",
+    "Added":             10,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "6.2",
+    "From":              "6.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     2,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "6.1",
+    "From":              "6.0",
+    "BC":                "100%",
+    "Added":             3,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "6.0",
+    "From":              "5.2",
+    "BC":                "100%",
+    "Added":             6,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     2,
+    "TotalObjects":      2
+  }]
+}

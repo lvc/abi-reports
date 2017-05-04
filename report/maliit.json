@@ -1,0 +1,32 @@
+{
+  "Title":      "Maliit",
+  "SourceUrl":  "https://github.com/maliit/framework/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/maliit/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "0.99.1",
+    "From":              "0.99.0",
+    "BC":                "85.4%",
+    "Added":             0,
+    "Removed":           16,
+    "TotalProblems":     2,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.99.0",
+    "From":              "0.94.2",
+    "BC":                "23.35%",
+    "Added":             1,
+    "Removed":           45,
+    "TotalProblems":     7,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    2,
+    "ChangedSoname":     0,
+    "TotalObjects":      3
+  }]
+}

@@ -1,0 +1,68 @@
+{
+  "Title":      "NTFS-3G",
+  "SourceUrl":  "http://www.tuxera.com/community/open-source-ntfs-3g/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/ntfs-3g/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "2017.3.23",
+    "From":              "2016.2.22",
+    "BC":                "71.1%",
+    "Added":             3,
+    "Removed":           0,
+    "TotalProblems":     10,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "2016.2.22",
+    "From":              "2015.3.14",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     90,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "2015.3.14",
+    "From":              "2014.2.15",
+    "BC":                "99.4%",
+    "Added":             7,
+    "Removed":           0,
+    "TotalProblems":     2,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "2014.2.15",
+    "From":              "2013.1.13",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     3,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "2013.1.13",
+    "From":              "2012.1.15",
+    "BC":                "99.8%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     18,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  }]
+}

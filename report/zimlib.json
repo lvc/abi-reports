@@ -1,0 +1,56 @@
+{
+  "Title":      "Zimlib",
+  "SourceUrl":  "http://www.openzim.org/download/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/zimlib/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "1.4",
+    "From":              "1.3",
+    "BC":                "85%",
+    "Added":             3,
+    "Removed":           2,
+    "TotalProblems":     6,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.3",
+    "From":              "1.2",
+    "BC":                "75.4%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     6,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.2",
+    "From":              "1.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.1",
+    "From":              "1.0",
+    "BC":                "96.9%",
+    "Added":             9,
+    "Removed":           0,
+    "TotalProblems":     2,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  }]
+}

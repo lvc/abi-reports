@@ -1,0 +1,128 @@
+{
+  "Title":      "libconfig",
+  "SourceUrl":  "https://github.com/hyperrealm/libconfig/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/libconfig/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "1.6",
+    "From":              "1.5",
+    "BC":                "100%",
+    "Added":             10,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     2,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "1.5",
+    "From":              "1.4.9",
+    "BC":                "91.48%",
+    "Added":             43,
+    "Removed":           2,
+    "TotalProblems":     5,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "1.4.9",
+    "From":              "1.4.8",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "1.4.8",
+    "From":              "1.4.7",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "1.4.7",
+    "From":              "1.4.6",
+    "BC":                "87.42%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     6,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "1.4.6",
+    "From":              "1.4.5",
+    "BC":                "92.68%",
+    "Added":             4,
+    "Removed":           0,
+    "TotalProblems":     4,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "1.4.5",
+    "From":              "1.3.2",
+    "BC":                "73.06%",
+    "Added":             11,
+    "Removed":           4,
+    "TotalProblems":     38,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     2,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "1.3.2",
+    "From":              "1.3.1",
+    "BC":                "97.49%",
+    "Added":             10,
+    "Removed":           0,
+    "TotalProblems":     20,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     2,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "1.3.1",
+    "From":              "1.2.1",
+    "BC":                "97.09%",
+    "Added":             59,
+    "Removed":           0,
+    "TotalProblems":     30,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     2,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "1.2.1",
+    "From":              "1.2",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  }]
+}

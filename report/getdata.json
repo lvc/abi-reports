@@ -1,84 +1,60 @@
 {
-  "Title":      "gexiv2",
-  "SourceUrl":  "http://ftp.acc.umu.se/pub/gnome/sources/gexiv2/",
-  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/gexiv2/",
+  "Title":      "GetData",
+  "SourceUrl":  "https://sourceforge.net/projects/getdata/files/getdata/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/getdata/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
   {
-    "Version":           "0.10.6",
-    "From":              "0.10.5",
-    "BC":                "100%",
-    "Added":             1,
-    "Removed":           0,
-    "TotalProblems":     0,
-    "ObjectsAdded":      0,
-    "ObjectsRemoved":    0,
-    "ChangedSoname":     0,
-    "TotalObjects":      1
-  },
-  {
-    "Version":           "0.10.5",
-    "From":              "0.10.4",
-    "BC":                "100%",
-    "Added":             0,
-    "Removed":           0,
-    "TotalProblems":     0,
-    "ObjectsAdded":      0,
-    "ObjectsRemoved":    0,
-    "ChangedSoname":     0,
-    "TotalObjects":      1
-  },
-  {
-    "Version":           "0.10.4",
-    "From":              "0.10.3",
-    "BC":                "100%",
-    "Added":             0,
-    "Removed":           0,
-    "TotalProblems":     0,
-    "ObjectsAdded":      0,
-    "ObjectsRemoved":    0,
-    "ChangedSoname":     0,
-    "TotalObjects":      1
-  },
-  {
-    "Version":           "0.10.3",
-    "From":              "0.10.2",
-    "BC":                "100%",
-    "Added":             3,
-    "Removed":           0,
-    "TotalProblems":     0,
-    "ObjectsAdded":      0,
-    "ObjectsRemoved":    0,
-    "ChangedSoname":     0,
-    "TotalObjects":      1
-  },
-  {
-    "Version":           "0.10.2",
-    "From":              "0.10.1",
-    "BC":                "100%",
-    "Added":             0,
-    "Removed":           0,
-    "TotalProblems":     0,
-    "ObjectsAdded":      0,
-    "ObjectsRemoved":    0,
-    "ChangedSoname":     0,
-    "TotalObjects":      1
-  },
-  {
-    "Version":           "0.10.1",
-    "From":              "0.10.0",
-    "BC":                "100%",
-    "Added":             0,
-    "Removed":           0,
-    "TotalProblems":     0,
-    "ObjectsAdded":      0,
-    "ObjectsRemoved":    0,
-    "ChangedSoname":     0,
-    "TotalObjects":      1
-  },
-  {
     "Version":           "0.10.0",
+    "From":              "0.9.4",
+    "BC":                "97.23%",
+    "Added":             51,
+    "Removed":           0,
+    "TotalProblems":     23,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     2,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "0.9.4",
+    "From":              "0.9.3",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "0.9.3",
+    "From":              "0.9.2.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "0.9.2.1",
+    "From":              "0.9.2",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "0.9.2",
     "From":              "0.9.1",
     "BC":                "100%",
     "Added":             0,
@@ -87,6 +63,30 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "0.9.1",
+    "From":              "0.9.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "0.9.0",
+    "From":              "0.8.9",
+    "BC":                "50.70%",
+    "Added":             23,
+    "Removed":           29,
+    "TotalProblems":     81,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     2,
+    "TotalObjects":      2
   }]
 }

@@ -1,0 +1,20 @@
+{
+  "Title":      "libvzsock",
+  "SourceUrl":  "https://github.com/OpenVZ/libvzsock/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/libvzsock/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "7.0.3",
+    "From":              "7.0.2",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  }]
+}

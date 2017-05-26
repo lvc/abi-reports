@@ -1,13 +1,13 @@
 {
-  "Title":      "libcaer",
-  "SourceUrl":  "https://github.com/inilabs/libcaer/tags",
-  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/libcaer/",
+  "Title":      "log4shib",
+  "SourceUrl":  "http://shibboleth.net/downloads/log4shib/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/log4shib/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
   {
-    "Version":           "2.1.2",
-    "From":              "2.1.1",
+    "Version":           "1.0.9",
+    "From":              "1.0.8",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -18,8 +18,8 @@
     "TotalObjects":      1
   },
   {
-    "Version":           "2.1.1",
-    "From":              "2.1.0",
+    "Version":           "1.0.8",
+    "From":              "1.0.7",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -30,8 +30,8 @@
     "TotalObjects":      1
   },
   {
-    "Version":           "2.1.0",
-    "From":              "2.0.2",
+    "Version":           "1.0.7",
+    "From":              "1.0.6",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -42,10 +42,10 @@
     "TotalObjects":      1
   },
   {
-    "Version":           "2.0.2",
-    "From":              "2.0.1",
+    "Version":           "1.0.6",
+    "From":              "1.0.5",
     "BC":                "100%",
-    "Added":             3,
+    "Added":             0,
     "Removed":           0,
     "TotalProblems":     0,
     "ObjectsAdded":      0,
@@ -54,15 +54,27 @@
     "TotalObjects":      1
   },
   {
-    "Version":           "2.0.1",
+    "Version":           "1.0.5",
+    "From":              "1.0.4",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.0.4",
     "From":              "1.0.3",
-    "BC":                "83.3%",
-    "Added":             14,
+    "BC":                "100%",
+    "Added":             1,
     "Removed":           0,
-    "TotalProblems":     21,
+    "TotalProblems":     0,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
-    "ChangedSoname":     1,
+    "ChangedSoname":     0,
     "TotalObjects":      1
   },
   {
@@ -80,10 +92,10 @@
   {
     "Version":           "1.0.2",
     "From":              "1.0.1",
-    "BC":                "98.3%",
-    "Added":             1,
+    "BC":                "100%",
+    "Added":             0,
     "Removed":           0,
-    "TotalProblems":     15,
+    "TotalProblems":     0,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
@@ -91,11 +103,11 @@
   },
   {
     "Version":           "1.0.1",
-    "From":              "1.0.0",
-    "BC":                "87.1%",
-    "Added":             1,
-    "Removed":           3,
-    "TotalProblems":     6,
+    "From":              "1.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,

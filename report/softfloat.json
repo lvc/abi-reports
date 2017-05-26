@@ -1,0 +1,32 @@
+{
+  "Title":      "Berkeley SoftFloat",
+  "SourceUrl":  "http://www.jhauser.us/arithmetic/SoftFloat.html",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/softfloat/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "3c",
+    "From":              "3b",
+    "BC":                "98.6%",
+    "Added":             4,
+    "Removed":           4,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "3b",
+    "From":              "3a",
+    "BC":                "99.6%",
+    "Added":             50,
+    "Removed":           0,
+    "TotalProblems":     14,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  }]
+}

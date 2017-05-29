@@ -1,0 +1,140 @@
+{
+  "Title":      "JSON Voorhees",
+  "SourceUrl":  "https://github.com/tgockel/json-voorhees/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/json-voorhees/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "1.1.1",
+    "From":              "1.1.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.1.0",
+    "From":              "1.0.0",
+    "BC":                "92.5%",
+    "Added":             24,
+    "Removed":           0,
+    "TotalProblems":     3,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.0.0",
+    "From":              "0.5.1",
+    "BC":                "99.6%",
+    "Added":             0,
+    "Removed":           2,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.5.1",
+    "From":              "0.5.0",
+    "BC":                "99.4%",
+    "Added":             3,
+    "Removed":           3,
+    "TotalProblems":     1,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.5.0",
+    "From":              "0.4.1",
+    "BC":                "97.5%",
+    "Added":             180,
+    "Removed":           3,
+    "TotalProblems":     8,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.4.1",
+    "From":              "0.4.0",
+    "BC":                "100%",
+    "Added":             23,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.4.0",
+    "From":              "0.3.1",
+    "BC":                "85.7%",
+    "Added":             121,
+    "Removed":           25,
+    "TotalProblems":     20,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.3.1",
+    "From":              "0.3.0",
+    "BC":                "91.1%",
+    "Added":             11,
+    "Removed":           2,
+    "TotalProblems":     8,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.3.0",
+    "From":              "0.2.2",
+    "BC":                "100%",
+    "Added":             63,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.2.2",
+    "From":              "0.2.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.2.1",
+    "From":              "0.2.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  }]
+}

@@ -1,0 +1,68 @@
+{
+  "Title":      "libspatialite",
+  "SourceUrl":  "http://www.gaia-gis.it/gaia-sins/libspatialite-sources/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/libspatialite/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "4.4.0-RC1",
+    "From":              "4.3.0",
+    "BC":                "100%",
+    "Added":             8,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "4.3.0",
+    "From":              "4.2.0",
+    "BC":                "100%",
+    "Added":             48,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "4.2.0",
+    "From":              "4.1.1",
+    "BC":                "99.8%",
+    "Added":             130,
+    "Removed":           1,
+    "TotalProblems":     11,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "4.1.1",
+    "From":              "4.1.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "4.1.0",
+    "From":              "4.0.0",
+    "BC":                "100%",
+    "Added":             69,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  }]
+}

@@ -1,0 +1,68 @@
+{
+  "Title":      "CLooG",
+  "SourceUrl":  "http://www.bastoul.net/cloog/pages/download/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/cloog/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "0.18.4",
+    "From":              "0.18.3",
+    "BC":                "95.59%",
+    "Added":             382,
+    "Removed":           85,
+    "TotalProblems":     270,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "0.18.3",
+    "From":              "0.18.1",
+    "BC":                "99.19%",
+    "Added":             153,
+    "Removed":           10,
+    "TotalProblems":     67,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "0.18.1",
+    "From":              "0.18.0",
+    "BC":                "100%",
+    "Added":             158,
+    "Removed":           0,
+    "TotalProblems":     4,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "0.18.0",
+    "From":              "0.17.0",
+    "BC":                "99.37%",
+    "Added":             298,
+    "Removed":           0,
+    "TotalProblems":     28,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     2,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "0.17.0",
+    "From":              "0.16.3",
+    "BC":                "89.59%",
+    "Added":             312,
+    "Removed":           65,
+    "TotalProblems":     233,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     2,
+    "TotalObjects":      2
+  }]
+}

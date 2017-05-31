@@ -1,0 +1,92 @@
+{
+  "Title":      "ALGLIB",
+  "SourceUrl":  "http://www.alglib.net/translator/re/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/alglib/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "3.11.0",
+    "From":              "3.10.0",
+    "BC":                "93.6%",
+    "Added":             419,
+    "Removed":           13,
+    "TotalProblems":     113,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "3.10.0",
+    "From":              "3.9.0",
+    "BC":                "95.4%",
+    "Added":             165,
+    "Removed":           1,
+    "TotalProblems":     59,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "3.9.0",
+    "From":              "3.8.2",
+    "BC":                "51.5%",
+    "Added":             634,
+    "Removed":           186,
+    "TotalProblems":     788,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "3.8.2",
+    "From":              "3.8.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "3.8.1",
+    "From":              "3.8.0",
+    "BC":                "97.5%",
+    "Added":             70,
+    "Removed":           1,
+    "TotalProblems":     4,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "3.8.0",
+    "From":              "3.7.0",
+    "BC":                "91%",
+    "Added":             208,
+    "Removed":           30,
+    "TotalProblems":     66,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "3.7.0",
+    "From":              "3.6.0",
+    "BC":                "86.4%",
+    "Added":             592,
+    "Removed":           202,
+    "TotalProblems":     408,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  }]
+}

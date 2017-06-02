@@ -1,10 +1,22 @@
 {
   "Title":      "OpenSceneGraph",
-  "SourceUrl":  "https://github.com/openscenegraph/OpenSceneGraph/tags?after=OpenSceneGraph-3.4.0-rc1",
+  "SourceUrl":  "https://github.com/openscenegraph/OpenSceneGraph/tags",
   "Tracker":    "https://abi-laboratory.pro/tracker/timeline/openscenegraph/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "3.5.6",
+    "From":              "3.5.5",
+    "BC":                "72.06%",
+    "Added":             387,
+    "Removed":           293,
+    "TotalProblems":     660,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     18,
+    "TotalObjects":      18
+  },
   {
     "Version":           "3.5.5",
     "From":              "3.5.4",

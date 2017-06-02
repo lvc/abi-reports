@@ -1,13 +1,13 @@
 {
-  "Title":      "libapt",
-  "SourceUrl":  "http://ftp.debian.org/debian/pool/main/a/apt/",
-  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/apt/",
+  "Title":      "xkbcommon",
+  "SourceUrl":  "https://github.com/xkbcommon/libxkbcommon/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/xkbcommon/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
   {
-    "Version":           "1.4.6",
-    "From":              "1.4.5",
+    "Version":           "0.7.1",
+    "From":              "0.7.0",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -15,11 +15,23 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      3
+    "TotalObjects":      2
   },
   {
-    "Version":           "1.4.5",
-    "From":              "1.4.4",
+    "Version":           "0.7.0",
+    "From":              "0.6.1",
+    "BC":                "100%",
+    "Added":             2,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "0.6.1",
+    "From":              "0.6.0",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -27,11 +39,35 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      3
+    "TotalObjects":      2
   },
   {
-    "Version":           "1.4.4",
-    "From":              "1.4.3",
+    "Version":           "0.6.0",
+    "From":              "0.5.0",
+    "BC":                "100%",
+    "Added":             2,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "0.5.0",
+    "From":              "0.4.3",
+    "BC":                "74.98%",
+    "Added":             14,
+    "Removed":           24,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "0.4.3",
+    "From":              "0.4.2",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -39,11 +75,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      3
+    "TotalObjects":      2
   },
   {
-    "Version":           "1.4.3",
-    "From":              "1.4.2",
+    "Version":           "0.4.2",
+    "From":              "0.4.1",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -51,11 +87,35 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      3
+    "TotalObjects":      2
   },
   {
-    "Version":           "1.4.2",
-    "From":              "1.4.1",
+    "Version":           "0.4.1",
+    "From":              "0.4.0",
+    "BC":                "100%",
+    "Added":             3,
+    "Removed":           0,
+    "TotalProblems":     2,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "0.4.0",
+    "From":              "0.3.2",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      1,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.3.2",
+    "From":              "0.3.1",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -63,23 +123,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      3
+    "TotalObjects":      1
   },
   {
-    "Version":           "1.4.1",
-    "From":              "1.4",
-    "BC":                "100%",
-    "Added":             0,
-    "Removed":           0,
-    "TotalProblems":     0,
-    "ObjectsAdded":      0,
-    "ObjectsRemoved":    0,
-    "ChangedSoname":     0,
-    "TotalObjects":      3
-  },
-  {
-    "Version":           "1.4",
-    "From":              "1.3.5",
+    "Version":           "0.3.1",
+    "From":              "0.3.0",
     "BC":                "100%",
     "Added":             3,
     "Removed":           0,
@@ -87,66 +135,18 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      3
+    "TotalObjects":      1
   },
   {
-    "Version":           "1.3.5",
-    "From":              "1.3.3",
+    "Version":           "0.3.0",
+    "From":              "0.2.0",
     "BC":                "100%",
-    "Added":             0,
+    "Added":             1,
     "Removed":           0,
     "TotalProblems":     0,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      3
-  },
-  {
-    "Version":           "1.3.3",
-    "From":              "1.3.1",
-    "BC":                "100%",
-    "Added":             0,
-    "Removed":           0,
-    "TotalProblems":     0,
-    "ObjectsAdded":      0,
-    "ObjectsRemoved":    0,
-    "ChangedSoname":     0,
-    "TotalObjects":      3
-  },
-  {
-    "Version":           "1.3.1",
-    "From":              "1.2.20",
-    "BC":                "34.66%",
-    "Added":             318,
-    "Removed":           436,
-    "TotalProblems":     439,
-    "ObjectsAdded":      0,
-    "ObjectsRemoved":    0,
-    "ChangedSoname":     0,
-    "TotalObjects":      3
-  },
-  {
-    "Version":           "1.2.20",
-    "From":              "1.0.9.8.4",
-    "BC":                "9.06%",
-    "Added":             681,
-    "Removed":           673,
-    "TotalProblems":     814,
-    "ObjectsAdded":      0,
-    "ObjectsRemoved":    0,
-    "ChangedSoname":     2,
-    "TotalObjects":      3
-  },
-  {
-    "Version":           "1.0.9.8.4",
-    "From":              "1.0.9.8",
-    "BC":                "100%",
-    "Added":             0,
-    "Removed":           0,
-    "TotalProblems":     0,
-    "ObjectsAdded":      0,
-    "ObjectsRemoved":    0,
-    "ChangedSoname":     0,
-    "TotalObjects":      3
+    "TotalObjects":      1
   }]
 }

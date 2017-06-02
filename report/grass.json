@@ -1,0 +1,32 @@
+{
+  "Title":      "GRASS GIS",
+  "SourceUrl":  "https://grass.osgeo.org/download/software/sources/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/grass/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "7.2.0",
+    "From":              "7.0.5",
+    "BC":                "99.25%",
+    "Added":             33,
+    "Removed":           4,
+    "TotalProblems":     19,
+    "ObjectsAdded":      3,
+    "ObjectsRemoved":    2,
+    "ChangedSoname":     45,
+    "TotalObjects":      47
+  },
+  {
+    "Version":           "7.0.5",
+    "From":              "6.4.6",
+    "BC":                "82.76%",
+    "Added":             53,
+    "Removed":           46,
+    "TotalProblems":     36,
+    "ObjectsAdded":      36,
+    "ObjectsRemoved":    2,
+    "ChangedSoname":     11,
+    "TotalObjects":      13
+  }]
+}

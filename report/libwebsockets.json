@@ -1,6 +1,6 @@
 {
   "Title":      "libwebsockets",
-  "SourceUrl":  "https://github.com/warmcat/libwebsockets/tags?after=v1.7.8",
+  "SourceUrl":  "https://github.com/warmcat/libwebsockets/tags",
   "Tracker":    "https://abi-laboratory.pro/tracker/timeline/libwebsockets/",
   "Maintainer": "Andrey P.",
 

@@ -1,0 +1,32 @@
+{
+  "Title":      "DBus Menu",
+  "SourceUrl":  "https://launchpad.net/libdbusmenu/+download",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/libdbusmenu/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "16.04.0",
+    "From":              "12.10.2",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      3
+  },
+  {
+    "Version":           "12.10.2",
+    "From":              "12.10.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      3
+  }]
+}

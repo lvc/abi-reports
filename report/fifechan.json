@@ -1,0 +1,44 @@
+{
+  "Title":      "FIFECHAN",
+  "SourceUrl":  "https://github.com/fifengine/fifechan/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/fifechan/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "0.1.4",
+    "From":              "0.1.3",
+    "BC":                "25.02%",
+    "Added":             10,
+    "Removed":           99,
+    "TotalProblems":     29,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     2,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "0.1.3",
+    "From":              "0.1.2",
+    "BC":                "28.33%",
+    "Added":             124,
+    "Removed":           0,
+    "TotalProblems":     29,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     2,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "0.1.2",
+    "From":              "0.1.1",
+    "BC":                "94.62%",
+    "Added":             6,
+    "Removed":           0,
+    "TotalProblems":     2,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     2,
+    "TotalObjects":      2
+  }]
+}

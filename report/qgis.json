@@ -1,0 +1,128 @@
+{
+  "Title":      "QGIS",
+  "SourceUrl":  "http://qgis.org/downloads/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/qgis/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "2.18.9",
+    "From":              "2.16.3",
+    "BC":                "89.40%",
+    "Added":             269,
+    "Removed":           44,
+    "TotalProblems":     149,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     4,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "2.16.3",
+    "From":              "2.14.15",
+    "BC":                "62.44%",
+    "Added":             1773,
+    "Removed":           148,
+    "TotalProblems":     754,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     4,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "2.14.15",
+    "From":              "2.12.3",
+    "BC":                "75.51%",
+    "Added":             1170,
+    "Removed":           398,
+    "TotalProblems":     758,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     4,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "2.12.3",
+    "From":              "2.10.1",
+    "BC":                "57.83%",
+    "Added":             2010,
+    "Removed":           809,
+    "TotalProblems":     1380,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     4,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "2.10.1",
+    "From":              "2.8.9",
+    "BC":                "71.86%",
+    "Added":             920,
+    "Removed":           702,
+    "TotalProblems":     357,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     4,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "2.8.9",
+    "From":              "2.6.1",
+    "BC":                "71.91%",
+    "Added":             662,
+    "Removed":           157,
+    "TotalProblems":     410,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     4,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "2.6.1",
+    "From":              "2.4.0",
+    "BC":                "75.72%",
+    "Added":             1718,
+    "Removed":           394,
+    "TotalProblems":     419,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    1,
+    "ChangedSoname":     4,
+    "TotalObjects":      5
+  },
+  {
+    "Version":           "2.4.0",
+    "From":              "2.2.0",
+    "BC":                "63.22%",
+    "Added":             1818,
+    "Removed":           151,
+    "TotalProblems":     514,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     5,
+    "TotalObjects":      5
+  },
+  {
+    "Version":           "2.2.0",
+    "From":              "2.0.1",
+    "BC":                "60.81%",
+    "Added":             837,
+    "Removed":           146,
+    "TotalProblems":     545,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     5,
+    "TotalObjects":      5
+  },
+  {
+    "Version":           "2.0.1",
+    "From":              "1.8.0",
+    "BC":                "38.94%",
+    "Added":             2920,
+    "Removed":           850,
+    "TotalProblems":     979,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     5,
+    "TotalObjects":      5
+  }]
+}

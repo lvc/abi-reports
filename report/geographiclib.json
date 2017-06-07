@@ -1,0 +1,80 @@
+{
+  "Title":      "GeographicLib",
+  "SourceUrl":  "https://sourceforge.net/projects/geographiclib/files/distrib/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/geographiclib/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "1.48",
+    "From":              "1.47",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.47",
+    "From":              "1.46",
+    "BC":                "99.3%",
+    "Added":             4,
+    "Removed":           2,
+    "TotalProblems":     6,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.46",
+    "From":              "1.45",
+    "BC":                "94.8%",
+    "Added":             14,
+    "Removed":           0,
+    "TotalProblems":     8,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.45",
+    "From":              "1.44",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.44",
+    "From":              "1.43",
+    "BC":                "99.6%",
+    "Added":             10,
+    "Removed":           1,
+    "TotalProblems":     7,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.43",
+    "From":              "1.42",
+    "BC":                "98.9%",
+    "Added":             2,
+    "Removed":           0,
+    "TotalProblems":     4,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  }]
+}

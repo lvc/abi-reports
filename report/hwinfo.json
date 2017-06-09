@@ -1,6 +1,6 @@
 {
   "Title":      "hwinfo",
-  "SourceUrl":  "https://github.com/openSUSE/hwinfo/tags?after=hwinfo-sl_8_1-5_61",
+  "SourceUrl":  "https://github.com/openSUSE/hwinfo/tags",
   "Tracker":    "https://abi-laboratory.pro/tracker/timeline/hwinfo/",
   "Maintainer": "Andrey P.",
 

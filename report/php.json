@@ -6,9 +6,9 @@
 
   "Reports": [
   {
-    "Version":           "7.1.5",
-    "From":              "7.0.19",
-    "BC":                "57.6%",
+    "Version":           "7.1.6",
+    "From":              "7.0.20",
+    "BC":                "57.5%",
     "Added":             62,
     "Removed":           16,
     "TotalProblems":     123,
@@ -18,9 +18,9 @@
     "TotalObjects":      1
   },
   {
-    "Version":           "7.0.19",
+    "Version":           "7.0.20",
     "From":              "5.6.30",
-    "BC":                "54%",
+    "BC":                "53.9%",
     "Added":             238,
     "Removed":           92,
     "TotalProblems":     1664,

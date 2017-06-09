@@ -1,25 +1,13 @@
 {
-  "Title":      "FFTW",
-  "SourceUrl":  "https://github.com/FFTW/fftw3/tags",
-  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/fftw/",
+  "Title":      "volume_key",
+  "SourceUrl":  "http://releases.pagure.org/volume_key/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/volume_key/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
   {
-    "Version":           "3.3.6-pl2",
-    "From":              "3.3.5",
-    "BC":                "99.3%",
-    "Added":             0,
-    "Removed":           0,
-    "TotalProblems":     2,
-    "ObjectsAdded":      0,
-    "ObjectsRemoved":    0,
-    "ChangedSoname":     0,
-    "TotalObjects":      1
-  },
-  {
-    "Version":           "3.3.5",
-    "From":              "3.3.4",
+    "Version":           "0.3.9",
+    "From":              "0.3.8",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -30,8 +18,56 @@
     "TotalObjects":      1
   },
   {
-    "Version":           "3.3.4",
-    "From":              "3.3.3",
+    "Version":           "0.3.8",
+    "From":              "0.3.7",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.3.7",
+    "From":              "0.3.6",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.3.6",
+    "From":              "0.3.5",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.3.5",
+    "From":              "0.3.4",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.3.4",
+    "From":              "0.3.3",
     "BC":                "100%",
     "Added":             1,
     "Removed":           0,
@@ -42,8 +78,8 @@
     "TotalObjects":      1
   },
   {
-    "Version":           "3.3.3",
-    "From":              "3.3.2",
+    "Version":           "0.3.3",
+    "From":              "0.3.2",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -54,8 +90,8 @@
     "TotalObjects":      1
   },
   {
-    "Version":           "3.3.2",
-    "From":              "3.3.1",
+    "Version":           "0.3.2",
+    "From":              "0.3.1",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -66,36 +102,12 @@
     "TotalObjects":      1
   },
   {
-    "Version":           "3.3.1",
-    "From":              "3.3",
-    "BC":                "99.3%",
+    "Version":           "0.3.1",
+    "From":              "0.3",
+    "BC":                "100%",
     "Added":             0,
     "Removed":           0,
-    "TotalProblems":     2,
-    "ObjectsAdded":      0,
-    "ObjectsRemoved":    0,
-    "ChangedSoname":     0,
-    "TotalObjects":      1
-  },
-  {
-    "Version":           "3.3",
-    "From":              "3.2.1",
-    "BC":                "99.2%",
-    "Added":             5,
-    "Removed":           0,
-    "TotalProblems":     2,
-    "ObjectsAdded":      0,
-    "ObjectsRemoved":    0,
-    "ChangedSoname":     0,
-    "TotalObjects":      1
-  },
-  {
-    "Version":           "3.2.1",
-    "From":              "3.2",
-    "BC":                "99.2%",
-    "Added":             0,
-    "Removed":           0,
-    "TotalProblems":     2,
+    "TotalProblems":     0,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,

@@ -1,13 +1,13 @@
 {
-  "Title":      "KDNSSD",
-  "SourceUrl":  "http://download.kde.org/stable/frameworks/",
-  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/kdnssd/",
+  "Title":      "GNOME Online Accounts",
+  "SourceUrl":  "http://ftp.gnome.org/pub/GNOME/sources/gnome-online-accounts/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/gnome-online-accounts/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
   {
-    "Version":           "5.35.0",
-    "From":              "5.34.0",
+    "Version":           "3.24.1",
+    "From":              "3.24.0",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -15,11 +15,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
+    "TotalObjects":      2
   },
   {
-    "Version":           "5.34.0",
-    "From":              "5.33.0",
+    "Version":           "3.24.0",
+    "From":              "3.23.4",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -27,11 +27,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
+    "TotalObjects":      2
   },
   {
-    "Version":           "5.33.0",
-    "From":              "5.32.0",
+    "Version":           "3.23.4",
+    "From":              "3.23.3",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -39,11 +39,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
+    "TotalObjects":      2
   },
   {
-    "Version":           "5.32.0",
-    "From":              "5.31.0",
+    "Version":           "3.23.3",
+    "From":              "3.22.5",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -51,11 +51,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
+    "TotalObjects":      2
   },
   {
-    "Version":           "5.31.0",
-    "From":              "5.30.0",
+    "Version":           "3.22.5",
+    "From":              "3.22.4",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -63,11 +63,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
+    "TotalObjects":      2
   },
   {
-    "Version":           "5.30.0",
-    "From":              "5.29.0",
+    "Version":           "3.22.4",
+    "From":              "3.22.3",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -75,11 +75,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
+    "TotalObjects":      2
   },
   {
-    "Version":           "5.29.0",
-    "From":              "5.28.0",
+    "Version":           "3.22.3",
+    "From":              "3.22.2",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -87,11 +87,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
+    "TotalObjects":      2
   },
   {
-    "Version":           "5.28.0",
-    "From":              "5.27.0",
+    "Version":           "3.22.2",
+    "From":              "3.22.1",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -99,11 +99,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
+    "TotalObjects":      2
   },
   {
-    "Version":           "5.27.0",
-    "From":              "5.26.0",
+    "Version":           "3.22.1",
+    "From":              "3.22.0",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -111,23 +111,23 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
+    "TotalObjects":      2
   },
   {
-    "Version":           "5.26.0",
-    "From":              "5.25.0",
-    "BC":                "100%",
+    "Version":           "3.22.0",
+    "From":              "3.21.4",
+    "BC":                "99.79%",
     "Added":             0,
-    "Removed":           0,
-    "TotalProblems":     0,
+    "Removed":           1,
+    "TotalProblems":     2,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
+    "TotalObjects":      2
   },
   {
-    "Version":           "5.25.0",
-    "From":              "5.24.0",
+    "Version":           "3.21.4",
+    "From":              "3.21.3",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -135,11 +135,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
+    "TotalObjects":      2
   },
   {
-    "Version":           "5.24.0",
-    "From":              "5.23.0",
+    "Version":           "3.21.3",
+    "From":              "3.21.1",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -147,11 +147,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
+    "TotalObjects":      2
   },
   {
-    "Version":           "5.23.0",
-    "From":              "5.22.0",
+    "Version":           "3.21.1",
+    "From":              "3.20.7",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -159,11 +159,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
+    "TotalObjects":      2
   },
   {
-    "Version":           "5.22.0",
-    "From":              "5.21.0",
+    "Version":           "3.20.7",
+    "From":              "3.20.6",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -171,11 +171,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
+    "TotalObjects":      2
   },
   {
-    "Version":           "5.21.0",
-    "From":              "5.20.0",
+    "Version":           "3.20.6",
+    "From":              "3.20.5",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -183,11 +183,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
+    "TotalObjects":      2
   },
   {
-    "Version":           "5.20.0",
-    "From":              "5.19.0",
+    "Version":           "3.20.5",
+    "From":              "3.20.4",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -195,11 +195,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
+    "TotalObjects":      2
   },
   {
-    "Version":           "5.19.0",
-    "From":              "5.18.0",
+    "Version":           "3.20.4",
+    "From":              "3.20.3",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -207,11 +207,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
+    "TotalObjects":      2
   },
   {
-    "Version":           "5.18.0",
-    "From":              "5.17.0",
+    "Version":           "3.20.3",
+    "From":              "3.20.2",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -219,11 +219,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
+    "TotalObjects":      2
   },
   {
-    "Version":           "5.17.0",
-    "From":              "5.16.0",
+    "Version":           "3.20.2",
+    "From":              "3.20.1",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -231,11 +231,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
+    "TotalObjects":      2
   },
   {
-    "Version":           "5.16.0",
-    "From":              "5.15.0",
+    "Version":           "3.20.1",
+    "From":              "3.20.0",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -243,11 +243,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
+    "TotalObjects":      2
   },
   {
-    "Version":           "5.15.0",
-    "From":              "5.14.0",
+    "Version":           "3.20.0",
+    "From":              "3.19.4",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -255,11 +255,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
+    "TotalObjects":      2
   },
   {
-    "Version":           "5.14.0",
-    "From":              "5.13.0",
+    "Version":           "3.19.4",
+    "From":              "3.19.3",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -267,11 +267,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
+    "TotalObjects":      2
   },
   {
-    "Version":           "5.13.0",
-    "From":              "5.12.0",
+    "Version":           "3.19.3",
+    "From":              "3.19.2",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -279,11 +279,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
+    "TotalObjects":      2
   },
   {
-    "Version":           "5.12.0",
-    "From":              "5.11.0",
+    "Version":           "3.19.2",
+    "From":              "3.19.1",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -291,11 +291,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
+    "TotalObjects":      2
   },
   {
-    "Version":           "5.11.0",
-    "From":              "5.10.0",
+    "Version":           "3.19.1",
+    "From":              "3.18.6",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -303,11 +303,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
+    "TotalObjects":      2
   },
   {
-    "Version":           "5.10.0",
-    "From":              "5.9.0",
+    "Version":           "3.18.6",
+    "From":              "3.18.5",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -315,11 +315,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
+    "TotalObjects":      2
   },
   {
-    "Version":           "5.9.0",
-    "From":              "5.8.0",
+    "Version":           "3.18.5",
+    "From":              "3.18.4",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -327,11 +327,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
+    "TotalObjects":      2
   },
   {
-    "Version":           "5.8.0",
-    "From":              "5.7.0",
+    "Version":           "3.18.4",
+    "From":              "3.18.3",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -339,11 +339,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
+    "TotalObjects":      2
   },
   {
-    "Version":           "5.7.0",
-    "From":              "5.6.0",
+    "Version":           "3.18.3",
+    "From":              "3.18.2.1",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -351,11 +351,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
+    "TotalObjects":      2
   },
   {
-    "Version":           "5.6.0",
-    "From":              "5.5.0",
+    "Version":           "3.18.2.1",
+    "From":              "3.18.2",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -363,11 +363,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
+    "TotalObjects":      2
   },
   {
-    "Version":           "5.5.0",
-    "From":              "5.4.0",
+    "Version":           "3.18.2",
+    "From":              "3.18.1",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -375,11 +375,11 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
+    "TotalObjects":      2
   },
   {
-    "Version":           "5.4.0",
-    "From":              "5.3.0",
+    "Version":           "3.18.1",
+    "From":              "3.18.0",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -387,42 +387,18 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
+    "TotalObjects":      2
   },
   {
-    "Version":           "5.3.0",
-    "From":              "5.2.0",
+    "Version":           "3.18.0",
+    "From":              "3.17.2",
     "BC":                "100%",
-    "Added":             0,
+    "Added":             17,
     "Removed":           0,
     "TotalProblems":     0,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
-  },
-  {
-    "Version":           "5.2.0",
-    "From":              "5.1.0",
-    "BC":                "100%",
-    "Added":             0,
-    "Removed":           0,
-    "TotalProblems":     0,
-    "ObjectsAdded":      0,
-    "ObjectsRemoved":    0,
-    "ChangedSoname":     0,
-    "TotalObjects":      1
-  },
-  {
-    "Version":           "5.1.0",
-    "From":              "5.0.0",
-    "BC":                "100%",
-    "Added":             0,
-    "Removed":           0,
-    "TotalProblems":     0,
-    "ObjectsAdded":      0,
-    "ObjectsRemoved":    0,
-    "ChangedSoname":     0,
-    "TotalObjects":      1
+    "TotalObjects":      2
   }]
 }

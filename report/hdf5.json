@@ -19,14 +19,26 @@
   },
   {
     "Version":           "1.10.0",
-    "From":              "1.8.18",
-    "BC":                "21.67%",
+    "From":              "1.8.19",
+    "BC":                "21.50%",
     "Added":             68,
-    "Removed":           8,
+    "Removed":           17,
     "TotalProblems":     306,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     2,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "1.8.19",
+    "From":              "1.8.18",
+    "BC":                "100%",
+    "Added":             9,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      2
   },
   {

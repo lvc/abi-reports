@@ -1,0 +1,20 @@
+{
+  "Title":      "FreeTDS",
+  "SourceUrl":  "https://github.com/FreeTDS/freetds/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/freetds/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "1_00",
+    "From":              "0_95",
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     8,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  }]
+}

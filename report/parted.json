@@ -1,0 +1,92 @@
+{
+  "Title":      "GNU Parted",
+  "SourceUrl":  "http://ftp.gnu.org/gnu/parted/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/parted/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "3.2",
+    "From":              "3.1",
+    "BC":                "74.30%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     4,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "3.1",
+    "From":              "3.0",
+    "BC":                "99.4%",
+    "Added":             0,
+    "Removed":           1,
+    "TotalProblems":     0,
+    "ObjectsAdded":      1,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "3.0",
+    "From":              "2.4",
+    "BC":                "82.9%",
+    "Added":             0,
+    "Removed":           11,
+    "TotalProblems":     11,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "2.4",
+    "From":              "2.3",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "2.3",
+    "From":              "2.2",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     1,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "2.2",
+    "From":              "2.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "2.1",
+    "From":              "1.9.0",
+    "BC":                "98%",
+    "Added":             14,
+    "Removed":           1,
+    "TotalProblems":     11,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  }]
+}

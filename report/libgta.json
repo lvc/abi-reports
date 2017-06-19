@@ -1,13 +1,13 @@
 {
-  "Title":      "Expat",
-  "SourceUrl":  "https://sourceforge.net/projects/expat/files/expat/",
-  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/expat/",
+  "Title":      "GTA",
+  "SourceUrl":  "http://ftp.nchc.org.tw/Unix/NonGNU/gta/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/libgta/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
   {
-    "Version":           "2.2.1",
-    "From":              "2.2.0",
+    "Version":           "1.0.8",
+    "From":              "1.0.7",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -18,8 +18,8 @@
     "TotalObjects":      1
   },
   {
-    "Version":           "2.2.0",
-    "From":              "2.1.1",
+    "Version":           "1.0.7",
+    "From":              "1.0.5",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -30,8 +30,8 @@
     "TotalObjects":      1
   },
   {
-    "Version":           "2.1.1",
-    "From":              "2.1.0",
+    "Version":           "1.0.5",
+    "From":              "1.0.4",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -42,20 +42,8 @@
     "TotalObjects":      1
   },
   {
-    "Version":           "2.1.0",
-    "From":              "2.0.1",
-    "BC":                "100%",
-    "Added":             1,
-    "Removed":           0,
-    "TotalProblems":     0,
-    "ObjectsAdded":      0,
-    "ObjectsRemoved":    0,
-    "ChangedSoname":     0,
-    "TotalObjects":      1
-  },
-  {
-    "Version":           "2.0.1",
-    "From":              "2.0.0",
+    "Version":           "1.0.4",
+    "From":              "1.0.3",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -66,32 +54,8 @@
     "TotalObjects":      1
   },
   {
-    "Version":           "2.0.0",
-    "From":              "1.95.8",
-    "BC":                "98.5%",
-    "Added":             0,
-    "Removed":           0,
-    "TotalProblems":     3,
-    "ObjectsAdded":      0,
-    "ObjectsRemoved":    0,
-    "ChangedSoname":     1,
-    "TotalObjects":      1
-  },
-  {
-    "Version":           "1.95.8",
-    "From":              "1.95.7",
-    "BC":                "100%",
-    "Added":             3,
-    "Removed":           0,
-    "TotalProblems":     0,
-    "ObjectsAdded":      0,
-    "ObjectsRemoved":    0,
-    "ChangedSoname":     0,
-    "TotalObjects":      1
-  },
-  {
-    "Version":           "1.95.7",
-    "From":              "1.95.6",
+    "Version":           "1.0.3",
+    "From":              "1.0.2",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -102,24 +66,48 @@
     "TotalObjects":      1
   },
   {
-    "Version":           "1.95.6",
-    "From":              "1.95.5",
+    "Version":           "1.0.2",
+    "From":              "1.0.1",
     "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.0.1",
+    "From":              "1.0.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.0.0",
+    "From":              "0.9.4",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.9.4",
+    "From":              "0.9.3",
+    "BC":                "94.4%",
     "Added":             4,
-    "Removed":           0,
-    "TotalProblems":     4,
-    "ObjectsAdded":      0,
-    "ObjectsRemoved":    0,
-    "ChangedSoname":     0,
-    "TotalObjects":      1
-  },
-  {
-    "Version":           "1.95.5",
-    "From":              "1.95.4",
-    "BC":                "99.1%",
-    "Added":             2,
-    "Removed":           0,
-    "TotalProblems":     6,
+    "Removed":           4,
+    "TotalProblems":     0,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,

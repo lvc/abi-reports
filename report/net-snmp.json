@@ -1,0 +1,92 @@
+{
+  "Title":      "NET-SNMP",
+  "SourceUrl":  "https://sourceforge.net/projects/net-snmp/files/net-snmp/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/net-snmp/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "5.7.3",
+    "From":              "5.7.2",
+    "BC":                "99.93%",
+    "Added":             2,
+    "Removed":           1,
+    "TotalProblems":     8,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "5.7.2",
+    "From":              "5.7.1",
+    "BC":                "100%",
+    "Added":             7,
+    "Removed":           0,
+    "TotalProblems":     12,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "5.7.1",
+    "From":              "5.6.2.1",
+    "BC":                "92.26%",
+    "Added":             29,
+    "Removed":           11,
+    "TotalProblems":     33,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     4,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "5.6.2.1",
+    "From":              "5.6.2",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "5.6.2",
+    "From":              "5.5.2.1",
+    "BC":                "93.34%",
+    "Added":             305,
+    "Removed":           2,
+    "TotalProblems":     95,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     4,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "5.5.2.1",
+    "From":              "5.5.2",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "5.5.2",
+    "From":              "5.4.4",
+    "BC":                "98.18%",
+    "Added":             70,
+    "Removed":           1,
+    "TotalProblems":     56,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     4,
+    "TotalObjects":      4
+  }]
+}

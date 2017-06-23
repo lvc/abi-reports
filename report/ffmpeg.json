@@ -32,12 +32,12 @@
   {
     "Version":           "3.3",
     "From":              "3.2.6",
-    "BC":                "81.79%",
+    "BC":                "82.74%",
     "Added":             22,
     "Removed":           0,
     "TotalProblems":     64,
     "ObjectsAdded":      0,
-    "ObjectsRemoved":    1,
+    "ObjectsRemoved":    0,
     "ChangedSoname":     0,
     "TotalObjects":      8
   },
@@ -48,10 +48,10 @@
     "Added":             0,
     "Removed":           0,
     "TotalProblems":     0,
-    "ObjectsAdded":      1,
+    "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
-    "ChangedSoname":     0,
-    "TotalObjects":      7
+    "ChangedSoname":     1,
+    "TotalObjects":      8
   },
   {
     "Version":           "3.2.5",
@@ -115,15 +115,27 @@
   },
   {
     "Version":           "3.2",
-    "From":              "3.1.8",
-    "BC":                "83.48%",
+    "From":              "3.1.9",
+    "BC":                "83.64%",
     "Added":             17,
     "Removed":           1,
-    "TotalProblems":     34,
+    "TotalProblems":     33,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      7
+    "TotalObjects":      8
+  },
+  {
+    "Version":           "3.1.9",
+    "From":              "3.1.8",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      8
   },
   {
     "Version":           "3.1.8",
@@ -333,12 +345,12 @@
     "Version":           "3.0",
     "From":              "2.8.12",
     "BC":                "0%",
-    "Added":             884,
-    "Removed":           891,
+    "Added":             893,
+    "Removed":           900,
     "TotalProblems":     0,
     "ObjectsAdded":      0,
-    "ObjectsRemoved":    1,
-    "ChangedSoname":     7,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     8,
     "TotalObjects":      8
   },
   {

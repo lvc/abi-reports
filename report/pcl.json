@@ -6,6 +6,18 @@
 
   "Reports": [
   {
+    "Version":           "1.8.1rc1",
+    "From":              "1.8.0",
+    "BC":                "97.12%",
+    "Added":             408,
+    "Removed":           1920,
+    "TotalProblems":     4703,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      17
+  },
+  {
     "Version":           "1.8.0",
     "From":              "1.7.2",
     "BC":                "92.08%",

@@ -6,6 +6,30 @@
 
   "Reports": [
   {
+    "Version":           "1.4.0.dev1",
+    "From":              "1.3.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.3.0",
+    "From":              "1.1.0",
+    "BC":                "75.7%",
+    "Added":             799,
+    "Removed":           96,
+    "TotalProblems":     169,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
     "Version":           "1.1.0",
     "From":              "1.0.1",
     "BC":                "62.9%",

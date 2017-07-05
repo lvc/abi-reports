@@ -1,0 +1,20 @@
+{
+  "Title":      "Nanopb",
+  "SourceUrl":  "https://github.com/nanopb/nanopb/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/nanopb/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "0.3.8",
+    "From":              "0.3.7",
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     1,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  }]
+}

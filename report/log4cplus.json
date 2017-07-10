@@ -6,11 +6,11 @@
 
   "Reports": [
   {
-    "Version":           "2_0_0-RC1",
+    "Version":           "2_0_0-RC2",
     "From":              "1_2_0",
-    "BC":                "52.2%",
-    "Added":             85,
-    "Removed":           73,
+    "BC":                "52.1%",
+    "Added":             87,
+    "Removed":           74,
     "TotalProblems":     93,
     "ObjectsAdded":      1,
     "ObjectsRemoved":    0,

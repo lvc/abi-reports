@@ -6,6 +6,18 @@
 
   "Reports": [
   {
+    "Version":           "5.5.2",
+    "From":              "5.5.1",
+    "BC":                "78.3%",
+    "Added":             18,
+    "Removed":           102,
+    "TotalProblems":     83,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
     "Version":           "5.5.1",
     "From":              "5.4.7",
     "BC":                "100%",

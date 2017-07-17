@@ -6,7 +6,7 @@
 
   "Reports": [
   {
-    "Version":           "3.6.2rc2",
+    "Version":           "3.6.2",
     "From":              "3.6.1",
     "BC":                "99.9%",
     "Added":             2,

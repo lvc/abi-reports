@@ -6,9 +6,9 @@
 
   "Reports": [
   {
-    "Version":           "6.10.02",
+    "Version":           "6.10.04",
     "From":              "6.09.02",
-    "BC":                "95.21%",
+    "BC":                "95.23%",
     "Added":             502,
     "Removed":           162,
     "TotalProblems":     170,

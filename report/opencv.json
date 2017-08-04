@@ -6,15 +6,15 @@
 
   "Reports": [
   {
-    "Version":           "3.3.0-rc",
+    "Version":           "3.3.0",
     "From":              "3.2.0",
     "BC":                "99.88%",
-    "Added":             110,
+    "Added":             114,
     "Removed":           3,
     "TotalProblems":     410,
     "ObjectsAdded":      1,
     "ObjectsRemoved":    0,
-    "ChangedSoname":     0,
+    "ChangedSoname":     16,
     "TotalObjects":      16
   },
   {

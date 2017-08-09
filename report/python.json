@@ -31,14 +31,26 @@
   },
   {
     "Version":           "3.6.0",
-    "From":              "3.5.3",
-    "BC":                "95.7%",
-    "Added":             98,
-    "Removed":           2,
-    "TotalProblems":     78,
+    "From":              "3.5.4",
+    "BC":                "95.8%",
+    "Added":             100,
+    "Removed":           11,
+    "TotalProblems":     87,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "3.5.4",
+    "From":              "3.5.3",
+    "BC":                "99.9%",
+    "Added":             8,
+    "Removed":           2,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      1
   },
   {
@@ -78,14 +90,26 @@
   },
   {
     "Version":           "3.5.0",
-    "From":              "3.4.6",
-    "BC":                "95%",
+    "From":              "3.4.7",
+    "BC":                "95.9%",
     "Added":             73,
-    "Removed":           4,
+    "Removed":           6,
     "TotalProblems":     90,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "3.4.7",
+    "From":              "3.4.6",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      1
   },
   {

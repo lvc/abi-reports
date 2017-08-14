@@ -6,15 +6,51 @@
 
   "Reports": [
   {
+    "Version":           "5.7.1",
+    "From":              "5.6.2",
+    "BC":                "85.9%",
+    "Added":             90,
+    "Removed":           4,
+    "TotalProblems":     50,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "5.6.2",
+    "From":              "5.6.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
     "Version":           "5.6.1",
-    "From":              "5.5.5",
-    "BC":                "89.3%",
+    "From":              "5.5.6",
+    "BC":                "89.5%",
     "Added":             35,
-    "Removed":           14,
+    "Removed":           12,
     "TotalProblems":     49,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "5.5.6",
+    "From":              "5.5.5",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      1
   },
   {
@@ -67,14 +103,26 @@
   },
   {
     "Version":           "5.5.1",
-    "From":              "5.4.7",
-    "BC":                "100%",
-    "Added":             0,
-    "Removed":           0,
-    "TotalProblems":     0,
+    "From":              "5.4.10",
+    "BC":                "79.6%",
+    "Added":             152,
+    "Removed":           20,
+    "TotalProblems":     101,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
-    "ChangedSoname":     0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "5.4.10",
+    "From":              "5.4.7",
+    "BC":                "75.1%",
+    "Added":             20,
+    "Removed":           151,
+    "TotalProblems":     102,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
     "TotalObjects":      1
   },
   {

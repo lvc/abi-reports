@@ -6,7 +6,7 @@
 
   "Reports": [
   {
-    "Version":           "2.9.5-rc2",
+    "Version":           "2.9.5",
     "From":              "2.9.4",
     "BC":                "100%",
     "Added":             0,

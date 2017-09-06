@@ -6,7 +6,7 @@
 
   "Reports": [
   {
-    "Version":           "3.25.90",
+    "Version":           "3.25.92",
     "From":              "3.25.4",
     "BC":                "100%",
     "Added":             0,
@@ -31,9 +31,21 @@
   },
   {
     "Version":           "3.25.3",
+    "From":              "3.24.3",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "3.24.3",
     "From":              "3.24.2",
     "BC":                "100%",
-    "Added":             17,
+    "Added":             0,
     "Removed":           0,
     "TotalProblems":     0,
     "ObjectsAdded":      0,

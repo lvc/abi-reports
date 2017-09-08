@@ -7,14 +7,26 @@
   "Reports": [
   {
     "Version":           "3.7.0",
-    "From":              "3.6.3",
-    "BC":                "20.16%",
-    "Added":             2017,
-    "Removed":           1976,
-    "TotalProblems":     1927,
+    "From":              "3.6.4",
+    "BC":                "0%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
     "ObjectsAdded":      1,
     "ObjectsRemoved":    3,
     "ChangedSoname":     12,
+    "TotalObjects":      15
+  },
+  {
+    "Version":           "3.6.4",
+    "From":              "3.6.3",
+    "BC":                "99.43%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     5,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      15
   },
   {

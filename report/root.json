@@ -6,11 +6,11 @@
 
   "Reports": [
   {
-    "Version":           "6.10.04",
+    "Version":           "6.10.06",
     "From":              "6.09.02",
-    "BC":                "95.23%",
-    "Added":             502,
-    "Removed":           162,
+    "BC":                "95.25%",
+    "Added":             427,
+    "Removed":           161,
     "TotalProblems":     170,
     "ObjectsAdded":      4,
     "ObjectsRemoved":    0,

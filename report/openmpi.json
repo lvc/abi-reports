@@ -6,15 +6,15 @@
 
   "Reports": [
   {
-    "Version":           "2.1.2rc3",
+    "Version":           "3.0.0",
     "From":              "2.1.1",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
     "TotalProblems":     0,
-    "ObjectsAdded":      0,
+    "ObjectsAdded":      6,
     "ObjectsRemoved":    0,
-    "ChangedSoname":     2,
+    "ChangedSoname":     3,
     "TotalObjects":      3
   },
   {

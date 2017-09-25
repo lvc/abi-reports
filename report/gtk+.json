@@ -103,14 +103,26 @@
   },
   {
     "Version":           "3.89.1",
+    "From":              "3.22.21",
+    "BC":                "69.88%",
+    "Added":             710,
+    "Removed":           740,
+    "TotalProblems":     70,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    2,
+    "ChangedSoname":     1,
+    "TotalObjects":      3
+  },
+  {
+    "Version":           "3.22.21",
     "From":              "3.22.20",
-    "BC":                "0%",
+    "BC":                "100%",
     "Added":             0,
     "Removed":           0,
     "TotalProblems":     0,
     "ObjectsAdded":      0,
-    "ObjectsRemoved":    2,
-    "ChangedSoname":     1,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      3
   },
   {

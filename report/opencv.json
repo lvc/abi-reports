@@ -43,14 +43,26 @@
   },
   {
     "Version":           "3.0.0",
-    "From":              "2.4.13.3",
-    "BC":                "16.22%",
-    "Added":             1152,
-    "Removed":           2200,
+    "From":              "2.4.13.4",
+    "BC":                "16.86%",
+    "Added":             1105,
+    "Removed":           2167,
     "TotalProblems":     756,
     "ObjectsAdded":      3,
     "ObjectsRemoved":    5,
     "ChangedSoname":     13,
+    "TotalObjects":      18
+  },
+  {
+    "Version":           "2.4.13.4",
+    "From":              "2.4.13.3",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      18
   },
   {

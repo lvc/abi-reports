@@ -103,14 +103,50 @@
   },
   {
     "Version":           "3.89.1",
-    "From":              "3.22.21",
+    "From":              "3.22.24",
     "BC":                "69.88%",
     "Added":             710,
     "Removed":           740,
-    "TotalProblems":     70,
+    "TotalProblems":     79,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    2,
     "ChangedSoname":     1,
+    "TotalObjects":      3
+  },
+  {
+    "Version":           "3.22.24",
+    "From":              "3.22.23",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      3
+  },
+  {
+    "Version":           "3.22.23",
+    "From":              "3.22.22",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      3
+  },
+  {
+    "Version":           "3.22.22",
+    "From":              "3.22.21",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     1,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      3
   },
   {

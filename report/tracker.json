@@ -6,7 +6,7 @@
 
   "Reports": [
   {
-    "Version":           "2.0.0",
+    "Version":           "2.0.1",
     "From":              "1.99.3",
     "BC":                "99.56%",
     "Added":             0,
@@ -31,7 +31,7 @@
   },
   {
     "Version":           "1.13.0",
-    "From":              "1.12.3",
+    "From":              "1.12.4",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -42,7 +42,7 @@
     "TotalObjects":      3
   },
   {
-    "Version":           "1.12.3",
+    "Version":           "1.12.4",
     "From":              "1.11.4",
     "BC":                "100%",
     "Added":             0,
@@ -55,7 +55,7 @@
   },
   {
     "Version":           "1.11.4",
-    "From":              "1.10.5",
+    "From":              "1.10.6",
     "BC":                "100%",
     "Added":             8,
     "Removed":           0,
@@ -66,7 +66,7 @@
     "TotalObjects":      3
   },
   {
-    "Version":           "1.10.5",
+    "Version":           "1.10.6",
     "From":              "1.9.2",
     "BC":                "100%",
     "Added":             0,

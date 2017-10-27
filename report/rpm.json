@@ -7,7 +7,7 @@
   "Reports": [
   {
     "Version":           "4.14.0",
-    "From":              "4.13.0.1",
+    "From":              "4.13.0.2",
     "BC":                "94.74%",
     "Added":             11,
     "Removed":           31,
@@ -15,6 +15,18 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     4,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "4.13.0.2",
+    "From":              "4.13.0.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      4
   },
   {

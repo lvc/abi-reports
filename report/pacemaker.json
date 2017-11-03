@@ -6,12 +6,12 @@
 
   "Reports": [
   {
-    "Version":           "1.1.18-rc3",
+    "Version":           "1.1.18-rc4",
     "From":              "1.1.17",
     "BC":                "100%",
-    "Added":             20,
+    "Added":             21,
     "Removed":           0,
-    "TotalProblems":     8,
+    "TotalProblems":     2,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,

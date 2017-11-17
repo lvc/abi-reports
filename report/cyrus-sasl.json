@@ -1,13 +1,13 @@
 {
-  "Title":      "OpenSAML",
-  "SourceUrl":  "http://shibboleth.net/downloads/c++-opensaml/",
-  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/opensaml/",
+  "Title":      "Cyrus SASL",
+  "SourceUrl":  "ftp://ftp.cyrusimap.org/cyrus-sasl/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/cyrus-sasl/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
   {
-    "Version":           "2.6.1",
-    "From":              "2.6.0",
+    "Version":           "2.1.27-rc5",
+    "From":              "2.1.26",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -18,32 +18,32 @@
     "TotalObjects":      1
   },
   {
-    "Version":           "2.6.0",
-    "From":              "2.5.5",
-    "BC":                "98.5%",
-    "Added":             68,
+    "Version":           "2.1.26",
+    "From":              "2.1.25",
+    "BC":                "100%",
+    "Added":             1,
     "Removed":           0,
-    "TotalProblems":     10,
+    "TotalProblems":     3,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     1,
     "TotalObjects":      1
   },
   {
-    "Version":           "2.5.5",
-    "From":              "2.5.4",
+    "Version":           "2.1.25",
+    "From":              "2.1.23",
     "BC":                "100%",
-    "Added":             0,
+    "Added":             3,
     "Removed":           0,
-    "TotalProblems":     0,
+    "TotalProblems":     1,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
     "TotalObjects":      1
   },
   {
-    "Version":           "2.5.4",
-    "From":              "2.5.3",
+    "Version":           "2.1.23",
+    "From":              "2.1.22",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,

@@ -1,6 +1,6 @@
 {
   "Title":      "Glib",
-  "SourceUrl":  "https://git.gnome.org/browse/glib",
+  "SourceUrl":  "http://ftp.gnome.org/pub/GNOME/sources/glib/",
   "Tracker":    "https://abi-laboratory.pro/tracker/timeline/glib/",
   "Maintainer": "Andrey P.",
 

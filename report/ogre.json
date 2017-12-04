@@ -6,14 +6,14 @@
 
   "Reports": [
   {
-    "Version":           "1.10.9",
+    "Version":           "1.10.10",
     "From":              "1.9.1",
-    "BC":                "48.75%",
-    "Added":             560,
-    "Removed":           361,
-    "TotalProblems":     1435,
-    "Src_BC":            "65.78%",
-    "Src_TotalProblems": 443,
+    "BC":                "48.49%",
+    "Added":             564,
+    "Removed":           384,
+    "TotalProblems":     1428,
+    "Src_BC":            "65.60%",
+    "Src_TotalProblems": 444,
     "ObjectsAdded":      3,
     "ObjectsRemoved":    0,
     "ChangedSoname":     7,

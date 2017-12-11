@@ -6,12 +6,12 @@
 
   "Reports": [
   {
-    "Version":           "8.6.0-beta2",
+    "Version":           "8.6.0",
     "From":              "8.5.9",
     "BC":                "99.91%",
     "Added":             23,
     "Removed":           2,
-    "TotalProblems":     12,
+    "TotalProblems":     17,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,

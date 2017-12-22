@@ -1,10 +1,22 @@
 {
   "Title":      "Boost",
-  "SourceUrl":  "https://sourceforge.net/projects/boost/files/boost/",
+  "SourceUrl":  "http://www.boost.org/users/download/",
   "Tracker":    "https://abi-laboratory.pro/tracker/timeline/boost/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "1_66_0",
+    "From":              "1_65_1",
+    "BC":                "96.64%",
+    "Added":             188,
+    "Removed":           160,
+    "TotalProblems":     221,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     36,
+    "TotalObjects":      36
+  },
   {
     "Version":           "1_65_1",
     "From":              "1_65_0",

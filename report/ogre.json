@@ -6,17 +6,15 @@
 
   "Reports": [
   {
-    "Version":           "1.10.10",
+    "Version":           "1.10.11",
     "From":              "1.9.1",
-    "BC":                "48.49%",
-    "Added":             564,
-    "Removed":           384,
-    "TotalProblems":     1428,
-    "Src_BC":            "65.60%",
-    "Src_TotalProblems": 444,
-    "ObjectsAdded":      3,
-    "ObjectsRemoved":    0,
-    "ChangedSoname":     7,
+    "BC":                "0%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      10,
+    "ObjectsRemoved":    7,
+    "ChangedSoname":     0,
     "TotalObjects":      7
   },
   {

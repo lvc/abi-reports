@@ -8,13 +8,15 @@
   {
     "Version":           "1.10.11",
     "From":              "1.9.1",
-    "BC":                "0%",
-    "Added":             0,
-    "Removed":           0,
-    "TotalProblems":     0,
-    "ObjectsAdded":      10,
-    "ObjectsRemoved":    7,
-    "ChangedSoname":     0,
+    "BC":                "45.58%",
+    "Added":             632,
+    "Removed":           426,
+    "TotalProblems":     1502,
+    "Src_BC":            "64.26%",
+    "Src_TotalProblems": 510,
+    "ObjectsAdded":      3,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     7,
     "TotalObjects":      7
   },
   {

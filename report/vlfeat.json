@@ -6,6 +6,18 @@
 
   "Reports": [
   {
+    "Version":           "0.9.21",
+    "From":              "0.9.20",
+    "BC":                "95.3%",
+    "Added":             8,
+    "Removed":           0,
+    "TotalProblems":     5,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
     "Version":           "0.9.20",
     "From":              "0.9.19",
     "BC":                "100%",

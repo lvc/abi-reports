@@ -1,0 +1,32 @@
+{
+  "Title":      "GMime",
+  "SourceUrl":  "https://download.gnome.org/sources/gmime/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/gmime/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "3.2.0",
+    "From":              "3.0.5",
+    "BC":                "100%",
+    "Added":             12,
+    "Removed":           0,
+    "TotalProblems":     10,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "3.0.5",
+    "From":              "2.6.23",
+    "BC":                "56.9%",
+    "Added":             178,
+    "Removed":           82,
+    "TotalProblems":     183,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  }]
+}

@@ -6,6 +6,18 @@
 
   "Reports": [
   {
+    "Version":           "3e",
+    "From":              "3d",
+    "BC":                "97.6%",
+    "Added":             0,
+    "Removed":           7,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
     "Version":           "3d",
     "From":              "3c",
     "BC":                "100%",

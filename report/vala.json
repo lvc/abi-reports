@@ -6,6 +6,18 @@
 
   "Reports": [
   {
+    "Version":           "0.39.6",
+    "From":              "0.39.5",
+    "BC":                "72.45%",
+    "Added":             3,
+    "Removed":           1,
+    "TotalProblems":     123,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
     "Version":           "0.39.5",
     "From":              "0.39.4",
     "BC":                "98.48%",
@@ -55,14 +67,26 @@
   },
   {
     "Version":           "0.39.1",
-    "From":              "0.38.5",
+    "From":              "0.38.6",
     "BC":                "99.93%",
     "Added":             2,
-    "Removed":           1,
+    "Removed":           2,
     "TotalProblems":     0,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     2,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "0.38.6",
+    "From":              "0.38.5",
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      2
   },
   {
@@ -175,14 +199,26 @@
   },
   {
     "Version":           "0.37.1",
-    "From":              "0.36.9",
+    "From":              "0.36.10",
     "BC":                "66.1%",
     "Added":             17,
-    "Removed":           876,
+    "Removed":           877,
     "TotalProblems":     13,
     "ObjectsAdded":      1,
     "ObjectsRemoved":    0,
     "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.36.10",
+    "From":              "0.36.9",
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      1
   },
   {
@@ -379,14 +415,26 @@
   },
   {
     "Version":           "0.35.1",
-    "From":              "0.34.14",
-    "BC":                "90.6%",
+    "From":              "0.34.15",
+    "BC":                "90.5%",
     "Added":             28,
-    "Removed":           57,
+    "Removed":           58,
     "TotalProblems":     51,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.34.15",
+    "From":              "0.34.14",
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      1
   },
   {

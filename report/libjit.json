@@ -1,0 +1,9 @@
+{
+  "Title":      "LibJIT",
+  "SourceUrl":  "https://ftp.gnu.org/old-gnu/dotgnu/libjit/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/libjit/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  ]
+}

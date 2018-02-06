@@ -220,5 +220,17 @@
     "ObjectsRemoved":    0,
     "ChangedSoname":     18,
     "TotalObjects":      19
+  },
+  {
+    "Version":           "3.3.3",
+    "From":              "3.2.3",
+    "BC":                "67.41%",
+    "Added":             1394,
+    "Removed":           660,
+    "TotalProblems":     671,
+    "ObjectsAdded":      1,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     17,
+    "TotalObjects":      18
   }]
 }

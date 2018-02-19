@@ -523,6 +523,18 @@
   },
   {
     "Version":           "3.0",
+    "From":              "2.8.14",
+    "BC":                "0%",
+    "Added":             893,
+    "Removed":           900,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     8,
+    "TotalObjects":      8
+  },
+  {
+    "Version":           "2.8.14",
     "From":              "2.8.13",
     "BC":                "100%",
     "Added":             0,
@@ -530,7 +542,7 @@
     "TotalProblems":     0,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
-    "ChangedSoname":     8,
+    "ChangedSoname":     0,
     "TotalObjects":      8
   },
   {

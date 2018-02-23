@@ -5,12 +5,18 @@ This is a repository with machine-readable JSON-format backward compatibility an
 
 Original detailed HTML-format reports are available here: https://abi-laboratory.pro/tracker/
 
-The data in this repository may be redistributed under the terms of the CC-BY-4.0 license.
+The reports in this repository can be used or redistributed under the terms of the CC-BY-4.0 license.
 
 The repository is AUTO updated three times a week (Mon, Wed, Fri approx. at 11:00 UTC) after each run of the ABI Tracker.
 
 Report Details
 --------------
+
+The version of the library can be considered incompatible if: `BC!=100%` or `Removed!=0` or `ObjectsRemoved!=0` or `ChangedSoname!=0`
+
+If `BC==100%` then non-zero value of `TotalProblems` indicates minor compatibility warnings.
+
+This is the list of report attributes:
 
 | Attr              | Value                                                                       |
 |-------------------|-----------------------------------------------------------------------------|
@@ -26,7 +32,3 @@ Report Details
 | TotalObjects      | Total shared objects                                                        |
 | Src_BC            | Avg. backward source compatibility rate in percents                         |
 | Src_TotalProblems | Total number of backward source compatibility problems (including warnings) |
-
-The version of the library can be considered incompatible if: BC!=100% or Removed!=0 or ObjectsRemoved!=0 or ChangedSoname!=0
-
-If BC==100% then non-zero value of TotalProblems indicates minor compatibility warnings.

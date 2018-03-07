@@ -1,0 +1,68 @@
+{
+  "Title":      "WavPack",
+  "SourceUrl":  "https://github.com/dbry/WavPack/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/wavpack/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "5.1.0",
+    "From":              "5.0.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "5.0.0",
+    "From":              "4.80.0",
+    "BC":                "11.1%",
+    "Added":             19,
+    "Removed":           0,
+    "TotalProblems":     24,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "4.80.0",
+    "From":              "4.75.2",
+    "BC":                "11.1%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     3,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "4.75.2",
+    "From":              "4.75.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "4.75.0",
+    "From":              "4.60.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     6,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  }]
+}

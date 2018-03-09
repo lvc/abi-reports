@@ -7,16 +7,30 @@
   "Reports": [
   {
     "Version":           "3.1.1-rc",
-    "From":              "3.0.3.1",
+    "From":              "3.0.4",
     "BC":                "4.29%",
     "Added":             18460,
-    "Removed":           17995,
-    "TotalProblems":     2075,
-    "Src_BC":            "93.00%",
+    "Removed":           17998,
+    "TotalProblems":     2077,
+    "Src_BC":            "92.99%",
     "Src_TotalProblems": 323,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     15,
+    "TotalObjects":      15
+  },
+  {
+    "Version":           "3.0.4",
+    "From":              "3.0.3.1",
+    "BC":                "100%",
+    "Added":             3,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "Src_BC":            "100%",
+    "Src_TotalProblems": 0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      15
   },
   {

@@ -7,14 +7,26 @@
   "Reports": [
   {
     "Version":           "0.27.0-rc2",
-    "From":              "0.26.2",
+    "From":              "0.26.3",
     "BC":                "97.8%",
-    "Added":             12,
+    "Added":             9,
     "Removed":           0,
     "TotalProblems":     28,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.26.3",
+    "From":              "0.26.2",
+    "BC":                "100%",
+    "Added":             3,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      1
   },
   {

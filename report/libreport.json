@@ -1,10 +1,58 @@
 {
   "Title":      "libreport",
-  "SourceUrl":  "http://pkgs.fedoraproject.org/repo/pkgs/libreport/",
+  "SourceUrl":  "https://github.com/abrt/libreport/tags",
   "Tracker":    "https://abi-laboratory.pro/tracker/timeline/libreport/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "2.9.3",
+    "From":              "2.9.2",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     2,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "2.9.2",
+    "From":              "2.9.1",
+    "BC":                "99.82%",
+    "Added":             4,
+    "Removed":           1,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "2.9.1",
+    "From":              "2.9.0",
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "2.9.0",
+    "From":              "2.8.0",
+    "BC":                "98.51%",
+    "Added":             23,
+    "Removed":           0,
+    "TotalProblems":     4,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      4
+  },
   {
     "Version":           "2.8.0",
     "From":              "2.7.2",
@@ -32,7 +80,7 @@
   {
     "Version":           "2.7.1",
     "From":              "2.7.0",
-    "BC":                "99.91%",
+    "BC":                "100%",
     "Added":             4,
     "Removed":           0,
     "TotalProblems":     2,

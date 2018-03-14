@@ -1,6 +1,6 @@
 {
   "Title":      "elfutils",
-  "SourceUrl":  "https://fedorahosted.org/releases/e/l/elfutils/",
+  "SourceUrl":  "https://sourceware.org/elfutils/ftp/",
   "Tracker":    "https://abi-laboratory.pro/tracker/timeline/elfutils/",
   "Maintainer": "Andrey P.",
 

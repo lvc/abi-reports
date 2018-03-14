@@ -1,6 +1,6 @@
 {
   "Title":      "kyotocabinet",
-  "SourceUrl":  "http://pkgs.fedoraproject.org/repo/pkgs/kyotocabinet/",
+  "SourceUrl":  "http://fallabs.com/kyotocabinet/pkg/",
   "Tracker":    "https://abi-laboratory.pro/tracker/timeline/kyotocabinet/",
   "Maintainer": "Andrey P.",
 

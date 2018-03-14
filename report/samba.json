@@ -6,6 +6,30 @@
 
   "Reports": [
   {
+    "Version":           "4.8.0",
+    "From":              "4.7.6",
+    "BC":                "97.25%",
+    "Added":             4,
+    "Removed":           0,
+    "TotalProblems":     10,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      20
+  },
+  {
+    "Version":           "4.7.6",
+    "From":              "4.7.5",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      20
+  },
+  {
     "Version":           "4.7.5",
     "From":              "4.7.4",
     "BC":                "100%",
@@ -67,7 +91,7 @@
   },
   {
     "Version":           "4.7.0",
-    "From":              "4.6.13",
+    "From":              "4.6.14",
     "BC":                "95.90%",
     "Added":             13,
     "Removed":           3,
@@ -75,6 +99,18 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     1,
+    "TotalObjects":      20
+  },
+  {
+    "Version":           "4.6.14",
+    "From":              "4.6.13",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      20
   },
   {
@@ -235,11 +271,23 @@
   },
   {
     "Version":           "4.6.0",
-    "From":              "4.5.15",
+    "From":              "4.5.16",
     "BC":                "96.99%",
     "Added":             11,
     "Removed":           21,
     "TotalProblems":     34,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      20
+  },
+  {
+    "Version":           "4.5.16",
+    "From":              "4.5.15",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,

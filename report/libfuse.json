@@ -1,6 +1,6 @@
 {
   "Title":      "libfuse",
-  "SourceUrl":  "https://github.com/libfuse/libfuse/tags?after=fuse_2_3_pre1",
+  "SourceUrl":  "https://github.com/libfuse/libfuse/tags",
   "Tracker":    "https://abi-laboratory.pro/tracker/timeline/libfuse/",
   "Maintainer": "Andrey P.",
 

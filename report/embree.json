@@ -1,0 +1,56 @@
+{
+  "Title":      "Embree",
+  "SourceUrl":  "https://github.com/embree/embree/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/embree/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "3.0.0",
+    "From":              "2.17.4",
+    "BC":                "5.09%",
+    "Added":             62,
+    "Removed":           106,
+    "TotalProblems":     143,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "2.17.4",
+    "From":              "2.17.3",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "2.17.3",
+    "From":              "2.17.2",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "2.17.2",
+    "From":              "2.17.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  }]
+}

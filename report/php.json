@@ -6,8 +6,8 @@
 
   "Reports": [
   {
-    "Version":           "7.2.3",
-    "From":              "7.1.15",
+    "Version":           "7.2.4",
+    "From":              "7.1.16",
     "BC":                "77%",
     "Added":             51,
     "Removed":           26,
@@ -18,8 +18,8 @@
     "TotalObjects":      1
   },
   {
-    "Version":           "7.1.15",
-    "From":              "7.0.28",
+    "Version":           "7.1.16",
+    "From":              "7.0.29",
     "BC":                "57.5%",
     "Added":             62,
     "Removed":           16,
@@ -30,7 +30,7 @@
     "TotalObjects":      1
   },
   {
-    "Version":           "7.0.28",
+    "Version":           "7.0.29",
     "From":              "5.6.34",
     "BC":                "53.9%",
     "Added":             239,

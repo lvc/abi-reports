@@ -115,7 +115,7 @@
   },
   {
     "Version":           "10.2.7",
-    "From":              "10.1.31",
+    "From":              "10.1.32",
     "BC":                "5.40%",
     "Added":             207,
     "Removed":           255,
@@ -123,6 +123,18 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "10.1.32",
+    "From":              "10.1.31",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      1
   },
   {

@@ -6,12 +6,12 @@
 
   "Reports": [
   {
-    "Version":           "3.6.0-rc4",
+    "Version":           "3.6.0-rc5",
     "From":              "3.5.10",
-    "BC":                "98.49%",
+    "BC":                "98.41%",
     "Added":             6,
     "Removed":           77,
-    "TotalProblems":     15,
+    "TotalProblems":     18,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     17,

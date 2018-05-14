@@ -223,14 +223,26 @@
   },
   {
     "Version":           "0.3.0",
-    "From":              "0.2.0",
-    "BC":                "96%",
-    "Added":             95,
-    "Removed":           6,
-    "TotalProblems":     30,
-    "ObjectsAdded":      2,
+    "From":              "0.2.2",
+    "BC":                "97.32%",
+    "Added":             76,
+    "Removed":           5,
+    "TotalProblems":     44,
+    "ObjectsAdded":      1,
     "ObjectsRemoved":    0,
-    "ChangedSoname":     1,
+    "ChangedSoname":     2,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "0.2.2",
+    "From":              "0.2.0",
+    "BC":                "97.8%",
+    "Added":             22,
+    "Removed":           3,
+    "TotalProblems":     7,
+    "ObjectsAdded":      1,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      1
   },
   {

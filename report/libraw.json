@@ -6,8 +6,8 @@
 
   "Reports": [
   {
-    "Version":           "0.19.0-Beta4",
-    "From":              "0.18.10",
+    "Version":           "0.19.0-Beta5",
+    "From":              "0.18.11",
     "BC":                "30.5%",
     "Added":             18,
     "Removed":           22,
@@ -15,6 +15,18 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.18.11",
+    "From":              "0.18.10",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      1
   },
   {

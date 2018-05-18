@@ -7,7 +7,7 @@
   "Reports": [
   {
     "Version":           "18.1.0-rc4",
-    "From":              "18.0.3",
+    "From":              "18.0.4",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -18,7 +18,7 @@
     "TotalObjects":      3
   },
   {
-    "Version":           "18.0.3",
+    "Version":           "18.0.4",
     "From":              "17.3.9",
     "BC":                "100%",
     "Added":             0,

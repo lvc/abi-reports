@@ -1,0 +1,32 @@
+{
+  "Title":      "Unicorn",
+  "SourceUrl":  "https://github.com/unicorn-engine/unicorn/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/unicorn/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "1.0.1",
+    "From":              "1.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.0",
+    "From":              "0.9",
+    "BC":                "97.1%",
+    "Added":             9,
+    "Removed":           0,
+    "TotalProblems":     2,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  }]
+}

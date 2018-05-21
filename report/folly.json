@@ -1,0 +1,20 @@
+{
+  "Title":      "Folly",
+  "SourceUrl":  "https://github.com/facebook/folly/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/folly/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "2018.05.21.00",
+    "From":              "2018.04.30.00",
+    "BC":                "92.93%",
+    "Added":             59,
+    "Removed":           62,
+    "TotalProblems":     71,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      5
+  }]
+}

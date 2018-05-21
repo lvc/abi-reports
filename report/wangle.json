@@ -1,0 +1,32 @@
+{
+  "Title":      "Wangle",
+  "SourceUrl":  "https://github.com/facebook/wangle/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/wangle/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "2018.05.21.00",
+    "From":              "2018.04.30.00",
+    "BC":                "92.1%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     5,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "2018.04.30.00",
+    "From":              "2018.03.26.00",
+    "BC":                "80.8%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     4,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  }]
+}

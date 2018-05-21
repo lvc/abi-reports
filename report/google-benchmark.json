@@ -1,0 +1,56 @@
+{
+  "Title":      "Google Benchmark",
+  "SourceUrl":  "https://github.com/google/benchmark/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/google-benchmark/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "1.4.0",
+    "From":              "1.3.0",
+    "BC":                "76.9%",
+    "Added":             11,
+    "Removed":           8,
+    "TotalProblems":     27,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.3.0",
+    "From":              "1.2.0",
+    "BC":                "53.2%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     5,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.2.0",
+    "From":              "1.1.0",
+    "BC":                "30.1%",
+    "Added":             4,
+    "Removed":           0,
+    "TotalProblems":     17,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.1.0",
+    "From":              "1.0.0",
+    "BC":                "5.5%",
+    "Added":             26,
+    "Removed":           8,
+    "TotalProblems":     45,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  }]
+}

@@ -6,10 +6,10 @@
 
   "Reports": [
   {
-    "Version":           "2018.05.21.00",
+    "Version":           "2018.05.28.00",
     "From":              "2018.04.30.00",
     "BC":                "92.93%",
-    "Added":             59,
+    "Added":             65,
     "Removed":           62,
     "TotalProblems":     71,
     "ObjectsAdded":      0,

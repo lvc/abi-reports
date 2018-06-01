@@ -2174,7 +2174,8 @@
     "TotalProblems":     20,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
-    "ChangedSoname":     0
+    "ChangedSoname":     0,
+    "TotalObjects":      1
   },
   {
     "Version":           "0.5.9",
@@ -2185,7 +2186,8 @@
     "TotalProblems":     28,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
-    "ChangedSoname":     0
+    "ChangedSoname":     0,
+    "TotalObjects":      1
   },
   {
     "Version":           "0.5.8",

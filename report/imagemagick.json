@@ -6,6 +6,18 @@
 
   "Reports": [
   {
+    "Version":           "7.0.7-37",
+    "From":              "7.0.7-36",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      3
+  },
+  {
     "Version":           "7.0.7-36",
     "From":              "7.0.7-35",
     "BC":                "100%",
@@ -896,7 +908,7 @@
   {
     "Version":           "7.0.2-4",
     "From":              "7.0.2-2",
-    "BC":                "93.20%",
+    "BC":                "93.18%",
     "Added":             0,
     "Removed":           0,
     "TotalProblems":     16,
@@ -1039,7 +1051,7 @@
   },
   {
     "Version":           "7.0.1-0",
-    "From":              "6.9.9-48",
+    "From":              "6.9.9-49",
     "BC":                "61.79%",
     "Added":             590,
     "Removed":           863,
@@ -1047,6 +1059,18 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     3,
+    "TotalObjects":      3
+  },
+  {
+    "Version":           "6.9.9-49",
+    "From":              "6.9.9-48",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      3
   },
   {
@@ -1748,7 +1772,7 @@
   {
     "Version":           "6.9.6-8",
     "From":              "6.9.6-7",
-    "BC":                "99.44%",
+    "BC":                "99.33%",
     "Added":             0,
     "Removed":           22,
     "TotalProblems":     0,
@@ -2180,7 +2204,7 @@
   {
     "Version":           "6.9.2-10",
     "From":              "6.9.1-10",
-    "BC":                "99.74%",
+    "BC":                "99.72%",
     "Added":             21,
     "Removed":           0,
     "TotalProblems":     44,
@@ -2204,7 +2228,7 @@
   {
     "Version":           "6.9.0-10",
     "From":              "6.9.0-0",
-    "BC":                "99.27%",
+    "BC":                "99.31%",
     "Added":             18,
     "Removed":           13,
     "TotalProblems":     20,
@@ -2228,7 +2252,7 @@
   {
     "Version":           "6.8.9-10",
     "From":              "6.8.8-10",
-    "BC":                "93.78%",
+    "BC":                "94.13%",
     "Added":             184,
     "Removed":           2,
     "TotalProblems":     52,
@@ -2252,7 +2276,7 @@
   {
     "Version":           "6.8.7-10",
     "From":              "6.8.6-10",
-    "BC":                "99.97%",
+    "BC":                "99.96%",
     "Added":             28,
     "Removed":           0,
     "TotalProblems":     9,
@@ -2264,7 +2288,7 @@
   {
     "Version":           "6.8.6-10",
     "From":              "6.8.5-10",
-    "BC":                "95.07%",
+    "BC":                "95.34%",
     "Added":             43,
     "Removed":           0,
     "TotalProblems":     45,
@@ -2300,7 +2324,7 @@
   {
     "Version":           "6.8.3-10",
     "From":              "6.8.2-10",
-    "BC":                "99.91%",
+    "BC":                "99.90%",
     "Added":             1,
     "Removed":           0,
     "TotalProblems":     25,
@@ -2324,7 +2348,7 @@
   {
     "Version":           "6.8.1-10",
     "From":              "6.8.0-10",
-    "BC":                "99.91%",
+    "BC":                "99.90%",
     "Added":             5,
     "Removed":           0,
     "TotalProblems":     64,
@@ -2336,7 +2360,7 @@
   {
     "Version":           "6.8.0-10",
     "From":              "6.7.9-10",
-    "BC":                "91.80%",
+    "BC":                "91.17%",
     "Added":             7,
     "Removed":           9,
     "TotalProblems":     34,
@@ -2372,7 +2396,7 @@
   {
     "Version":           "6.7.7-10",
     "From":              "6.7.6-10",
-    "BC":                "92.30%",
+    "BC":                "91.72%",
     "Added":             4,
     "Removed":           0,
     "TotalProblems":     3,
@@ -2384,7 +2408,7 @@
   {
     "Version":           "6.7.6-10",
     "From":              "6.7.5-10",
-    "BC":                "92.29%",
+    "BC":                "91.69%",
     "Added":             9,
     "Removed":           0,
     "TotalProblems":     7,

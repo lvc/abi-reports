@@ -452,7 +452,7 @@
   {
     "Version":           "2.48.1",
     "From":              "2.47.5",
-    "BC":                "99.96%",
+    "BC":                "99.95%",
     "Added":             0,
     "Removed":           1,
     "TotalProblems":     0,
@@ -1592,7 +1592,7 @@
   {
     "Version":           "2.31.6",
     "From":              "2.31.4",
-    "BC":                "99.84%",
+    "BC":                "99.85%",
     "Added":             4,
     "Removed":           4,
     "TotalProblems":     1,
@@ -1976,7 +1976,7 @@
   {
     "Version":           "2.27.5",
     "From":              "2.27.4",
-    "BC":                "99.60%",
+    "BC":                "99.61%",
     "Added":             11,
     "Removed":           12,
     "TotalProblems":     2,
@@ -2516,7 +2516,7 @@
   {
     "Version":           "2.21.3",
     "From":              "2.21.2",
-    "BC":                "99.57%",
+    "BC":                "99.58%",
     "Added":             25,
     "Removed":           0,
     "TotalProblems":     11,
@@ -2948,7 +2948,7 @@
   {
     "Version":           "2.16.2",
     "From":              "2.15.4",
-    "BC":                "99.62%",
+    "BC":                "99.63%",
     "Added":             12,
     "Removed":           2,
     "TotalProblems":     22,
@@ -2996,7 +2996,7 @@
   {
     "Version":           "2.15.1",
     "From":              "2.15.0",
-    "BC":                "99.37%",
+    "BC":                "99.38%",
     "Added":             6,
     "Removed":           11,
     "TotalProblems":     8,
@@ -3248,7 +3248,7 @@
   {
     "Version":           "2.12.9",
     "From":              "2.12.8",
-    "BC":                "99.84%",
+    "BC":                "99.85%",
     "Added":             1,
     "Removed":           0,
     "TotalProblems":     5,
@@ -3536,7 +3536,7 @@
   {
     "Version":           "2.9.1",
     "From":              "2.9.0",
-    "BC":                "99.64%",
+    "BC":                "99.63%",
     "Added":             17,
     "Removed":           1,
     "TotalProblems":     12,

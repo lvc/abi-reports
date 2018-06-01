@@ -248,7 +248,7 @@
   {
     "Version":           "3.3.4",
     "From":              "3.3.3",
-    "BC":                "94.35%",
+    "BC":                "94.34%",
     "Added":             276,
     "Removed":           9,
     "TotalProblems":     131,

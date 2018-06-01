@@ -236,14 +236,14 @@
   {
     "Version":           "1.17.0",
     "From":              "1.16.1",
-    "BC":                "99.95%",
+    "BC":                "99.96%",
     "Added":             124,
     "Removed":           3,
     "TotalProblems":     9,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      34
+    "TotalObjects":      33
   },
   {
     "Version":           "1.16.1",
@@ -255,31 +255,31 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      34
+    "TotalObjects":      33
   },
   {
     "Version":           "1.16.0",
     "From":              "1.15.3",
-    "BC":                "97.55%",
-    "Added":             64,
+    "BC":                "97.66%",
+    "Added":             63,
     "Removed":           6,
-    "TotalProblems":     192,
+    "TotalProblems":     191,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      34
+    "TotalObjects":      33
   },
   {
     "Version":           "1.15.3",
     "From":              "1.15.2",
-    "BC":                "99.99%",
+    "BC":                "99.98%",
     "Added":             0,
     "Removed":           0,
     "TotalProblems":     1,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      34
+    "TotalObjects":      33
   },
   {
     "Version":           "1.15.2",
@@ -291,7 +291,7 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      34
+    "TotalObjects":      33
   },
   {
     "Version":           "1.15.1",
@@ -303,19 +303,19 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      34
+    "TotalObjects":      33
   },
   {
     "Version":           "1.15.0",
     "From":              "1.14.3",
-    "BC":                "96.48%",
+    "BC":                "96.80%",
     "Added":             326,
     "Removed":           184,
-    "TotalProblems":     76,
+    "TotalProblems":     74,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      34
+    "TotalObjects":      33
   },
   {
     "Version":           "1.14.3",
@@ -327,7 +327,7 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      34
+    "TotalObjects":      33
   },
   {
     "Version":           "1.14.2",
@@ -339,7 +339,7 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      34
+    "TotalObjects":      33
   },
   {
     "Version":           "1.14.1",
@@ -351,16 +351,16 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      34
+    "TotalObjects":      33
   },
   {
     "Version":           "1.14.0",
     "From":              "1.13.3",
-    "BC":                "99.13%",
+    "BC":                "99.20%",
     "Added":             291,
     "Removed":           26,
     "TotalProblems":     147,
-    "ObjectsAdded":      2,
+    "ObjectsAdded":      1,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
     "TotalObjects":      32
@@ -404,7 +404,7 @@
   {
     "Version":           "1.13.0",
     "From":              "1.12.3",
-    "BC":                "99.90%",
+    "BC":                "99.91%",
     "Added":             43,
     "Removed":           5,
     "TotalProblems":     15,
@@ -452,7 +452,7 @@
   {
     "Version":           "1.12.0",
     "From":              "1.11.5",
-    "BC":                "99.37%",
+    "BC":                "99.40%",
     "Added":             174,
     "Removed":           26,
     "TotalProblems":     882,
@@ -572,7 +572,7 @@
   {
     "Version":           "1.10.0",
     "From":              "1.9.5",
-    "BC":                "97.47%",
+    "BC":                "97.82%",
     "Added":             861,
     "Removed":           96,
     "TotalProblems":     988,

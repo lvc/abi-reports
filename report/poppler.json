@@ -344,7 +344,7 @@
   {
     "Version":           "0.39.0",
     "From":              "0.38.0",
-    "BC":                "99.94%",
+    "BC":                "99.93%",
     "Added":             0,
     "Removed":           1,
     "TotalProblems":     2,
@@ -584,7 +584,7 @@
   {
     "Version":           "0.25.2",
     "From":              "0.25.1",
-    "BC":                "99.97%",
+    "BC":                "99.96%",
     "Added":             101,
     "Removed":           0,
     "TotalProblems":     2,
@@ -740,7 +740,7 @@
   {
     "Version":           "0.23.0",
     "From":              "0.22.5",
-    "BC":                "99.87%",
+    "BC":                "99.88%",
     "Added":             0,
     "Removed":           1,
     "TotalProblems":     0,
@@ -968,7 +968,7 @@
   {
     "Version":           "0.19.3",
     "From":              "0.19.2",
-    "BC":                "95.69%",
+    "BC":                "95.78%",
     "Added":             55,
     "Removed":           14,
     "TotalProblems":     84,
@@ -992,7 +992,7 @@
   {
     "Version":           "0.19.1",
     "From":              "0.19.0",
-    "BC":                "99.59%",
+    "BC":                "99.60%",
     "Added":             39,
     "Removed":           0,
     "TotalProblems":     1,

@@ -176,7 +176,7 @@
   {
     "Version":           "2.26.2",
     "From":              "2.26.1",
-    "BC":                "66.90%",
+    "BC":                "68.51%",
     "Added":             230,
     "Removed":           227,
     "TotalProblems":     0,

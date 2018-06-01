@@ -92,25 +92,25 @@
   {
     "Version":           "1.5.0",
     "From":              "1.4.0",
-    "BC":                "1.74%",
+    "BC":                "65.96%",
     "Added":             6,
     "Removed":           9,
     "TotalProblems":     11,
     "ObjectsAdded":      2,
-    "ObjectsRemoved":    12,
-    "ChangedSoname":     2,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     14,
     "TotalObjects":      14
   },
   {
     "Version":           "1.4.0",
     "From":              "1.3.2",
-    "BC":                "90.36%",
+    "BC":                "90.35%",
     "Added":             465,
     "Removed":           76,
     "TotalProblems":     283,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     14,
-    "TotalObjects":      15
+    "TotalObjects":      14
   }]
 }

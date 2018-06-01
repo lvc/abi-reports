@@ -560,7 +560,7 @@
   {
     "Version":           "2.0.0",
     "From":              "1.99.9",
-    "BC":                "98.33%",
+    "BC":                "98.34%",
     "Added":             25,
     "Removed":           15,
     "TotalProblems":     39,
@@ -572,7 +572,7 @@
   {
     "Version":           "1.99.9",
     "From":              "1.99.8",
-    "BC":                "87.84%",
+    "BC":                "87.85%",
     "Added":             32,
     "Removed":           4,
     "TotalProblems":     52,
@@ -584,7 +584,7 @@
   {
     "Version":           "1.99.8",
     "From":              "1.99.7",
-    "BC":                "76.25%",
+    "BC":                "76.27%",
     "Added":             60,
     "Removed":           2,
     "TotalProblems":     82,
@@ -596,7 +596,7 @@
   {
     "Version":           "1.99.7",
     "From":              "1.99.6",
-    "BC":                "77.09%",
+    "BC":                "77.11%",
     "Added":             8,
     "Removed":           3,
     "TotalProblems":     27,
@@ -644,7 +644,7 @@
   {
     "Version":           "1.99.3",
     "From":              "1.99.2",
-    "BC":                "77.85%",
+    "BC":                "77.87%",
     "Added":             25,
     "Removed":           4,
     "TotalProblems":     106,
@@ -656,7 +656,7 @@
   {
     "Version":           "1.99.2",
     "From":              "1.99.1",
-    "BC":                "75.19%",
+    "BC":                "75.21%",
     "Added":             38,
     "Removed":           46,
     "TotalProblems":     108,
@@ -668,7 +668,7 @@
   {
     "Version":           "1.99.1",
     "From":              "1.99.0",
-    "BC":                "78.75%",
+    "BC":                "78.76%",
     "Added":             35,
     "Removed":           14,
     "TotalProblems":     79,
@@ -680,7 +680,7 @@
   {
     "Version":           "1.99.0",
     "From":              "1.12.13",
-    "BC":                "82.59%",
+    "BC":                "82.60%",
     "Added":             70,
     "Removed":           29,
     "TotalProblems":     60,
@@ -848,7 +848,7 @@
   {
     "Version":           "1.12.0",
     "From":              "1.11.3",
-    "BC":                "87.65%",
+    "BC":                "87.66%",
     "Added":             43,
     "Removed":           23,
     "TotalProblems":     29,
@@ -860,7 +860,7 @@
   {
     "Version":           "1.11.3",
     "From":              "1.11.2",
-    "BC":                "74.35%",
+    "BC":                "74.36%",
     "Added":             127,
     "Removed":           59,
     "TotalProblems":     159,
@@ -884,7 +884,7 @@
   {
     "Version":           "1.11.1",
     "From":              "1.11.0",
-    "BC":                "79.06%",
+    "BC":                "79.07%",
     "Added":             30,
     "Removed":           15,
     "TotalProblems":     83,
@@ -896,7 +896,7 @@
   {
     "Version":           "1.11.0",
     "From":              "1.10.14",
-    "BC":                "62.64%",
+    "BC":                "62.66%",
     "Added":             225,
     "Removed":           47,
     "TotalProblems":     133,

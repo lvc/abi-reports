@@ -14,8 +14,8 @@
     "TotalProblems":     5,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
-    "ChangedSoname":     85,
-    "TotalObjects":      85
+    "ChangedSoname":     81,
+    "TotalObjects":      81
   },
   {
     "Version":           "1.0.0",
@@ -24,9 +24,9 @@
     "Added":             990,
     "Removed":           335,
     "TotalProblems":     735,
-    "ObjectsAdded":      26,
+    "ObjectsAdded":      25,
     "ObjectsRemoved":    3,
-    "ChangedSoname":     59,
-    "TotalObjects":      62
+    "ChangedSoname":     56,
+    "TotalObjects":      59
   }]
 }

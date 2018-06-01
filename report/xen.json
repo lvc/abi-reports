@@ -440,7 +440,7 @@
   {
     "Version":           "4.3.0",
     "From":              "4.2.5",
-    "BC":                "99.29%",
+    "BC":                "99.33%",
     "Added":             8,
     "Removed":           0,
     "TotalProblems":     27,

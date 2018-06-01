@@ -20,13 +20,13 @@
   {
     "Version":           "1.8.1",
     "From":              "1.8.0.1",
-    "BC":                "98.99%",
-    "Added":             122,
-    "Removed":           6,
-    "TotalProblems":     11,
+    "BC":                "93.27%",
+    "Added":             9,
+    "Removed":           3,
+    "TotalProblems":     1,
     "ObjectsAdded":      0,
-    "ObjectsRemoved":    0,
-    "ChangedSoname":     16,
+    "ObjectsRemoved":    2,
+    "ChangedSoname":     14,
     "TotalObjects":      16
   },
   {

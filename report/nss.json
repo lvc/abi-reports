@@ -428,7 +428,7 @@
   {
     "Version":           "3.25",
     "From":              "3.24",
-    "BC":                "99.68%",
+    "BC":                "99.71%",
     "Added":             0,
     "Removed":           0,
     "TotalProblems":     8,
@@ -440,7 +440,7 @@
   {
     "Version":           "3.24",
     "From":              "3.23",
-    "BC":                "99.67%",
+    "BC":                "99.71%",
     "Added":             3,
     "Removed":           0,
     "TotalProblems":     13,
@@ -452,7 +452,7 @@
   {
     "Version":           "3.23",
     "From":              "3.22.3",
-    "BC":                "99.95%",
+    "BC":                "99.96%",
     "Added":             1,
     "Removed":           0,
     "TotalProblems":     11,

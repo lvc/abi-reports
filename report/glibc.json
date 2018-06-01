@@ -80,7 +80,7 @@
   {
     "Version":           "2.21",
     "From":              "2.20",
-    "BC":                "95.57%",
+    "BC":                "95.58%",
     "Added":             0,
     "Removed":           0,
     "TotalProblems":     27,
@@ -116,7 +116,7 @@
   {
     "Version":           "2.18",
     "From":              "2.17",
-    "BC":                "99.68%",
+    "BC":                "99.66%",
     "Added":             2,
     "Removed":           0,
     "TotalProblems":     7,

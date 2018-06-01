@@ -14,8 +14,7 @@
     "TotalProblems":     0,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
-    "ChangedSoname":     0,
-    "TotalObjects":      0
+    "ChangedSoname":     0
   },
   {
     "Version":           "4.16.0",
@@ -26,8 +25,7 @@
     "TotalProblems":     0,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
-    "ChangedSoname":     0,
-    "TotalObjects":      4
+    "ChangedSoname":     0
   },
   {
     "Version":           "4.15.1",

@@ -56,7 +56,7 @@
   {
     "Version":           "6.1.19",
     "From":              "6.0.35",
-    "BC":                "93.06%",
+    "BC":                "93.07%",
     "Added":             2,
     "Removed":           0,
     "TotalProblems":     23,
@@ -104,7 +104,7 @@
   {
     "Version":           "6.0.19",
     "From":              "5.3.28",
-    "BC":                "40.90%",
+    "BC":                "40.80%",
     "Added":             27,
     "Removed":           12,
     "TotalProblems":     133,
@@ -140,7 +140,7 @@
   {
     "Version":           "5.3.15",
     "From":              "5.2.42",
-    "BC":                "46.95%",
+    "BC":                "46.85%",
     "Added":             15,
     "Removed":           0,
     "TotalProblems":     52,
@@ -176,7 +176,7 @@
   {
     "Version":           "5.2.28",
     "From":              "5.1.25",
-    "BC":                "43.04%",
+    "BC":                "42.94%",
     "Added":             46,
     "Removed":           8,
     "TotalProblems":     167,
@@ -188,7 +188,7 @@
   {
     "Version":           "5.1.25",
     "From":              "5.1.19",
-    "BC":                "98.95%",
+    "BC":                "98.96%",
     "Added":             0,
     "Removed":           0,
     "TotalProblems":     2,
@@ -200,7 +200,7 @@
   {
     "Version":           "5.1.19",
     "From":              "5.0.32",
-    "BC":                "77.45%",
+    "BC":                "77.42%",
     "Added":             1,
     "Removed":           1,
     "TotalProblems":     38,
@@ -236,7 +236,7 @@
   {
     "Version":           "5.0.21",
     "From":              "4.8.30",
-    "BC":                "70.40%",
+    "BC":                "70.53%",
     "Added":             8,
     "Removed":           22,
     "TotalProblems":     48,
@@ -272,7 +272,7 @@
   {
     "Version":           "4.8.24",
     "From":              "4.7.25",
-    "BC":                "37.32%",
+    "BC":                "37.01%",
     "Added":             54,
     "Removed":           3,
     "TotalProblems":     274,
@@ -284,7 +284,7 @@
   {
     "Version":           "4.7.25",
     "From":              "4.6.21",
-    "BC":                "58.98%",
+    "BC":                "58.92%",
     "Added":             17,
     "Removed":           11,
     "TotalProblems":     623,
@@ -320,7 +320,7 @@
   {
     "Version":           "4.6.18",
     "From":              "4.5.20",
-    "BC":                "42.38%",
+    "BC":                "42.07%",
     "Added":             21,
     "Removed":           6,
     "TotalProblems":     339,
@@ -332,7 +332,7 @@
   {
     "Version":           "4.5.20",
     "From":              "4.4.20",
-    "BC":                "46.01%",
+    "BC":                "45.75%",
     "Added":             22,
     "Removed":           8,
     "TotalProblems":     158,
@@ -356,7 +356,7 @@
   {
     "Version":           "4.4.16",
     "From":              "4.3.29",
-    "BC":                "55.50%",
+    "BC":                "55.30%",
     "Added":             50,
     "Removed":           3,
     "TotalProblems":     637,
@@ -404,7 +404,7 @@
   {
     "Version":           "4.3.21",
     "From":              "4.1.25",
-    "BC":                "23.95%",
+    "BC":                "23.03%",
     "Added":             127,
     "Removed":           26,
     "TotalProblems":     562,

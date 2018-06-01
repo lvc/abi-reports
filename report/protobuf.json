@@ -6,7 +6,7 @@
 
   "Reports": [
   {
-    "Version":           "3.6.0rc1",
+    "Version":           "3.6.0rc2",
     "From":              "3.5.2",
     "BC":                "86.24%",
     "Added":             88,
@@ -188,7 +188,7 @@
   {
     "Version":           "3.0.0",
     "From":              "2.6.1",
-    "BC":                "47.62%",
+    "BC":                "47.63%",
     "Added":             1746,
     "Removed":           38,
     "TotalProblems":     159,
@@ -212,7 +212,7 @@
   {
     "Version":           "2.6.0",
     "From":              "2.5.0",
-    "BC":                "77.99%",
+    "BC":                "77.71%",
     "Added":             155,
     "Removed":           4,
     "TotalProblems":     63,
@@ -224,7 +224,7 @@
   {
     "Version":           "2.5.0",
     "From":              "2.4.1",
-    "BC":                "71.08%",
+    "BC":                "71.61%",
     "Added":             56,
     "Removed":           18,
     "TotalProblems":     126,
@@ -236,7 +236,7 @@
   {
     "Version":           "2.4.1",
     "From":              "2.3.0",
-    "BC":                "70.49%",
+    "BC":                "71.67%",
     "Added":             96,
     "Removed":           37,
     "TotalProblems":     84,
@@ -248,7 +248,7 @@
   {
     "Version":           "2.3.0",
     "From":              "2.2.0",
-    "BC":                "69.97%",
+    "BC":                "70.10%",
     "Added":             228,
     "Removed":           66,
     "TotalProblems":     110,

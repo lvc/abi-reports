@@ -8,7 +8,7 @@
   {
     "Version":           "3.0.0.0",
     "From":              "2.22.1.2",
-    "BC":                "90.22%",
+    "BC":                "87.94%",
     "Added":             1103,
     "Removed":           11,
     "TotalProblems":     28,

@@ -116,7 +116,7 @@
   {
     "Version":           "1.8.14",
     "From":              "1.8.13",
-    "BC":                "98.33%",
+    "BC":                "98.32%",
     "Added":             31,
     "Removed":           14,
     "TotalProblems":     1,

@@ -452,7 +452,7 @@
   {
     "Version":           "0.8.6",
     "From":              "0.8.5",
-    "BC":                "70.86%",
+    "BC":                "71.72%",
     "Added":             1,
     "Removed":           0,
     "TotalProblems":     0,
@@ -464,7 +464,7 @@
   {
     "Version":           "0.8.5",
     "From":              "0.8.4",
-    "BC":                "81.92%",
+    "BC":                "82.72%",
     "Added":             56,
     "Removed":           81,
     "TotalProblems":     87,
@@ -512,7 +512,7 @@
   {
     "Version":           "0.8.1",
     "From":              "0.7.6",
-    "BC":                "76.16%",
+    "BC":                "76.74%",
     "Added":             66,
     "Removed":           95,
     "TotalProblems":     187,

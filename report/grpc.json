@@ -572,7 +572,7 @@
   {
     "Version":           "1.2.0",
     "From":              "1.1.4",
-    "BC":                "86.41%",
+    "BC":                "86.49%",
     "Added":             65,
     "Removed":           15,
     "TotalProblems":     193,
@@ -632,7 +632,7 @@
   {
     "Version":           "1.1.0",
     "From":              "1.0.1",
-    "BC":                "84.31%",
+    "BC":                "84.26%",
     "Added":             154,
     "Removed":           114,
     "TotalProblems":     119,

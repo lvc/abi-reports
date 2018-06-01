@@ -79,7 +79,7 @@
   },
   {
     "Version":           "1.8.5",
-    "From":              "1.7.18",
+    "From":              "1.7.19",
     "BC":                "1.91%",
     "Added":             920,
     "Removed":           875,
@@ -87,6 +87,18 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     2,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "1.7.19",
+    "From":              "1.7.18",
+    "BC":                "90.53%",
+    "Added":             1,
+    "Removed":           1,
+    "TotalProblems":     6,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      2
   },
   {

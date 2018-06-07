@@ -19,7 +19,7 @@
   },
   {
     "Version":           "0.27.0",
-    "From":              "0.26.3",
+    "From":              "0.26.4",
     "BC":                "97.8%",
     "Added":             9,
     "Removed":           0,
@@ -27,6 +27,18 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.26.4",
+    "From":              "0.26.3",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      1
   },
   {

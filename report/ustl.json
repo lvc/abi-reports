@@ -1,0 +1,80 @@
+{
+  "Title":      "uSTL",
+  "SourceUrl":  "https://github.com/msharov/ustl/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/ustl/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "2.6",
+    "From":              "2.4",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "2.4",
+    "From":              "2.3",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "2.3",
+    "From":              "2.2",
+    "BC":                "83.1%",
+    "Added":             23,
+    "Removed":           15,
+    "TotalProblems":     34,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "2.2",
+    "From":              "2.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     13,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "2.1",
+    "From":              "2.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "2.0",
+    "From":              "1.5",
+    "BC":                "88.1%",
+    "Added":             12,
+    "Removed":           22,
+    "TotalProblems":     44,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  }]
+}

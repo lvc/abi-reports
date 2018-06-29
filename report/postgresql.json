@@ -6,10 +6,10 @@
 
   "Reports": [
   {
-    "Version":           "11beta1",
+    "Version":           "11beta2",
     "From":              "10.4",
     "BC":                "83.30%",
-    "Added":             0,
+    "Added":             1,
     "Removed":           0,
     "TotalProblems":     46,
     "ObjectsAdded":      0,

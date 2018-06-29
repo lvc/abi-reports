@@ -6,12 +6,12 @@
 
   "Reports": [
   {
-    "Version":           "5.8.rc3",
+    "Version":           "5.8.rc4",
     "From":              "5.7.3",
     "BC":                "90.68%",
-    "Added":             100,
+    "Added":             104,
     "Removed":           0,
-    "TotalProblems":     92,
+    "TotalProblems":     96,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     4,

@@ -6,8 +6,8 @@
 
   "Reports": [
   {
-    "Version":           "3.7.0rc1",
-    "From":              "3.6.5",
+    "Version":           "3.7.0",
+    "From":              "3.6.6",
     "BC":                "95.6%",
     "Added":             117,
     "Removed":           20,
@@ -15,6 +15,18 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "3.6.6",
+    "From":              "3.6.5",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      1
   },
   {

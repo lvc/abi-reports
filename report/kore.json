@@ -1,0 +1,68 @@
+{
+  "Title":      "Kore",
+  "SourceUrl":  "https://github.com/jorisvink/kore/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/kore/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "2.0.0",
+    "From":              "1.2.3",
+    "BC":                "54.8%",
+    "Added":             45,
+    "Removed":           28,
+    "TotalProblems":     113,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.2.3",
+    "From":              "1.2.2",
+    "BC":                "79.1%",
+    "Added":             12,
+    "Removed":           5,
+    "TotalProblems":     9,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.2.2",
+    "From":              "1.2.1",
+    "BC":                "98.9%",
+    "Added":             4,
+    "Removed":           1,
+    "TotalProblems":     1,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.2.1",
+    "From":              "1.2",
+    "BC":                "67.1%",
+    "Added":             20,
+    "Removed":           5,
+    "TotalProblems":     24,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.2",
+    "From":              "1.1",
+    "BC":                "78.8%",
+    "Added":             23,
+    "Removed":           7,
+    "TotalProblems":     58,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  }]
+}

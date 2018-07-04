@@ -6,10 +6,10 @@
 
   "Reports": [
   {
-    "Version":           "4.11.0-rc6",
+    "Version":           "4.11.0-rc7",
     "From":              "4.10.1",
     "BC":                "99.09%",
-    "Added":             35,
+    "Added":             36,
     "Removed":           6,
     "TotalProblems":     33,
     "ObjectsAdded":      0,

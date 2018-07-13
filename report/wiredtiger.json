@@ -7,9 +7,21 @@
   "Reports": [
   {
     "Version":           "3.7.3",
+    "From":              "3.1.0",
+    "BC":                "95%",
+    "Added":             0,
+    "Removed":           1,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "3.1.0",
     "From":              "3.0.0",
     "BC":                "78.9%",
-    "Added":             0,
+    "Added":             1,
     "Removed":           0,
     "TotalProblems":     23,
     "ObjectsAdded":      0,

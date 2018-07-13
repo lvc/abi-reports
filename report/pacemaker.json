@@ -7,14 +7,26 @@
   "Reports": [
   {
     "Version":           "2.0.0",
-    "From":              "1.1.18",
-    "BC":                "88.92%",
-    "Added":             16,
+    "From":              "1.1.19",
+    "BC":                "88.95%",
+    "Added":             10,
     "Removed":           12,
-    "TotalProblems":     75,
+    "TotalProblems":     72,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     9,
+    "TotalObjects":      9
+  },
+  {
+    "Version":           "1.1.19",
+    "From":              "1.1.18",
+    "BC":                "100%",
+    "Added":             6,
+    "Removed":           0,
+    "TotalProblems":     4,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      9
   },
   {

@@ -7,7 +7,7 @@ Original detailed HTML-format reports are available here: https://abi-laboratory
 
 The reports in this repository can be used or redistributed under the terms of the CC-BY-4.0 license.
 
-The repository is AUTO updated three times a week (Mon, Wed, Fri approx. at 11:00 UTC) after each run of the ABI Tracker.
+The repository is AUTO updated weekly after each run of the ABI Tracker.
 
 Report Details
 --------------

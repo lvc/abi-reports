@@ -6,12 +6,12 @@
 
   "Reports": [
   {
-    "Version":           "1.21.0-alpha1",
+    "Version":           "1.21.0-beta1",
     "From":              "1.20.7",
     "BC":                "97.12%",
     "Added":             174,
     "Removed":           157,
-    "TotalProblems":     708,
+    "TotalProblems":     711,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,

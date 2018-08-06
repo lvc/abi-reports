@@ -7,11 +7,23 @@
   "Reports": [
   {
     "Version":           "3.7.0beta1",
-    "From":              "3.6.2",
+    "From":              "3.6.3",
     "BC":                "88.96%",
     "Added":             48,
     "Removed":           17,
     "TotalProblems":     88,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "3.6.3",
+    "From":              "3.6.2",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     1,

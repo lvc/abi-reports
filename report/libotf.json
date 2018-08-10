@@ -1,0 +1,32 @@
+{
+  "Title":      "libotf",
+  "SourceUrl":  "http://download.savannah.gnu.org/releases/m17n/",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/libotf/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "0.9.16",
+    "From":              "0.9.13",
+    "BC":                "100%",
+    "Added":             2,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.9.13",
+    "From":              "0.9.9",
+    "BC":                "100%",
+    "Added":             5,
+    "Removed":           0,
+    "TotalProblems":     3,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  }]
+}

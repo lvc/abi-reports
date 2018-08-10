@@ -1,0 +1,56 @@
+{
+  "Title":      "LAPACK",
+  "SourceUrl":  "https://github.com/Reference-LAPACK/lapack/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/lapack/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "3.8.0",
+    "From":              "3.7.1",
+    "BC":                "96.38%",
+    "Added":             19,
+    "Removed":           0,
+    "TotalProblems":     2795,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    1,
+    "ChangedSoname":     0,
+    "TotalObjects":      3
+  },
+  {
+    "Version":           "3.7.1",
+    "From":              "3.7.0",
+    "BC":                "99.73%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     3114,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      3
+  },
+  {
+    "Version":           "3.7.0",
+    "From":              "3.6.1",
+    "BC":                "100%",
+    "Added":             193,
+    "Removed":           0,
+    "TotalProblems":     2468,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      3
+  },
+  {
+    "Version":           "3.6.1",
+    "From":              "3.6.0",
+    "BC":                "100%",
+    "Added":             4,
+    "Removed":           0,
+    "TotalProblems":     2696,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      3
+  }]
+}

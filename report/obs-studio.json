@@ -6,6 +6,18 @@
 
   "Reports": [
   {
+    "Version":           "22.0.0-rc1",
+    "From":              "21.1.2",
+    "BC":                "98.15%",
+    "Added":             38,
+    "Removed":           0,
+    "TotalProblems":     20,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
+  },
+  {
     "Version":           "21.1.2",
     "From":              "21.1.1",
     "BC":                "100%",

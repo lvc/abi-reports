@@ -6,12 +6,12 @@
 
   "Reports": [
   {
-    "Version":           "3.2.0",
+    "Version":           "3.2.2",
     "From":              "3.0.3",
     "BC":                "87.49%",
-    "Added":             646,
-    "Removed":           253,
-    "TotalProblems":     362,
+    "Added":             650,
+    "Removed":           254,
+    "TotalProblems":     364,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     3,
@@ -19,7 +19,7 @@
   },
   {
     "Version":           "3.0.3",
-    "From":              "2.18.22",
+    "From":              "2.18.23",
     "BC":                "11.37%",
     "Added":             7853,
     "Removed":           5442,
@@ -30,7 +30,7 @@
     "TotalObjects":      4
   },
   {
-    "Version":           "2.18.22",
+    "Version":           "2.18.23",
     "From":              "2.16.3",
     "BC":                "86.12%",
     "Added":             329,

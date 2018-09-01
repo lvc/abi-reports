@@ -6,6 +6,18 @@
 
   "Reports": [
   {
+    "Version":           "1.58.0",
+    "From":              "1.57.3",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
     "Version":           "1.57.3",
     "From":              "1.57.2",
     "BC":                "100%",
@@ -31,6 +43,30 @@
   },
   {
     "Version":           "1.56.1",
+    "From":              "1.56.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.56.0",
+    "From":              "1.55.2",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.55.2",
     "From":              "1.55.1",
     "BC":                "100%",
     "Added":             0,
@@ -67,6 +103,18 @@
   },
   {
     "Version":           "1.54.1",
+    "From":              "1.54.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.54.0",
     "From":              "1.53.7",
     "BC":                "100%",
     "Added":             0,
@@ -79,6 +127,18 @@
   },
   {
     "Version":           "1.53.7",
+    "From":              "1.53.5",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.53.5",
     "From":              "1.53.4",
     "BC":                "100%",
     "Added":             0,

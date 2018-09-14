@@ -6,12 +6,12 @@
 
   "Reports": [
   {
-    "Version":           "1.1.1-pre5",
+    "Version":           "1.1.1",
     "From":              "1.1.0i",
-    "BC":                "98.80%",
-    "Added":             340,
-    "Removed":           26,
-    "TotalProblems":     40,
+    "BC":                "99.52%",
+    "Added":             375,
+    "Removed":           0,
+    "TotalProblems":     49,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,

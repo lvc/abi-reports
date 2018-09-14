@@ -6,6 +6,18 @@
 
   "Reports": [
   {
+    "Version":           "2019",
+    "From":              "2018_U2",
+    "BC":                "100%",
+    "Added":             7,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      3
+  },
+  {
     "Version":           "2018_U2",
     "From":              "2018_U1",
     "BC":                "100%",

@@ -1,10 +1,46 @@
 {
   "Title":      "LLVM OpenMP",
-  "SourceUrl":  "http://releases.llvm.org/download.html",
+  "SourceUrl":  "https://mirror.slackbuilds.org/slackware/slackware-current/source/d/llvm/",
   "Tracker":    "https://abi-laboratory.pro/tracker/timeline/llvm_openmp/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "7.0.0",
+    "From":              "6.0.1",
+    "BC":                "100%",
+    "Added":             7,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "6.0.1",
+    "From":              "6.0.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "6.0.0",
+    "From":              "5.0.2",
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
   {
     "Version":           "5.0.2",
     "From":              "5.0.1",

@@ -6,11 +6,11 @@
 
   "Reports": [
   {
-    "Version":           "2.3.2rc1",
+    "Version":           "2.3.2",
     "From":              "2.3.1",
-    "BC":                "100%",
+    "BC":                "99.5%",
     "Added":             1,
-    "Removed":           0,
+    "Removed":           24,
     "TotalProblems":     0,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,

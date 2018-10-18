@@ -6,13 +6,13 @@
 
   "Reports": [
   {
-    "Version":           "4.0.0-alpha",
+    "Version":           "4.0.0-beta",
     "From":              "3.4.3",
-    "BC":                "83.36%",
-    "Added":             444,
-    "Removed":           398,
-    "TotalProblems":     185,
-    "ObjectsAdded":      0,
+    "BC":                "82.30%",
+    "Added":             492,
+    "Removed":           443,
+    "TotalProblems":     250,
+    "ObjectsAdded":      1,
     "ObjectsRemoved":    0,
     "ChangedSoname":     17,
     "TotalObjects":      17

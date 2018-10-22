@@ -6,6 +6,18 @@
 
   "Reports": [
   {
+    "Version":           "7.9p1",
+    "From":              "7.8p1",
+    "BC":                "99.1%",
+    "Added":             5,
+    "Removed":           4,
+    "TotalProblems":     8,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
     "Version":           "7.8p1",
     "From":              "7.7p1",
     "BC":                "63.6%",

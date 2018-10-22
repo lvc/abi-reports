@@ -1,0 +1,19 @@
+{
+  "Title":      "libspng",
+  "SourceUrl":  "https://github.com/randy408/libspng/releases",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/libspng/",
+
+  "Reports": [
+  {
+    "Version":           "0.3.1",
+    "From":              "0.3.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  }]
+}

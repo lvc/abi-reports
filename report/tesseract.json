@@ -6,12 +6,12 @@
 
   "Reports": [
   {
-    "Version":           "4.0.0-beta.1",
+    "Version":           "4.0.0",
     "From":              "3.05.02",
-    "BC":                "60.3%",
-    "Added":             446,
-    "Removed":           40,
-    "TotalProblems":     20,
+    "BC":                "60.6%",
+    "Added":             91,
+    "Removed":           50,
+    "TotalProblems":     52,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     1,

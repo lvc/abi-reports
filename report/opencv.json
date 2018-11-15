@@ -6,15 +6,15 @@
 
   "Reports": [
   {
-    "Version":           "4.0.0-beta",
+    "Version":           "4.0.0-rc",
     "From":              "3.4.3",
-    "BC":                "82.30%",
-    "Added":             492,
-    "Removed":           443,
-    "TotalProblems":     250,
+    "BC":                "72.36%",
+    "Added":             546,
+    "Removed":           581,
+    "TotalProblems":     345,
     "ObjectsAdded":      1,
-    "ObjectsRemoved":    0,
-    "ChangedSoname":     17,
+    "ObjectsRemoved":    3,
+    "ChangedSoname":     14,
     "TotalObjects":      17
   },
   {

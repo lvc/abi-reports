@@ -7,7 +7,7 @@
   "Reports": [
   {
     "Version":           "1_2_0_RC",
-    "From":              "1_1_10",
+    "From":              "1_1_11",
     "BC":                "41.4%",
     "Added":             751,
     "Removed":           438,
@@ -15,6 +15,18 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1_1_11",
+    "From":              "1_1_10",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      1
   },
   {

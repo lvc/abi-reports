@@ -6,6 +6,18 @@
 
   "Reports": [
   {
+    "Version":           "4.9.0-rc1",
+    "From":              "4.8.5",
+    "BC":                "92.78%",
+    "Added":             34,
+    "Removed":           3,
+    "TotalProblems":     21,
+    "ObjectsAdded":      2,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      27
+  },
+  {
     "Version":           "4.8.5",
     "From":              "4.8.4",
     "BC":                "100%",

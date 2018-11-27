@@ -1,10 +1,22 @@
 {
   "Title":      "IlmBase",
-  "SourceUrl":  "http://download.savannah.gnu.org/releases/openexr/",
+  "SourceUrl":  "http://www.openexr.com/downloads.html",
   "Tracker":    "https://abi-laboratory.pro/tracker/timeline/ilmbase/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "2.3.0",
+    "From":              "2.2.1",
+    "BC":                "1.65%",
+    "Added":             625,
+    "Removed":           611,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     5,
+    "TotalObjects":      5
+  },
   {
     "Version":           "2.2.1",
     "From":              "2.2.0",
@@ -55,10 +67,22 @@
   },
   {
     "Version":           "2.0.0",
+    "From":              "1.0.3",
+    "BC":                "1.65%",
+    "Added":             612,
+    "Removed":           610,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     5,
+    "TotalObjects":      5
+  },
+  {
+    "Version":           "1.0.3",
     "From":              "1.0.2",
-    "BC":                "1.75%",
-    "Added":             581,
-    "Removed":           579,
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
     "TotalProblems":     0,
     "ObjectsAdded":      1,
     "ObjectsRemoved":    0,

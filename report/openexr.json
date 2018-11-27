@@ -1,10 +1,22 @@
 {
   "Title":      "OpenEXR",
-  "SourceUrl":  "http://download.savannah.gnu.org/releases/openexr/",
+  "SourceUrl":  "http://www.openexr.com/downloads.html",
   "Tracker":    "https://abi-laboratory.pro/tracker/timeline/openexr/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "2.3.0",
+    "From":              "2.2.1",
+    "BC":                "2.90%",
+    "Added":             1317,
+    "Removed":           1285,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
   {
     "Version":           "2.2.1",
     "From":              "2.2.0",
@@ -55,10 +67,22 @@
   },
   {
     "Version":           "2.0.0",
+    "From":              "1.7.1",
+    "BC":                "5.5%",
+    "Added":             1260,
+    "Removed":           831,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.7.1",
     "From":              "1.7.0",
-    "BC":                "5.59%",
-    "Added":             1208,
-    "Removed":           804,
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
     "TotalProblems":     0,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,

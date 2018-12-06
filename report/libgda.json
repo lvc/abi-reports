@@ -7,14 +7,26 @@
   "Reports": [
   {
     "Version":           "5.90.1",
-    "From":              "5.2.4",
-    "BC":                "77.40%",
+    "From":              "5.2.8",
+    "BC":                "87.73%",
     "Added":             232,
     "Removed":           86,
-    "TotalProblems":     187,
+    "TotalProblems":     188,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     3,
+    "TotalObjects":      3
+  },
+  {
+    "Version":           "5.2.8",
+    "From":              "5.2.4",
+    "BC":                "88.22%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    1,
-    "ChangedSoname":     3,
+    "ChangedSoname":     0,
     "TotalObjects":      4
   },
   {

@@ -6,11 +6,23 @@
 
   "Reports": [
   {
-    "Version":           "7.2.12",
-    "From":              "7.1.24",
-    "BC":                "77%",
+    "Version":           "7.3.0",
+    "From":              "7.2.13",
+    "BC":                "54.5%",
+    "Added":             194,
+    "Removed":           87,
+    "TotalProblems":     260,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "7.2.13",
+    "From":              "7.1.25",
+    "BC":                "76.9%",
     "Added":             51,
-    "Removed":           26,
+    "Removed":           27,
     "TotalProblems":     140,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
@@ -18,10 +30,10 @@
     "TotalObjects":      1
   },
   {
-    "Version":           "7.1.24",
-    "From":              "7.0.32",
+    "Version":           "7.1.25",
+    "From":              "7.0.33",
     "BC":                "57.5%",
-    "Added":             62,
+    "Added":             63,
     "Removed":           16,
     "TotalProblems":     124,
     "ObjectsAdded":      0,
@@ -30,7 +42,7 @@
     "TotalObjects":      1
   },
   {
-    "Version":           "7.0.32",
+    "Version":           "7.0.33",
     "From":              "5.6.38",
     "BC":                "53.9%",
     "Added":             239,

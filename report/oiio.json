@@ -6,10 +6,10 @@
 
   "Reports": [
   {
-    "Version":           "2.0.2-RC2",
+    "Version":           "2.0.3",
     "From":              "1.8.17",
     "BC":                "1.76%",
-    "Added":             1164,
+    "Added":             1166,
     "Removed":           946,
     "TotalProblems":     2,
     "ObjectsAdded":      0,

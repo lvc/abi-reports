@@ -295,7 +295,7 @@
   },
   {
     "Version":           "2.0.0",
-    "From":              "1.4.9",
+    "From":              "1.4.10",
     "BC":                "37.32%",
     "Added":             49,
     "Removed":           23,
@@ -303,6 +303,18 @@
     "ObjectsAdded":      2,
     "ObjectsRemoved":    5,
     "ChangedSoname":     4,
+    "TotalObjects":      11
+  },
+  {
+    "Version":           "1.4.10",
+    "From":              "1.4.9",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      11
   },
   {

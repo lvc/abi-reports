@@ -6,15 +6,27 @@
 
   "Reports": [
   {
-    "Version":           "1_2_0_RC",
-    "From":              "1_1_11",
-    "BC":                "41.4%",
-    "Added":             751,
-    "Removed":           438,
-    "TotalProblems":     971,
+    "Version":           "1_2_0",
+    "From":              "1_1_12",
+    "BC":                "41.3%",
+    "Added":             763,
+    "Removed":           437,
+    "TotalProblems":     969,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1_1_12",
+    "From":              "1_1_11",
+    "BC":                "99.96%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     2,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      1
   },
   {

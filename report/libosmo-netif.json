@@ -1,0 +1,80 @@
+{
+  "Title":      "libosmo-netif",
+  "SourceUrl":  "https://github.com/osmocom/libosmo-netif/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/libosmo-netif/",
+  "Maintainer": "Harald Welte",
+
+  "Reports": [
+  {
+    "Version":           "0.3.0",
+    "From":              "0.2.0",
+    "BC":                "89.7%",
+    "Added":             0,
+    "Removed":           18,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.2.0",
+    "From":              "0.1.1",
+    "BC":                "100%",
+    "Added":             12,
+    "Removed":           0,
+    "TotalProblems":     6,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.1.1",
+    "From":              "0.1.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.1.0",
+    "From":              "0.0.8",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.0.8",
+    "From":              "0.0.6",
+    "BC":                "99.3%",
+    "Added":             10,
+    "Removed":           0,
+    "TotalProblems":     7,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.0.6",
+    "From":              "0.0.5",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  }]
+}

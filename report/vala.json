@@ -55,14 +55,26 @@
   },
   {
     "Version":           "0.43.1",
-    "From":              "0.42.4",
-    "BC":                "98.1%",
+    "From":              "0.42.5",
+    "BC":                "97.9%",
     "Added":             18,
-    "Removed":           20,
+    "Removed":           25,
     "TotalProblems":     29,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.42.5",
+    "From":              "0.42.4",
+    "BC":                "100%",
+    "Added":             5,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      1
   },
   {
@@ -151,14 +163,26 @@
   },
   {
     "Version":           "0.41.90",
-    "From":              "0.40.12",
-    "BC":                "99.5%",
+    "From":              "0.40.13",
+    "BC":                "99.2%",
     "Added":             3,
-    "Removed":           6,
+    "Removed":           11,
     "TotalProblems":     12,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.40.13",
+    "From":              "0.40.12",
+    "BC":                "100%",
+    "Added":             5,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      1
   },
   {

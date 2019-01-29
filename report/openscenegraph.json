@@ -6,12 +6,12 @@
 
   "Reports": [
   {
-    "Version":           "3.6.4-rc2",
+    "Version":           "3.6.4-rc3",
     "From":              "3.6.3",
-    "BC":                "72.79%",
-    "Added":             34,
-    "Removed":           0,
-    "TotalProblems":     800,
+    "BC":                "97.48%",
+    "Added":             112,
+    "Removed":           1,
+    "TotalProblems":     105,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     17,

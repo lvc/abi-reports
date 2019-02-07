@@ -6,19 +6,19 @@
 
   "Reports": [
   {
-    "Version":           "7.3.1",
-    "From":              "7.2.14",
+    "Version":           "7.3.2",
+    "From":              "7.2.15",
     "BC":                "54.5%",
-    "Added":             194,
+    "Added":             195,
     "Removed":           87,
-    "TotalProblems":     260,
+    "TotalProblems":     261,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
     "TotalObjects":      1
   },
   {
-    "Version":           "7.2.14",
+    "Version":           "7.2.15",
     "From":              "7.1.26",
     "BC":                "77%",
     "Added":             51,

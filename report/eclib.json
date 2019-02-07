@@ -6,6 +6,42 @@
 
   "Reports": [
   {
+    "Version":           "20190205.1",
+    "From":              20190205,
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "20190205",
+    "From":              20190110,
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "20190110",
+    "From":              20180815,
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
     "Version":           "20180815",
     "From":              20180710,
     "BC":                "100%",
@@ -55,9 +91,21 @@
   },
   {
     "Version":           "20170815",
+    "From":              20170711,
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "20170711",
     "From":              20170330,
     "BC":                "97.5%",
-    "Added":             1,
+    "Added":             0,
     "Removed":           11,
     "TotalProblems":     9,
     "ObjectsAdded":      0,

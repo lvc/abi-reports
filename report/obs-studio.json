@@ -6,12 +6,12 @@
 
   "Reports": [
   {
-    "Version":           "23.0.0-rc1",
+    "Version":           "23.0.0-rc2",
     "From":              "22.0.3",
     "BC":                "90.29%",
     "Added":             29,
     "Removed":           0,
-    "TotalProblems":     37,
+    "TotalProblems":     38,
     "ObjectsAdded":      3,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,

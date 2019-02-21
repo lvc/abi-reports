@@ -7,7 +7,7 @@
   "Reports": [
   {
     "Version":           "2.2.0-alpha1",
-    "From":              "2.1.7",
+    "From":              "2.1.8",
     "BC":                "100%",
     "Added":             16,
     "Removed":           0,
@@ -18,7 +18,7 @@
     "TotalObjects":      3
   },
   {
-    "Version":           "2.1.7",
+    "Version":           "2.1.8",
     "From":              "2.0.4",
     "BC":                "100%",
     "Added":             2,

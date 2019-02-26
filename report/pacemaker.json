@@ -6,10 +6,10 @@
 
   "Reports": [
   {
-    "Version":           "2.0.1-rc4",
+    "Version":           "2.0.1-rc5",
     "From":              "2.0.0",
     "BC":                "100%",
-    "Added":             7,
+    "Added":             12,
     "Removed":           0,
     "TotalProblems":     7,
     "ObjectsAdded":      0,

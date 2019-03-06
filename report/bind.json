@@ -6,6 +6,18 @@
 
   "Reports": [
   {
+    "Version":           "9.14.0rc1",
+    "From":              "9.13.7",
+    "BC":                "93.30%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     18,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      8
+  },
+  {
     "Version":           "9.13.7",
     "From":              "9.13.6",
     "BC":                "100%",
@@ -91,11 +103,23 @@
   },
   {
     "Version":           "9.13.0",
-    "From":              "9.12.3",
-    "BC":                "65.52%",
+    "From":              "9.12.4",
+    "BC":                "60.94%",
     "Added":             6,
-    "Removed":           131,
-    "TotalProblems":     1181,
+    "Removed":           132,
+    "TotalProblems":     1259,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      7
+  },
+  {
+    "Version":           "9.12.4",
+    "From":              "9.12.3",
+    "BC":                "84.25%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     85,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
@@ -139,13 +163,25 @@
   },
   {
     "Version":           "9.12.0",
-    "From":              "9.11.5",
-    "BC":                "60.42%",
+    "From":              "9.11.6",
+    "BC":                "59.87%",
     "Added":             42,
-    "Removed":           44,
-    "TotalProblems":     1312,
+    "Removed":           45,
+    "TotalProblems":     1350,
     "ObjectsAdded":      1,
     "ObjectsRemoved":    1,
+    "ChangedSoname":     0,
+    "TotalObjects":      7
+  },
+  {
+    "Version":           "9.11.6",
+    "From":              "9.11.5",
+    "BC":                "83.61%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     54,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
     "ChangedSoname":     0,
     "TotalObjects":      7
   },

@@ -19,7 +19,7 @@
   },
   {
     "Version":           "7.2.16",
-    "From":              "7.1.26",
+    "From":              "7.1.27",
     "BC":                "77%",
     "Added":             51,
     "Removed":           26,
@@ -30,7 +30,7 @@
     "TotalObjects":      1
   },
   {
-    "Version":           "7.1.26",
+    "Version":           "7.1.27",
     "From":              "7.0.33",
     "BC":                "57.5%",
     "Added":             63,

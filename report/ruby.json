@@ -31,7 +31,7 @@
   },
   {
     "Version":           "2.6.0",
-    "From":              "2.5.4",
+    "From":              "2.5.5",
     "BC":                "99.7%",
     "Added":             117,
     "Removed":           2,
@@ -39,6 +39,18 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "2.5.5",
+    "From":              "2.5.4",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      1
   },
   {

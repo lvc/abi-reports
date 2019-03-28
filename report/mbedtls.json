@@ -6,6 +6,30 @@
 
   "Reports": [
   {
+    "Version":           "2.17.0",
+    "From":              "2.16.1",
+    "BC":                "94.30%",
+    "Added":             3,
+    "Removed":           0,
+    "TotalProblems":     6,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      3
+  },
+  {
+    "Version":           "2.16.1",
+    "From":              "2.16.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      3
+  },
+  {
     "Version":           "2.16.0",
     "From":              "2.15.1",
     "BC":                "100%",
@@ -139,7 +163,7 @@
   },
   {
     "Version":           "2.8.0",
-    "From":              "2.7.9",
+    "From":              "2.7.10",
     "BC":                "99.74%",
     "Added":             0,
     "Removed":           2,
@@ -147,6 +171,18 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     1,
+    "TotalObjects":      3
+  },
+  {
+    "Version":           "2.7.10",
+    "From":              "2.7.9",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      3
   },
   {

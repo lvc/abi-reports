@@ -6,15 +6,27 @@
 
   "Reports": [
   {
-    "Version":           "3.8.0a2",
-    "From":              "3.7.2",
-    "BC":                "94.2%",
-    "Added":             59,
-    "Removed":           24,
-    "TotalProblems":     278,
+    "Version":           "3.8.0a3",
+    "From":              "3.7.3",
+    "BC":                "91.1%",
+    "Added":             103,
+    "Removed":           46,
+    "TotalProblems":     322,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "3.7.3",
+    "From":              "3.7.2",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      1
   },
   {

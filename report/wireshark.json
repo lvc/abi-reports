@@ -6,6 +6,30 @@
 
   "Reports": [
   {
+    "Version":           "3.0.2",
+    "From":              "3.0.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "3.0.1",
+    "From":              "3.0.0",
+    "BC":                "99.47%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     5,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      4
+  },
+  {
     "Version":           "3.0.0",
     "From":              "2.9.0",
     "BC":                "88.63%",
@@ -19,14 +43,26 @@
   },
   {
     "Version":           "2.9.0",
-    "From":              "2.6.7",
-    "BC":                "71.69%",
+    "From":              "2.6.8",
+    "BC":                "71.51%",
     "Added":             68,
     "Removed":           19,
-    "TotalProblems":     171,
+    "TotalProblems":     174,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     4,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "2.6.8",
+    "From":              "2.6.7",
+    "BC":                "99.56%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     3,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      4
   },
   {
@@ -139,14 +175,38 @@
   },
   {
     "Version":           "2.5.0",
-    "From":              "2.4.13",
-    "BC":                "86.77%",
-    "Added":             118,
-    "Removed":           17,
-    "TotalProblems":     118,
+    "From":              "2.4.15",
+    "BC":                "93.37%",
+    "Added":             20,
+    "Removed":           6,
+    "TotalProblems":     17,
+    "ObjectsAdded":      1,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     3,
+    "TotalObjects":      3
+  },
+  {
+    "Version":           "2.4.15",
+    "From":              "2.4.14",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
-    "ChangedSoname":     4,
+    "ChangedSoname":     0,
+    "TotalObjects":      4
+  },
+  {
+    "Version":           "2.4.14",
+    "From":              "2.4.13",
+    "BC":                "99.56%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     3,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      4
   },
   {

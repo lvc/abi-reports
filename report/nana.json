@@ -6,12 +6,24 @@
 
   "Reports": [
   {
-    "Version":           "1.7-alpha",
+    "Version":           "1.7.1",
+    "From":              "1.7",
+    "BC":                "97%",
+    "Added":             7,
+    "Removed":           5,
+    "TotalProblems":     21,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.7",
     "From":              "1.6.2",
-    "BC":                "69.7%",
-    "Added":             381,
-    "Removed":           602,
-    "TotalProblems":     643,
+    "BC":                "71.7%",
+    "Added":             384,
+    "Removed":           614,
+    "TotalProblems":     645,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     1,

@@ -1,13 +1,13 @@
 {
-  "Title":      "libdc1394",
-  "SourceUrl":  "https://sourceforge.net/projects/libdc1394/files/libdc1394-2/",
-  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/libdc1394/",
+  "Title":      "elogind",
+  "SourceUrl":  "https://github.com/elogind/elogind/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/elogind/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
   {
-    "Version":           "2.2.6",
-    "From":              "2.2.5",
+    "Version":           "239.4",
+    "From":              "239.3",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -15,78 +15,78 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     1,
-    "TotalObjects":      1
+    "TotalObjects":      2
   },
   {
-    "Version":           "2.2.5",
-    "From":              "2.2.4",
-    "BC":                "100%",
-    "Added":             1,
-    "Removed":           0,
-    "TotalProblems":     0,
-    "ObjectsAdded":      0,
-    "ObjectsRemoved":    0,
-    "ChangedSoname":     0,
-    "TotalObjects":      1
-  },
-  {
-    "Version":           "2.2.4",
-    "From":              "2.2.3",
+    "Version":           "239.3",
+    "From":              "239.2",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
     "TotalProblems":     0,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
-    "ChangedSoname":     0,
-    "TotalObjects":      1
+    "ChangedSoname":     1,
+    "TotalObjects":      2
   },
   {
-    "Version":           "2.2.3",
-    "From":              "2.2.2",
+    "Version":           "239.2",
+    "From":              "238.4",
+    "BC":                "100%",
+    "Added":             26,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      2
+  },
+  {
+    "Version":           "238.4",
+    "From":              "238.3",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
     "TotalProblems":     0,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
-    "ChangedSoname":     0,
-    "TotalObjects":      1
+    "ChangedSoname":     1,
+    "TotalObjects":      2
   },
   {
-    "Version":           "2.2.2",
-    "From":              "2.2.1",
-    "BC":                "100%",
-    "Added":             1,
-    "Removed":           0,
-    "TotalProblems":     0,
-    "ObjectsAdded":      0,
-    "ObjectsRemoved":    0,
-    "ChangedSoname":     0,
-    "TotalObjects":      1
-  },
-  {
-    "Version":           "2.2.1",
-    "From":              "2.2.0",
+    "Version":           "238.3",
+    "From":              "238.2",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
     "TotalProblems":     0,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
-    "ChangedSoname":     0,
-    "TotalObjects":      1
+    "ChangedSoname":     1,
+    "TotalObjects":      2
   },
   {
-    "Version":           "2.2.0",
-    "From":              "2.1.4",
+    "Version":           "238.2",
+    "From":              "238.1",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
     "TotalProblems":     0,
-    "ObjectsAdded":      0,
+    "ObjectsAdded":      2,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
+    "TotalObjects":      0
+  },
+  {
+    "Version":           "238.1",
+    "From":              "236.3",
+    "BC":                "0%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    2,
+    "ChangedSoname":     0,
+    "TotalObjects":      2
   }]
 }

@@ -1,10 +1,22 @@
 {
   "Title":      "Ghostscript",
-  "SourceUrl":  "https://github.com/ArtifexSoftware/ghostpdl-downloads/releases",
+  "SourceUrl":  "https://www.ghostscript.com/download/gsdnld.html",
   "Tracker":    "https://abi-laboratory.pro/tracker/timeline/ghostscript/",
   "Maintainer": "Andrey P.",
 
   "Reports": [
+  {
+    "Version":           "9.27",
+    "From":              "9.26",
+    "BC":                "52.5%",
+    "Added":             17,
+    "Removed":           6,
+    "TotalProblems":     121,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
   {
     "Version":           "9.26",
     "From":              "9.25",

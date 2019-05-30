@@ -52,5 +52,17 @@
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
     "TotalObjects":      1
+  },
+  {
+    "Version":           "2.2.13",
+    "From":              "2.2.11",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      1,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      0
   }]
 }

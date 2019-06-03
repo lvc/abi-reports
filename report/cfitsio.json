@@ -6,6 +6,18 @@
 
   "Reports": [
   {
+    "Version":           "3470",
+    "From":              3450,
+    "BC":                "100%",
+    "Added":             10,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
     "Version":           "3450",
     "From":              3440,
     "BC":                "99.9%",
@@ -351,18 +363,6 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
-    "TotalObjects":      1
-  },
-  {
-    "Version":           "3080",
-    "From":              "3.47",
-    "BC":                "100%",
-    "Added":             0,
-    "Removed":           0,
-    "TotalProblems":     0,
-    "ObjectsAdded":      0,
-    "ObjectsRemoved":    0,
-    "ChangedSoname":     1,
     "TotalObjects":      1
   }]
 }

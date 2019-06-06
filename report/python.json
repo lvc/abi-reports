@@ -6,12 +6,12 @@
 
   "Reports": [
   {
-    "Version":           "3.8.0a4",
+    "Version":           "3.8.0b1",
     "From":              "3.7.3",
-    "BC":                "89.9%",
-    "Added":             111,
-    "Removed":           56,
-    "TotalProblems":     358,
+    "BC":                "86.6%",
+    "Added":             170,
+    "Removed":           69,
+    "TotalProblems":     436,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     1,

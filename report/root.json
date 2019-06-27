@@ -6,12 +6,12 @@
 
   "Reports": [
   {
-    "Version":           "6.18.00-rc1",
+    "Version":           "6.18.00",
     "From":              "6.16.00",
-    "BC":                "85.76%",
-    "Added":             539,
-    "Removed":           299,
-    "TotalProblems":     870,
+    "BC":                "85.67%",
+    "Added":             560,
+    "Removed":           300,
+    "TotalProblems":     882,
     "ObjectsAdded":      1,
     "ObjectsRemoved":    1,
     "ChangedSoname":     0,

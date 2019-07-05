@@ -43,14 +43,26 @@
   },
   {
     "Version":           "4.11.0",
-    "From":              "4.10.3",
-    "BC":                "99.09%",
-    "Added":             36,
+    "From":              "4.10.4",
+    "BC":                "98.57%",
+    "Added":             10,
     "Removed":           6,
-    "TotalProblems":     33,
-    "ObjectsAdded":      0,
+    "TotalProblems":     24,
+    "ObjectsAdded":      5,
     "ObjectsRemoved":    0,
-    "ChangedSoname":     5,
+    "ChangedSoname":     2,
+    "TotalObjects":      10
+  },
+  {
+    "Version":           "4.10.4",
+    "From":              "4.10.3",
+    "BC":                "36.18%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    5,
+    "ChangedSoname":     0,
     "TotalObjects":      15
   },
   {

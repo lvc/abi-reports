@@ -19,6 +19,18 @@
   },
   {
     "Version":           "2.61.0",
+    "From":              "2.60.5",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      5
+  },
+  {
+    "Version":           "2.60.5",
     "From":              "2.60.4",
     "BC":                "100%",
     "Added":             0,

@@ -1,0 +1,20 @@
+{
+  "Title":      "libCVD",
+  "SourceUrl":  "https://github.com/edrosten/libcvd/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/libcvd/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "2_1",
+    "From":              "2_0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  }]
+}

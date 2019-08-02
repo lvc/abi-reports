@@ -31,14 +31,26 @@
   },
   {
     "Version":           "3.7.0",
-    "From":              "3.6.4",
-    "BC":                "0%",
-    "Added":             0,
-    "Removed":           0,
-    "TotalProblems":     0,
+    "From":              "3.6.5",
+    "BC":                "20.51%",
+    "Added":             1996,
+    "Removed":           1888,
+    "TotalProblems":     1925,
     "ObjectsAdded":      1,
     "ObjectsRemoved":    3,
     "ChangedSoname":     12,
+    "TotalObjects":      15
+  },
+  {
+    "Version":           "3.6.5",
+    "From":              "3.6.4",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      15
   },
   {

@@ -6,7 +6,7 @@
 
   "Reports": [
   {
-    "Version":           "1.0.23-rc1",
+    "Version":           "1.0.23-rc2",
     "From":              "1.0.22",
     "BC":                "100%",
     "Added":             2,
@@ -14,7 +14,7 @@
     "TotalProblems":     0,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
-    "ChangedSoname":     1,
+    "ChangedSoname":     0,
     "TotalObjects":      1
   },
   {

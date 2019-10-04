@@ -6,12 +6,12 @@
 
   "Reports": [
   {
-    "Version":           "5.0.0.rc2",
+    "Version":           "5.0.0",
     "From":              "4.1.0",
-    "BC":                "90.6%",
-    "Added":             50,
+    "BC":                "81.4%",
+    "Added":             52,
     "Removed":           4,
-    "TotalProblems":     9,
+    "TotalProblems":     29,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     1,

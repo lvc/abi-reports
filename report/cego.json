@@ -6,12 +6,12 @@
 
   "Reports": [
   {
-    "Version":           "2.45.6",
+    "Version":           "2.45.7",
     "From":              "2.44.14",
-    "BC":                "81.61%",
-    "Added":             74,
-    "Removed":           5,
-    "TotalProblems":     151,
+    "BC":                "80.12%",
+    "Added":             77,
+    "Removed":           7,
+    "TotalProblems":     155,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,

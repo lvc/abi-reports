@@ -451,14 +451,26 @@
   },
   {
     "Version":           "0.41.90",
-    "From":              "0.40.16",
+    "From":              "0.40.17",
     "BC":                "99.2%",
     "Added":             3,
-    "Removed":           11,
+    "Removed":           12,
     "TotalProblems":     12,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.40.17",
+    "From":              "0.40.16",
+    "BC":                "100%",
+    "Added":             1,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      1
   },
   {

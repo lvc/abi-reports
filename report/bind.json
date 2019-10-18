@@ -6,6 +6,18 @@
 
   "Reports": [
   {
+    "Version":           "9.15.5",
+    "From":              "9.15.4",
+    "BC":                "87.70%",
+    "Added":             3,
+    "Removed":           1,
+    "TotalProblems":     38,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      8
+  },
+  {
     "Version":           "9.15.4",
     "From":              "9.15.3",
     "BC":                "99.53%",
@@ -55,11 +67,23 @@
   },
   {
     "Version":           "9.15.0",
-    "From":              "9.14.6",
+    "From":              "9.14.7",
     "BC":                "93.09%",
     "Added":             1,
     "Removed":           8,
     "TotalProblems":     26,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      8
+  },
+  {
+    "Version":           "9.14.7",
+    "From":              "9.14.6",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
@@ -295,13 +319,25 @@
   },
   {
     "Version":           "9.12.0",
-    "From":              "9.11.11",
+    "From":              "9.11.12",
     "BC":                "59.61%",
     "Added":             42,
     "Removed":           47,
     "TotalProblems":     1370,
     "ObjectsAdded":      1,
     "ObjectsRemoved":    1,
+    "ChangedSoname":     0,
+    "TotalObjects":      7
+  },
+  {
+    "Version":           "9.11.12",
+    "From":              "9.11.11",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
     "ChangedSoname":     0,
     "TotalObjects":      7
   },

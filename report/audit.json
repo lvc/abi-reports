@@ -6,10 +6,10 @@
 
   "Reports": [
   {
-    "Version":           "3.0-alpha8",
+    "Version":           "3.0-alpha9",
     "From":              "2.8.5",
     "BC":                "100%",
-    "Added":             1,
+    "Added":             3,
     "Removed":           0,
     "TotalProblems":     0,
     "ObjectsAdded":      0,

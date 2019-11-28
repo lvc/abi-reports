@@ -6,6 +6,18 @@
 
   "Reports": [
   {
+    "Version":           "26.1",
+    "From":              "26.0-2",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      8
+  },
+  {
     "Version":           "26.0-2",
     "From":              "26.0-1",
     "BC":                "100%",
@@ -31,11 +43,35 @@
   },
   {
     "Version":           "26.0",
-    "From":              "25.1",
+    "From":              "25.3",
     "BC":                "100%",
     "Added":             5,
     "Removed":           0,
     "TotalProblems":     1,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      8
+  },
+  {
+    "Version":           "25.3",
+    "From":              "25.2",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      8
+  },
+  {
+    "Version":           "25.2",
+    "From":              "25.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
@@ -55,12 +91,24 @@
   },
   {
     "Version":           "25.0",
-    "From":              "24.1",
+    "From":              "24.2",
     "BC":                "100%",
     "Added":             6,
     "Removed":           0,
     "TotalProblems":     0,
     "ObjectsAdded":      2,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      6
+  },
+  {
+    "Version":           "24.2",
+    "From":              "24.1",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
     "TotalObjects":      6

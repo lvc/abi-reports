@@ -6,10 +6,10 @@
 
   "Reports": [
   {
-    "Version":           "7.4.0",
+    "Version":           "7.4.1",
     "From":              "7.3.12",
     "BC":                "56.6%",
-    "Added":             68,
+    "Added":             69,
     "Removed":           35,
     "TotalProblems":     266,
     "ObjectsAdded":      0,
@@ -19,7 +19,7 @@
   },
   {
     "Version":           "7.3.12",
-    "From":              "7.2.25",
+    "From":              "7.2.26",
     "BC":                "54.5%",
     "Added":             196,
     "Removed":           87,
@@ -30,7 +30,7 @@
     "TotalObjects":      1
   },
   {
-    "Version":           "7.2.25",
+    "Version":           "7.2.26",
     "From":              "7.1.33",
     "BC":                "77%",
     "Added":             53,

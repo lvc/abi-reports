@@ -6,20 +6,32 @@
 
   "Reports": [
   {
-    "Version":           "3.9.0a1",
-    "From":              "3.8.0",
-    "BC":                "54.9%",
-    "Added":             13,
-    "Removed":           255,
-    "TotalProblems":     114,
+    "Version":           "3.9.0a2",
+    "From":              "3.8.1",
+    "BC":                "53%",
+    "Added":             15,
+    "Removed":           259,
+    "TotalProblems":     123,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     1,
     "TotalObjects":      1
   },
   {
+    "Version":           "3.8.1",
+    "From":              "3.8.0",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
     "Version":           "3.8.0",
-    "From":              "3.7.5",
+    "From":              "3.7.6",
     "BC":                "59.5%",
     "Added":             170,
     "Removed":           68,
@@ -27,6 +39,18 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "3.7.6",
+    "From":              "3.7.5",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      1
   },
   {
@@ -91,7 +115,7 @@
   },
   {
     "Version":           "3.7.0",
-    "From":              "3.6.9",
+    "From":              "3.6.10",
     "BC":                "95.3%",
     "Added":             117,
     "Removed":           23,
@@ -99,6 +123,18 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "3.6.10",
+    "From":              "3.6.9",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      1
   },
   {

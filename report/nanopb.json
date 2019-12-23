@@ -6,12 +6,12 @@
 
   "Reports": [
   {
-    "Version":           "0.4.0-dev",
+    "Version":           "0.4.0",
     "From":              "0.3.9.4",
-    "BC":                "97.1%",
-    "Added":             0,
-    "Removed":           1,
-    "TotalProblems":     0,
+    "BC":                "66.2%",
+    "Added":             4,
+    "Removed":           6,
+    "TotalProblems":     22,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,

@@ -343,13 +343,25 @@
   },
   {
     "Version":           "9.12.0",
-    "From":              "9.11.13",
+    "From":              "9.11.14",
     "BC":                "59.37%",
     "Added":             42,
     "Removed":           51,
-    "TotalProblems":     1374,
+    "TotalProblems":     1377,
     "ObjectsAdded":      1,
     "ObjectsRemoved":    1,
+    "ChangedSoname":     0,
+    "TotalObjects":      7
+  },
+  {
+    "Version":           "9.11.14",
+    "From":              "9.11.13",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     3,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
     "ChangedSoname":     0,
     "TotalObjects":      7
   },

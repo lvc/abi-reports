@@ -6,6 +6,18 @@
 
   "Reports": [
   {
+    "Version":           "3.0-dev-SNAP-20200108",
+    "From":              "1.1.1d",
+    "BC":                "0%",
+    "Added":             4707,
+    "Removed":           4429,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     2,
+    "TotalObjects":      2
+  },
+  {
     "Version":           "1.1.1d",
     "From":              "1.1.1c",
     "BC":                "100%",

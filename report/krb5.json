@@ -6,6 +6,18 @@
 
   "Reports": [
   {
+    "Version":           "1.18-beta1",
+    "From":              "1.17",
+    "BC":                "80.60%",
+    "Added":             185,
+    "Removed":           179,
+    "TotalProblems":     20,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     3,
+    "TotalObjects":      9
+  },
+  {
     "Version":           "1.17",
     "From":              "1.16",
     "BC":                "99.94%",

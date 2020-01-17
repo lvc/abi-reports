@@ -6,6 +6,30 @@
 
   "Reports": [
   {
+    "Version":           "6.20.00-rc1",
+    "From":              "6.19.02",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      81
+  },
+  {
+    "Version":           "6.19.02",
+    "From":              "6.18.04",
+    "BC":                "89.21%",
+    "Added":             607,
+    "Removed":           476,
+    "TotalProblems":     1180,
+    "ObjectsAdded":      1,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      80
+  },
+  {
     "Version":           "6.18.04",
     "From":              "6.16.00",
     "BC":                "85.67%",

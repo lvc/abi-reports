@@ -6,10 +6,10 @@
 
   "Reports": [
   {
-    "Version":           "3.0-dev-SNAP-20200108",
+    "Version":           "3.0-dev-SNAP-20200116",
     "From":              "1.1.1d",
     "BC":                "0%",
-    "Added":             4707,
+    "Added":             4711,
     "Removed":           4429,
     "TotalProblems":     0,
     "ObjectsAdded":      0,

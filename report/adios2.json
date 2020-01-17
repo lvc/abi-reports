@@ -1,0 +1,80 @@
+{
+  "Title":      "ADIOS2",
+  "SourceUrl":  "https://github.com/ornladios/ADIOS2/tags",
+  "Tracker":    "https://abi-laboratory.pro/tracker/timeline/adios2/",
+  "Maintainer": "Andrey P.",
+
+  "Reports": [
+  {
+    "Version":           "2.5.0",
+    "From":              "2.4.0",
+    "BC":                "54.4%",
+    "Added":             31,
+    "Removed":           4,
+    "TotalProblems":     80,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "2.4.0",
+    "From":              "2.3.1",
+    "BC":                "47.5%",
+    "Added":             100,
+    "Removed":           48,
+    "TotalProblems":     256,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "2.3.1",
+    "From":              "2.3.0",
+    "BC":                "61%",
+    "Added":             4,
+    "Removed":           8,
+    "TotalProblems":     20,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "2.3.0",
+    "From":              "2.2.0",
+    "BC":                "48.2%",
+    "Added":             122,
+    "Removed":           95,
+    "TotalProblems":     274,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "2.2.0",
+    "From":              "2.1.1",
+    "BC":                "16.4%",
+    "Added":             317,
+    "Removed":           316,
+    "TotalProblems":     513,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "2.1.1",
+    "From":              "2.1.0",
+    "BC":                "65.2%",
+    "Added":             43,
+    "Removed":           0,
+    "TotalProblems":     76,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  }]
+}

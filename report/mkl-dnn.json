@@ -7,6 +7,18 @@
   "Reports": [
   {
     "Version":           "2021.1-beta03",
+    "From":              "1.1.3",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "1.1.3",
     "From":              "1.1.2",
     "BC":                "100%",
     "Added":             0,
@@ -103,11 +115,23 @@
   },
   {
     "Version":           "1.0",
-    "From":              "0.21.2",
+    "From":              "0.21.3",
     "BC":                "36.7%",
     "Added":             31,
     "Removed":           25,
     "TotalProblems":     226,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "0.21.3",
+    "From":              "0.21.2",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,

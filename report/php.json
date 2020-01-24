@@ -6,20 +6,20 @@
 
   "Reports": [
   {
-    "Version":           "7.4.1",
-    "From":              "7.3.13",
+    "Version":           "7.4.2",
+    "From":              "7.3.14",
     "BC":                "56.6%",
     "Added":             69,
     "Removed":           35,
-    "TotalProblems":     266,
+    "TotalProblems":     267,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
     "TotalObjects":      1
   },
   {
-    "Version":           "7.3.13",
-    "From":              "7.2.26",
+    "Version":           "7.3.14",
+    "From":              "7.2.27",
     "BC":                "54.5%",
     "Added":             196,
     "Removed":           87,
@@ -30,7 +30,7 @@
     "TotalObjects":      1
   },
   {
-    "Version":           "7.2.26",
+    "Version":           "7.2.27",
     "From":              "7.1.33",
     "BC":                "77%",
     "Added":             53,

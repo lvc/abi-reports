@@ -7,7 +7,7 @@
   "Reports": [
   {
     "Version":           "10.100-RC1",
-    "From":              "9.800.4",
+    "From":              "9.850.1",
     "BC":                "100%",
     "Added":             0,
     "Removed":           0,
@@ -15,6 +15,18 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
+    "Version":           "9.850.1",
+    "From":              "9.800.4",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      1
   },
   {

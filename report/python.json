@@ -6,12 +6,12 @@
 
   "Reports": [
   {
-    "Version":           "3.9.0a2",
+    "Version":           "3.9.0a3",
     "From":              "3.8.1",
     "BC":                "53%",
-    "Added":             15,
+    "Added":             17,
     "Removed":           259,
-    "TotalProblems":     123,
+    "TotalProblems":     125,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     1,

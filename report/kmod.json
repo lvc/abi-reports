@@ -6,6 +6,18 @@
 
   "Reports": [
   {
+    "Version":           "27",
+    "From":              26,
+    "BC":                "99.3%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     1,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
+    "TotalObjects":      1
+  },
+  {
     "Version":           "26",
     "From":              25,
     "BC":                "98.6%",

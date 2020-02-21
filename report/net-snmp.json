@@ -6,11 +6,11 @@
 
   "Reports": [
   {
-    "Version":           "5.8.1.pre1",
+    "Version":           "5.8.1.pre2",
     "From":              "5.8",
-    "BC":                "96.43%",
-    "Added":             5,
-    "Removed":           45,
+    "BC":                "96.56%",
+    "Added":             6,
+    "Removed":           43,
     "TotalProblems":     37,
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,

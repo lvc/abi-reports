@@ -7,7 +7,7 @@
   "Reports": [
   {
     "Version":           "3.0.0",
-    "From":              "2.10.5",
+    "From":              "2.10.6",
     "BC":                "43.14%",
     "Added":             432,
     "Removed":           111,
@@ -15,6 +15,18 @@
     "ObjectsAdded":      0,
     "ObjectsRemoved":    0,
     "ChangedSoname":     1,
+    "TotalObjects":      3
+  },
+  {
+    "Version":           "2.10.6",
+    "From":              "2.10.5",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     0,
     "TotalObjects":      3
   },
   {

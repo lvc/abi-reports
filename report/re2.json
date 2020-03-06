@@ -6,6 +6,18 @@
 
   "Reports": [
   {
+    "Version":           "2020-03-03",
+    "From":              "2020-03-02",
+    "BC":                "100%",
+    "Added":             0,
+    "Removed":           0,
+    "TotalProblems":     0,
+    "ObjectsAdded":      0,
+    "ObjectsRemoved":    0,
+    "ChangedSoname":     1,
+    "TotalObjects":      1
+  },
+  {
     "Version":           "2020-03-02",
     "From":              "2020-03-01",
     "BC":                "100%",

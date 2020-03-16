@@ -6,13 +6,13 @@
 
   "Reports": [
   {
-    "Version":           "6.20.00",
+    "Version":           "6.20.02",
     "From":              "6.19.02",
-    "BC":                "99.99%",
-    "Added":             0,
-    "Removed":           0,
-    "TotalProblems":     15,
-    "ObjectsAdded":      0,
+    "BC":                "99.94%",
+    "Added":             49,
+    "Removed":           45,
+    "TotalProblems":     18,
+    "ObjectsAdded":      3,
     "ObjectsRemoved":    0,
     "ChangedSoname":     0,
     "TotalObjects":      81
